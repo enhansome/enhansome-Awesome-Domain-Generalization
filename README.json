@@ -1,0 +1,2560 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization [ICCV 2021",
+          "description": "] [Code] [135]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-23T00:08:09Z",
+            "owner": "hendrycks",
+            "repo": "imagenet-r",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OoD-Bench: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization [CVPR 2022",
+          "description": "] [Code] (OoD-Bench) [214]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-01T15:20:18Z",
+            "owner": "ynysjtu",
+            "repo": "ood_bench",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization [WACV 2025",
+          "description": "] [Code] [232]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-31T07:29:03Z",
+            "owner": "NikosEfth",
+            "repo": "crafting-shifts",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Empirical Investigation of Domain Generalization with Empirical Risk Minimizers [NeurIPS 2021",
+          "description": "] [Code] [198]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-01-13T03:39:38Z",
+            "owner": "facebookresearch",
+            "repo": "domainbed_measures",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization by Marginal Transfer Learning [JMLR 2021",
+          "description": "] [Code] (MTL) [188]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-11-15T02:15:03Z",
+            "owner": "aniketde",
+            "repo": "DomainGeneralizationMarginal",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantifying and Improving Transferability in Domain Generalization [NeurIPS 2021",
+          "description": "] [Code] (Transfer) [206]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-01T21:19:41Z",
+            "owner": "Gordon-Guojun-Zhang",
+            "repo": "Transferability-NeurIPS2021",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Theory & Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Domain Adaptive Ensemble Learning [TIP 2021",
+          "description": "] [Code] (mini-DomainNet dataset) [34]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-03T10:38:13Z",
+            "owner": "KaiyangZhou",
+            "repo": "Dassl.pytorch",
+            "stars": 1428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariant Risk Minimization [arXiv 2019",
+          "description": "] [Code] (IRM, Colored MNIST dataset) [165]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-09-08T16:09:39Z",
+            "owner": "facebookresearch",
+            "repo": "InvariantRiskMinimization",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts [ICLR 2022",
+          "description": "] [Code] (MetaShift dataset) [213]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-29T17:10:59Z",
+            "owner": "Weixin-Liang",
+            "repo": "MetaShift",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Robust Representations by Projecting Superficial Statistics Out [ICLR 2019",
+          "description": "] [Code] (HEX, ImageNet-Sketch dataset) [35]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-07T14:50:25Z",
+            "owner": "HaohanWang",
+            "repo": "HEX",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Generate Novel Domains for Domain Generalization [ECCV 2020",
+          "description": "] [Code] (L2A-OT, Digits-DG dataset) [28]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-10T04:06:22Z",
+            "owner": "mousecpn",
+            "repo": "L2A-OT",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization for Object Recognition with Multi-Task Autoencoders [ICCV 2015",
+          "description": "] [Code] (MTAE, Rotated MNIST dataset) [6]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-30T08:06:44Z",
+            "owner": "Emma0118",
+            "repo": "mate",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Domain Generalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Domain-invariant Feature Exploration for Domain Generalization [TMLR 2022",
+          "description": "] [Code] (DIFEX) [209]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-18T22:06:58Z",
+            "owner": "jindongwang",
+            "repo": "transferlearning",
+            "stars": 14349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Single-Side Domain Generalization for Face Anti-Spoofing [CVPR 2020",
+          "description": "] [Code] (SSDG) [79]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-09T06:15:23Z",
+            "owner": "taylover-pei",
+            "repo": "SSDG-CVPR2020",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization using Causal Matching [ICML 2021",
+          "description": "] [Code] (MatchDG) [73]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-10-03T04:31:58Z",
+            "owner": "microsoft",
+            "repo": "robustdg",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization via Model-Agnostic Learning of Semantic Features [NeurIPS 2019",
+          "description": "] [Code] (MASF) [18]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:47:25Z",
+            "owner": "biomedia-mira",
+            "repo": "masf",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unified Deep Supervised Domain Adaptation and Generalization [ICCV 2017",
+          "description": "] [Code] (CCSA) [71]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-24T15:47:20Z",
+            "owner": "samotiian",
+            "repo": "CCSA",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization Using a Mixture of Multiple Latent Domains [AAAI 2020",
+          "description": "] [Code] [83]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-30T08:01:51Z",
+            "owner": "mil-tokyo",
+            "repo": "dg_mmld",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection [CVPR 2019",
+          "description": "] [Code] (MADDG) [78]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-29T12:28:02Z",
+            "owner": "rshaojimmy",
+            "repo": "MADDoG",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalizing to Unseen Domains via Distribution Matching [arXiv 2019",
+          "description": "] [Code] (G2DM) [81]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-02T03:20:57Z",
+            "owner": "belaalb",
+            "repo": "G2DM",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization [NeurIPS 2020",
+          "description": "] [Code] (LDDG) [75]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-04T05:24:37Z",
+            "owner": "wyf0912",
+            "repo": "LDDG",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization via Entropy Regularization [NeurIPS 2020",
+          "description": "] [Code] [86]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-01T08:51:36Z",
+            "owner": "sshan-zhao",
+            "repo": "DG_via_ER",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization with Adversarial Feature Learning [CVPR 2018",
+          "description": "] [Code] (MMD-AAE) [76]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-24T03:49:23Z",
+            "owner": "YuqiCui",
+            "repo": "MMD_AAE",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progressive Domain Expansion Network for Single Domain Generalization [CVPR 2021",
+          "description": "] [Code] (PDEN) [141]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-12T23:34:00Z",
+            "owner": "lileicv",
+            "repo": "PDEN",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalisation via Risk Distribution Matching [WACV 2024",
+          "description": "] [Code] (RDM) [234]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-19T15:06:57Z",
+            "owner": "nktoan",
+            "repo": "risk-distribution-matching",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization via Multidomain Discriminant Analysis [UAI 2020",
+          "description": "] [Code] (MDA) [70]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-08-28T03:17:24Z",
+            "owner": "amber0309",
+            "repo": "Multidomain-Discriminant-Analysis",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adversarial Invariant Feature Learning with Accuracy Constraint for Domain Generalization [ECMLPKDD 2019",
+          "description": "] [Code] (AFLAC) [84]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-06-18T05:36:21Z",
+            "owner": "akuzeee",
+            "repo": "AFLAC",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalization on Unseen Domains via Inference-Time Label-Preserving Target Projections [CVPR 2021",
+          "description": "] [Code] [118]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-06-13T19:47:47Z",
+            "owner": "yys-Polaris",
+            "repo": "InferenceTimeDG",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collaborative Semantic Aggregation and Calibration for Separated Domain Generalization [arXiv 2021",
+          "description": "] [Code] (CSAC) [161]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-12T13:57:04Z",
+            "owner": "junkunyuan",
+            "repo": "CSAC",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Correlation-aware Adversarial Domain Adaptation and Generalization [PR 2020",
+          "description": "] [Code] (CAADA) [80]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-09T17:21:50Z",
+            "owner": "mahfujur1",
+            "repo": "CA-DA-DG",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization via Invariant Feature Representation [ICML 2013",
+          "description": "] [Code] (DICA) [65]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-06T13:35:58Z",
+            "owner": "krikamol",
+            "repo": "dg-dica",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Domain Alignment-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Improve Unsupervised Domain Adaptation with Mixup Training [arXiv 2020",
+          "description": "] [Code*] (Mixup) [227]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-16T17:09:28Z",
+            "owner": "facebookresearch",
+            "repo": "DomainBed",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Domain-Adversarial Image Generation for Domain Generalisation [AAAI 2020",
+          "description": "] [Code] (DDAIG) [55]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-03T10:38:13Z",
+            "owner": "KaiyangZhou",
+            "repo": "Dassl.pytorch",
+            "stars": 1428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MixStyle Neural Networks for Domain Generalization and Adaptation [arXiv 2021",
+          "description": "] [Code] (MixStyle) [58]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-06T12:44:06Z",
+            "owner": "KaiyangZhou",
+            "repo": "mixstyle-release",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization with Mixstyle [ICLR 2021",
+          "description": "] [Code] (MixStyle) [56]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-06T12:44:06Z",
+            "owner": "KaiyangZhou",
+            "repo": "mixstyle-release",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [CVPR 2021",
+          "description": "] [Code] (FedDG) [147]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-01T03:54:12Z",
+            "owner": "liuquande",
+            "repo": "FedDG-ELCFS",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization by Solving Jigsaw Puzzles [CVPR 2019",
+          "description": "] [Code] (JiGen) [98]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T01:05:50Z",
+            "owner": "fmcarlucci",
+            "repo": "JigenDG",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Fourier-Based Framework for Domain Generalization [CVPR 2021",
+          "description": "] [Code] (FACT) [160]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-01T12:51:30Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "FACT",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalizing to Unseen Domains via Adversarial Data Augmentation [NeurIPS 2018",
+          "description": "] [Code] [25]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-24T08:30:14Z",
+            "owner": "ricvolpi",
+            "repo": "generalize-unseen-domains",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semi-Supervised Domain Generalization with Stochastic StyleMatch [arXiv 2021",
+          "description": "] [Code] (StyleMatch) [54]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-25T11:45:11Z",
+            "owner": "KaiyangZhou",
+            "repo": "ssdg-benchmark",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust and Generalizable Visual Representation Learning via Random Convolutions [ICLR 2021",
+          "description": "] [Code] (RC) [59]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-10T20:04:40Z",
+            "owner": "wildphoton",
+            "repo": "RandConv",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Principled Disentanglement for Domain Generalization [arXiv 2021",
+          "description": "] [Code] (DDG) [170]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-30T13:59:47Z",
+            "owner": "hlzhang109",
+            "repo": "DDG",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Recognizing Unseen Categories in Unseen Domains [ECCV 2020",
+          "description": "] [Code] (CuMix) [57]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T11:23:11Z",
+            "owner": "mancinimassimiliano",
+            "repo": "CuMix",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization [ECCV 2020",
+          "description": "] [Code] (EISNet) [99]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-22T02:27:43Z",
+            "owner": "emma-sjwang",
+            "repo": "EISNet",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Certifying Some Distributional Robustness with Principled Adversarial Training [arXiv 2017",
+          "description": "] [Code] [52]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-01T06:35:23Z",
+            "owner": "duchi-lab",
+            "repo": "certifiable-distributional-robustness",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSDR: Frequency Space Domain Randomization for Domain Generalization [CVPR 2021",
+          "description": "] [Code] (FSDR) [115]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-29T10:24:35Z",
+            "owner": "jxhuang0508",
+            "repo": "FSDR",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Domain Generalization with Domain-Augmented Meta-Learning [CVPR 2021",
+          "description": "] [Code] (DAML) [119]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-22T14:55:34Z",
+            "owner": "thuml",
+            "repo": "OpenDG-DAML",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model-Based Domain Generalization [NeurIPS 2021",
+          "description": "] [Code] (MBDG) [200]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-16T16:48:32Z",
+            "owner": "arobey1",
+            "repo": "mbdg",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Addressing Model Vulnerability to Distributional Shifts Over Image Transformation Sets [ICCV 2019",
+          "description": "] [Code] [21]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-17T10:59:00Z",
+            "owner": "ricvolpi",
+            "repo": "domain-shift-robustness",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heterogeneous Domain Generalization via Domain Mixup [ICASSP 2020",
+          "description": "] [Code] [128]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-03T17:00:11Z",
+            "owner": "wyf0912",
+            "repo": "MIXALL",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Optimal Representations for Covariate Shift [ICLR 2022",
+          "description": "] [Code] (CAD) [223]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-02T21:57:26Z",
+            "owner": "ryoungj",
+            "repo": "optdom",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalizing across Domains via Cross-Gradient Training [ICLR 2018",
+          "description": "] [Code] (CrossGrad) [53]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-28T16:43:00Z",
+            "owner": "vihari",
+            "repo": "crossgrad",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization [WACV 2025",
+          "description": "] [Code] [232]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-31T07:29:03Z",
+            "owner": "NikosEfth",
+            "repo": "crafting-shifts",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Generate Novel Domains for Domain Generalization [ECCV 2020",
+          "description": "] [Code] (L2A-OT, Digits-DG dataset) [28]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-10T04:06:22Z",
+            "owner": "mousecpn",
+            "repo": "L2A-OT",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VideoDG: Generalizing Temporal Relations in Videos to Novel Domains [TPAMI 2021",
+          "description": "] [Code] (APN) [197]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-27T08:09:29Z",
+            "owner": "thuml",
+            "repo": "VideoDG",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation [AAAI 2021",
+          "description": "] [Code] (DecAug) [171]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-28T18:34:31Z",
+            "owner": "HaoyueBaiZJU",
+            "repo": "DecAug",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization by Marginal Transfer Learning [JMLR 2021",
+          "description": "] [Code] [188]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2017-11-15T02:15:03Z",
+            "owner": "aniketde",
+            "repo": "DomainGeneralizationMarginal",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hallucinating Agnostic Images to Generalize Across Domains [ICCV workshop 2019",
+          "description": "] [Code] [63]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-10T09:37:38Z",
+            "owner": "fmcarlucci",
+            "repo": "ADAGE",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Cross-Domain Retrieval Generalizing Across Classes and Domains [ICCV 2021",
+          "description": "] [Code] (SnMpNet) [150]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-26T12:03:18Z",
+            "owner": "mvp18",
+            "repo": "UCDR",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-component Image Translation for Deep Domain Generalization [WACV 2019",
+          "description": "] [Code] [167]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-02T16:02:26Z",
+            "owner": "mahfujur1",
+            "repo": "mit-DG",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Label-Efficient Domain Generalization via Collaborative Exploration and Generalization [MM 2022",
+          "description": "] [Code] (CEG) [211]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-09T15:27:03Z",
+            "owner": "junkunyuan",
+            "repo": "CEG",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Universal Representation Learning for Deep Face Recognition [CVPR 2020",
+          "description": "] [Code] [22]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-04-01T13:01:37Z",
+            "owner": "MatyushinMA",
+            "repo": "uni_rep_deep_faces",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Learn Single Domain Generalization [CVPR 2020",
+          "description": "] [Code] (M-ADA) [27]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-15T07:36:59Z",
+            "owner": "joffery",
+            "repo": "M-ADA",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uncertainty-guided Model Generalization to Unseen Domains [CVPR 2021",
+          "description": "] [Code] [168]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-03T03:40:56Z",
+            "owner": "joffery",
+            "repo": "UMGUD",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Randomization and Pyramid Consistency: Simulation-to-Real Generalization Without Accessing Target Domain Data [ICCV 2019",
+          "description": "] [Code] [62]",
+          "children": []
+        }
+      ],
+      "title": "Data Augmentation-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning to Generalize: Meta-Learning for Domain Generalization [AAAI 2018",
+          "description": "] [Code] (MLDG) [1]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-17T09:44:50Z",
+            "owner": "HAHA-DL",
+            "repo": "MLDG",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization via Model-Agnostic Learning of Semantic Features [NeurIPS 2019",
+          "description": "] [Code] (MASF) [18]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:47:25Z",
+            "owner": "biomedia-mira",
+            "repo": "masf",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shape-Aware Meta-Learning for Generalizing Prostate MRI Segmentation to Unseen Domains [MICCAI 2020",
+          "description": "] [Code] (SAML) [17]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-05T04:13:42Z",
+            "owner": "liuquande",
+            "repo": "SAML",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta Batch-Instance Normalization for Generalizable Person Re-Identification [CVPR 2021",
+          "description": "] [Code] (MetaBIN) [13]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-10T01:50:46Z",
+            "owner": "bismex",
+            "repo": "MetaBIN",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [CVPR 2021",
+          "description": "] [Code] (M3L) [12]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-23T04:26:40Z",
+            "owner": "HeliosZhao",
+            "repo": "M3L",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Episodic Training for Domain Generalization [ICCV 2019",
+          "description": "] [Code] (Epi-FCR) [7]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:36:01Z",
+            "owner": "HAHA-DL",
+            "repo": "Episodic-DG",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature-Critic Networks for Heterogeneous Domain Generalisation [ICML 2019",
+          "description": "] [Code] (Feature-Critic) [5]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-14T13:21:02Z",
+            "owner": "liyiying",
+            "repo": "Feature_Critic",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Domain Generalization with Domain-Augmented Meta-Learning [CVPR 2021",
+          "description": "] [Code] (DAML) [119]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-22T14:55:34Z",
+            "owner": "thuml",
+            "repo": "OpenDG-DAML",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploiting Domain-Specific Features to Enhance Domain Generalization [NeurIPS 2021",
+          "description": "] [Code] (mDSDI) [202]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-26T06:25:17Z",
+            "owner": "hamanhbui",
+            "repo": "mDSDI",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frustratingly Simple Domain Generalization via Image Stylization [arXiv 2020",
+          "description": "] [Code] [60]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-25T15:35:26Z",
+            "owner": "GT-RIPL",
+            "repo": "DomainGeneralization-Stylization",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaReg: Towards Domain Generalization using Meta-Regularization [NeurIPS 2018",
+          "description": "] [Code*] (MetaReg) [4]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-04T15:40:32Z",
+            "owner": "elliotbeck",
+            "repo": "meta-reg-pytorch",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization via Semi-supervised Meta Learning [arXiv 2020",
+          "description": "] [Code] (DGSML) [127]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-03T16:20:16Z",
+            "owner": "hosseinshn",
+            "repo": "DGSML",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaNorm: Learning to Normalize Few-Shot Batches Across Domains [ICLR 2021",
+          "description": "] [Code] (MetaNorm) [19]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-21T14:05:47Z",
+            "owner": "YDU-AI",
+            "repo": "MetaNorm",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Learn Single Domain Generalization [CVPR 2020",
+          "description": "] [Code] (M-ADA) [27]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-15T07:36:59Z",
+            "owner": "joffery",
+            "repo": "M-ADA",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uncertainty-guided Model Generalization to Unseen Domains [CVPR 2021",
+          "description": "] [Code] [168]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-03T03:40:56Z",
+            "owner": "joffery",
+            "repo": "UMGUD",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Meta-Learning-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Domain Adaptive Ensemble Learning [TIP 2021",
+          "description": "] [Code] (mini-DomainNet dataset) [34]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-03T10:38:13Z",
+            "owner": "KaiyangZhou",
+            "repo": "Dassl.pytorch",
+            "stars": 1428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification [NeurIPS 2021",
+          "description": "] [Code] (TransMatcher) [208]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T09:56:01Z",
+            "owner": "ShengcaiLiao",
+            "repo": "QAConv",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MS-Net: Multi-Site Network for Improving Prostate Segmentation with Heterogeneous MRI Data [TMI 2020",
+          "description": "] [Code] (MS-Net) [95]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-01T09:25:51Z",
+            "owner": "liuquande",
+            "repo": "MS-Net",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Place Categorization with Deep Domain Generalization [IEEE Robotics and Automation Letters 2018",
+          "description": "] [Code] (COLD) [97]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-06-02T11:04:29Z",
+            "owner": "mancinimassimiliano",
+            "repo": "caffe",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Ensemble Learning-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [CVPR 2021",
+          "description": "] [Code] (FedDG) [147]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-01T03:54:12Z",
+            "owner": "liuquande",
+            "repo": "FedDG-ELCFS",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization by Solving Jigsaw Puzzles [CVPR 2019",
+          "description": "] [Code] (JiGen) [98]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T01:05:50Z",
+            "owner": "fmcarlucci",
+            "repo": "JigenDG",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization [ECCV 2020",
+          "description": "] [Code] (EISNet) [99]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-22T02:27:43Z",
+            "owner": "emma-sjwang",
+            "repo": "EISNet",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Progressive Domain Expansion Network for Single Domain Generalization [CVPR 2021",
+          "description": "] [Code] (PDEN) [141]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-12T23:34:00Z",
+            "owner": "lileicv",
+            "repo": "PDEN",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Domain Generalization by Learning a Bridge Across Domains [CVPR 2022",
+          "description": "] [Code] (BrAD) [182]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-04T10:28:10Z",
+            "owner": "leokarlin",
+            "repo": "BrAD",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization for Mammography Detection via Multi-style and Multi-view Contrastive Learning [MICCAI 2021",
+          "description": "] [Code] (MSVCL) [172]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-22T02:01:22Z",
+            "owner": "lizheren",
+            "repo": "MSVCL_MICCAI2021",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zero Shot Domain Generalization [BMVC 2020",
+          "description": "] [Code] [100]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-10T23:11:38Z",
+            "owner": "aniketde",
+            "repo": "ZeroShotDG",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Learning Across Domains [TPAMI 2021",
+          "description": "] [Code] [101]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-04T08:26:04Z",
+            "owner": "silvia1993",
+            "repo": "Self-Supervised_Learning_Across_Domains",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization for Object Recognition with Multi-Task Autoencoders [ICCV 2015",
+          "description": "] [Code] (MTAE, Rotated MNIST dataset) [6]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-30T08:06:44Z",
+            "owner": "Emma0118",
+            "repo": "mate",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Self-Supervised Learning-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robustnet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening [CVPR 2021",
+          "description": "] [Code] (RobustNet) [193]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-15T06:24:37Z",
+            "owner": "sunghac",
+            "repo": "RobustNet",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIVA: Domain Invariant Variational Autoencoders [ICML workshop 2019",
+          "description": "] [Code] (DIVA) [107]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-22T17:02:58Z",
+            "owner": "AMLab-Amsterdam",
+            "repo": "DIVA",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reducing Domain Gap by Reducing Style Bias [CVPR 2021",
+          "description": "] [Code] (SagNet) [230]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-01T06:55:28Z",
+            "owner": "hyseob",
+            "repo": "SagNet",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Principled Disentanglement for Domain Generalization [arXiv 2021",
+          "description": "] [Code] (DDG) [170]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-30T13:59:47Z",
+            "owner": "hlzhang109",
+            "repo": "DDG",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Balance Specificity and Invariance for In and Out of* Domain Generalization [ECCV 2020",
+          "description": "] [Code] (DMG) [104]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-24T21:39:06Z",
+            "owner": "prithv1",
+            "repo": "DMG",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Domain Generalization via Common-Specific Low-Rank Decomposition [ICML 2020",
+          "description": "] [Code] (CSD) [105]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-10T06:11:50Z",
+            "owner": "vihari",
+            "repo": "CSD",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploiting Domain-Specific Features to Enhance Domain Generalization [NeurIPS 2021",
+          "description": "] [Code] (mDSDI) [202]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-26T06:25:17Z",
+            "owner": "hamanhbui",
+            "repo": "mDSDI",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Undoing the Damage of Dataset Bias [ECCV 2012",
+          "description": "] [Code] [103]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2013-09-05T23:31:32Z",
+            "owner": "adikhosla",
+            "repo": "undoing-bias",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation [AAAI 2021",
+          "description": "] [Code] (DecAug) [171]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-28T18:34:31Z",
+            "owner": "HaoyueBaiZJU",
+            "repo": "DecAug",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Disentangled Representation Learning-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "When Can We Formulate the Out-of-Distribution Generalization Problem as an Invariance Problem? [arXiv 2021",
+          "description": "] [Code*] (IGA) [219]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-16T17:09:28Z",
+            "owner": "facebookresearch",
+            "repo": "DomainBed",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAND-mask: An Enhanced Gradient Masking Strategy for the Discovery of Invariances in Domain Generalization [arXiv 2021",
+          "description": "] [Code*] (SANDMask) [222]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-16T17:09:28Z",
+            "owner": "facebookresearch",
+            "repo": "DomainBed",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Explanations that are Hard to Vary [ICLR 2021",
+          "description": "] [Code*] (ANDMask) [221]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-16T17:09:28Z",
+            "owner": "facebookresearch",
+            "repo": "DomainBed",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gradient Starvation: A Learning Proclivity in Neural Networks [NeurIPS 2021",
+          "description": "] [Code*] (SD) [225]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-16T17:09:28Z",
+            "owner": "facebookresearch",
+            "repo": "DomainBed",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariant Risk Minimization [arXiv 2019",
+          "description": "] [Code] (IRM, Colored MNIST dataset) [165]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-09-08T16:09:39Z",
+            "owner": "facebookresearch",
+            "repo": "InvariantRiskMinimization",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distributionally Robust Neural Networks for Group Shifts On the Importance of Regularization for Worst-Case Generalization [ICLR 2020",
+          "description": "] [Code] (DroupDRO) [218]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-03T08:24:59Z",
+            "owner": "kohpangwei",
+            "repo": "group_DRO",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Fourier-Based Framework for Domain Generalization [CVPR 2021",
+          "description": "] [Code] (FACT) [160]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-01T12:51:30Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "FACT",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swad: Domain Generalization by Seeking Flat Minima [NeurIPS 2021",
+          "description": "] [Code] (SWAD) [201]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-10T12:37:56Z",
+            "owner": "khanrc",
+            "repo": "swad",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-challenging Improves Cross-Domain Generalization [ECCV 2020",
+          "description": "] [Code] (RSC) [64]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-18T18:34:20Z",
+            "owner": "DeLightCMU",
+            "repo": "RSC",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gradient Matching for Domain Generalization [ICLR 2022",
+          "description": "] [Code] (Fish) [224]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-14T23:43:43Z",
+            "owner": "YugeTen",
+            "repo": "fish",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fishr: Invariant Gradient Variances for Our-of-distribution Generalization [ICML 2022",
+          "description": "] [Code] (Fishr) [173]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-25T08:31:52Z",
+            "owner": "alexrame",
+            "repo": "fishr",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adaptive Risk Minimization: Learning to Adapt to Domain Shift [NeurIPS 2021",
+          "description": "] [Code] (ARM) [228]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-23T00:04:00Z",
+            "owner": "henrikmarklund",
+            "repo": "arm",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization via Gradient Surgery [ICCV 2021",
+          "description": "] [Code] (Agr) [148]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-03T23:52:10Z",
+            "owner": "lucasmansilla",
+            "repo": "DGvGS",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model-Based Domain Generalization [NeurIPS 2021",
+          "description": "] [Code] (MBDG) [200]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-16T16:48:32Z",
+            "owner": "arobey1",
+            "repo": "mbdg",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Robust Representations by Projecting Superficial Statistics Out [ICLR 2019",
+          "description": "] [Code] (HEX, ImageNet-Sketch dataset) [35]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-07T14:50:25Z",
+            "owner": "HaohanWang",
+            "repo": "HEX",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalisation via Risk Distribution Matching [WACV 2024",
+          "description": "] [Code] (RDM) [234]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-19T15:06:57Z",
+            "owner": "nktoan",
+            "repo": "risk-distribution-matching",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Representations that Support Robust Transfer of Predictors [arXiv 2021",
+          "description": "] [Code] (TRM) [220]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-07T03:54:44Z",
+            "owner": "Newbeeer",
+            "repo": "TRM",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Energy-based Out-of-distribution Detection [NeurIPS 2020",
+          "description": "] [Code] [181]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-23T00:43:12Z",
+            "owner": "xieshuqin",
+            "repo": "Energy-OOD",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quantifying and Improving Transferability in Domain Generalization [NeurIPS 2021",
+          "description": "] [Code] [206]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-01T21:19:41Z",
+            "owner": "Gordon-Guojun-Zhang",
+            "repo": "Transferability-NeurIPS2021",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time [NeurIPS 2021",
+          "description": "] [Code] (GI) [204]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-17T08:17:18Z",
+            "owner": "anshuln",
+            "repo": "Training-for-the-Future",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaReg: Towards Domain Generalization using Meta-Regularization [NeurIPS 2018",
+          "description": "] [Code*] (MetaReg) [4]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-04T15:40:32Z",
+            "owner": "elliotbeck",
+            "repo": "meta-reg-pytorch",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Global-Local Regularization Via Distributional Robustness [AISTATS 2023]",
+          "description": "[Code] (GLOT) [231]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T00:53:09Z",
+            "owner": "VietHoang1512",
+            "repo": "GLOT",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Regularization-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep CORAL: Correlation Alignment for Deep Domain Adaptation [ECCV 2016",
+          "description": "] [Code] (CORAL) [229]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-16T17:09:28Z",
+            "owner": "facebookresearch",
+            "repo": "DomainBed",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta Batch-Instance Normalization for Generalizable Person Re-Identification [CVPR 2021",
+          "description": "] [Code] (MetaBIN) [13]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-10T01:50:46Z",
+            "owner": "bismex",
+            "repo": "MetaBIN",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaNorm: Learning to Normalize Few-Shot Batches Across Domains [ICLR 2021",
+          "description": "] [Code] (MetaNorm) [19]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-21T14:05:47Z",
+            "owner": "YDU-AI",
+            "repo": "MetaNorm",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [CVPR 2021",
+              "description": "] [Code] (M3L) [12]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-06-23T04:26:40Z",
+                "owner": "HeliosZhao",
+                "repo": "M3L",
+                "stars": 66
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Normalization-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Progressive Domain Expansion Network for Single Domain Generalization [CVPR 2021",
+          "description": "] [Code] (PDEN) [141]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-12T23:34:00Z",
+            "owner": "lileicv",
+            "repo": "PDEN",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariance Principle Meets Information Bottleneck for Out-Of-Distribution Generalization [NeurIPS 2021",
+          "description": "] [Code] (IB-IRM) [207]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-13T21:41:07Z",
+            "owner": "ahujak",
+            "repo": "IB-IRM",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploiting Domain-Specific Features to Enhance Domain Generalization [NeurIPS 2021",
+          "description": "] [Code] (mDSDI) [202]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-26T06:25:17Z",
+            "owner": "hamanhbui",
+            "repo": "mDSDI",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariant Information Bottleneck for Domain Generalization [AAAI 2022",
+          "description": "] [Code] (IIB) [140]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-30T06:53:08Z",
+            "owner": "Luodian",
+            "repo": "IIB",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning To Diversify for Single Domain Generalization [ICCV 2021",
+          "description": "] [Code] [158]",
+          "children": []
+        }
+      ],
+      "title": "Information-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Out-of-Distribution Generalization via Risk Extrapolation [ICML 2021",
+          "description": "] [Code] (VREx) [217]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-16T17:09:28Z",
+            "owner": "facebookresearch",
+            "repo": "DomainBed",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariant Causal Mechanisms through Distribution Matching [arXiv 2022",
+          "description": "] [Code*] (CausIRL-CORAL, CausIRL-MMD) [216]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-12-16T17:09:28Z",
+            "owner": "facebookresearch",
+            "repo": "DomainBed",
+            "stars": 1631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariant Risk Minimization [arXiv 2019",
+          "description": "] [Code] (IRM, Colored MNIST dataset) [165]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-09-08T16:09:39Z",
+            "owner": "facebookresearch",
+            "repo": "InvariantRiskMinimization",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Stable Learning for Out-of-Distribution Generalization [CVPR 2021",
+          "description": "] [Code] (StableNet) [117]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-14T17:53:32Z",
+            "owner": "xxgege",
+            "repo": "StableNet",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization using Causal Matching [ICML 2021",
+          "description": "] [Code] (MatchDG) [73]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-10-03T04:31:58Z",
+            "owner": "microsoft",
+            "repo": "robustdg",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Causal Semantic Representation for Out-of-Distribution Prediction [NeurIPS 2021",
+          "description": "] [Code] (CSG-ind) [145]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-18T15:12:50Z",
+            "owner": "changliu00",
+            "repo": "causal-semantic-generative-model",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariance Principle Meets Information Bottleneck for Out-Of-Distribution Generalization [NeurIPS 2021",
+          "description": "] [Code] (IB-ERM, IB-IRM) [207]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-13T21:41:07Z",
+            "owner": "ahujak",
+            "repo": "IB-IRM",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Causal Inference via Style Transfer for Out-of-distribution Generalisation [KDD 2023",
+          "description": "] [Code] (FAST, FAFT, FAGT) [233]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-29T03:44:05Z",
+            "owner": "nktoan",
+            "repo": "Causal-Inference-via-Style-Transfer-for-OOD-Generalisation",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recovering Latent Causal Factor for Generalization to Distributional Shifts [NeurIPS 2021",
+          "description": "] [Code] (LaCIM) [152]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-24T14:45:14Z",
+            "owner": "wubotong",
+            "repo": "LaCIM",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invariant Information Bottleneck for Domain Generalization [AAAI 2022",
+          "description": "] [Code] (IIB) [140]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-30T06:53:08Z",
+            "owner": "Luodian",
+            "repo": "IIB",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Causality-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization [NeurIPS 2021",
+          "description": "] [Code] (T3A) [136]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-02T07:11:37Z",
+            "owner": "matsuolab",
+            "repo": "T3A",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adaptive Methods for Real-World Domain Generalization [CVPR 2021",
+          "description": "] [Code] (DA-ERM) [132]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-17T13:38:30Z",
+            "owner": "abhimanyudubey",
+            "repo": "GeoYFCC",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalization on Unseen Domains via Inference-Time Label-Preserving Target Projections [CVPR 2021",
+          "description": "] [Code] [118]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-06-13T19:47:47Z",
+            "owner": "yys-Polaris",
+            "repo": "InferenceTimeDG",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Inference-Time-Based Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Progressive Domain Expansion Network for Single Domain Generalization [CVPR 2021",
+          "description": "] [Code] (PDEN) [141]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-12T23:34:00Z",
+            "owner": "lileicv",
+            "repo": "PDEN",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization [WACV 2025",
+          "description": "] [Code] [232]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-31T07:29:03Z",
+            "owner": "NikosEfth",
+            "repo": "crafting-shifts",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Learn Single Domain Generalization [CVPR 2020",
+          "description": "] [Code] (M-ADA) [27]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-15T07:36:59Z",
+            "owner": "joffery",
+            "repo": "M-ADA",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uncertainty-guided Model Generalization to Unseen Domains [CVPR 2021",
+          "description": "] [Code] [168]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-03T03:40:56Z",
+            "owner": "joffery",
+            "repo": "UMGUD",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning To Diversify for Single Domain Generalization [ICCV 2021",
+          "description": "] [Code] [158]",
+          "children": []
+        }
+      ],
+      "title": "Single Domain Generalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Semi-Supervised Domain Generalization with Stochastic StyleMatch [arXiv 2021",
+          "description": "] [Code] (StyleMatch) [54]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-25T11:45:11Z",
+            "owner": "KaiyangZhou",
+            "repo": "ssdg-benchmark",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Domain Generalization by Learning a Bridge Across Domains [CVPR 2022",
+          "description": "] [Code] (BrAD) [182]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-04T10:28:10Z",
+            "owner": "leokarlin",
+            "repo": "BrAD",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain-Specific Bias Filtering for Single Labeled Domain Generalization [IJCV 2022",
+          "description": "] [Code] (DSBF) [162]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-10T05:59:54Z",
+            "owner": "junkunyuan",
+            "repo": "DSBF",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization via Semi-supervised Meta Learning [arXiv 2020",
+          "description": "] [Code] (DGSML) [127]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-03T16:20:16Z",
+            "owner": "hosseinshn",
+            "repo": "DGSML",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Label-Efficient Domain Generalization via Collaborative Exploration and Generalization [MM 2022",
+          "description": "] [Code] (CEG) [211]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-09T15:27:03Z",
+            "owner": "junkunyuan",
+            "repo": "CEG",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Semi/Weak/Un-Supervised Domain Generalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Towards Recognizing Unseen Categories in Unseen Domains [ECCV 2020",
+          "description": "] [Code] (CuMix) [57]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T11:23:11Z",
+            "owner": "mancinimassimiliano",
+            "repo": "CuMix",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Episodic Training for Domain Generalization [ICCV 2019",
+          "description": "] [Code] (Epi-FCR) [7]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:36:01Z",
+            "owner": "HAHA-DL",
+            "repo": "Episodic-DG",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature-Critic Networks for Heterogeneous Domain Generalisation [ICML 2019",
+          "description": "] [Code] (Feature-Critic) [5]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-14T13:21:02Z",
+            "owner": "liyiying",
+            "repo": "Feature_Critic",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Domain Generalization with Domain-Augmented Meta-Learning [CVPR 2021",
+          "description": "] [Code] (DAML) [119]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-22T14:55:34Z",
+            "owner": "thuml",
+            "repo": "OpenDG-DAML",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heterogeneous Domain Generalization via Domain Mixup [ICASSP 2020",
+          "description": "] [Code] [128]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-03T17:00:11Z",
+            "owner": "wyf0912",
+            "repo": "MIXALL",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Cross-Domain Retrieval Generalizing Across Classes and Domains [ICCV 2021",
+          "description": "] [Code] (SnMpNet) [150]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-26T12:03:18Z",
+            "owner": "mvp18",
+            "repo": "UCDR",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Open/Heterogeneous Domain Generalization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [CVPR 2021",
+          "description": "] [Code] (FedDG) [147]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-01T03:54:12Z",
+            "owner": "liuquande",
+            "repo": "FedDG-ELCFS",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collaborative Semantic Aggregation and Calibration for Separated Domain Generalization [arXiv 2021",
+          "description": "] [Code] (CSAC) [161]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-12T13:57:04Z",
+            "owner": "junkunyuan",
+            "repo": "CSAC",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Federated Domain Generalization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning Generalisable Omni-Scale Representations for Person Re-Identification [TPAMI 2021",
+          "description": "] [Code] [114]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-09T05:23:24Z",
+            "owner": "KaiyangZhou",
+            "repo": "deep-person-reid",
+            "stars": 4892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Domain-Adversarial Image Generation for Domain Generalisation [AAAI 2020",
+          "description": "] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-03T10:38:13Z",
+            "owner": "KaiyangZhou",
+            "repo": "Dassl.pytorch",
+            "stars": 1428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain Generalization with Mixstyle [ICLR 2021",
+          "description": "] [Code] (MixStyle) [56]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-06T12:44:06Z",
+            "owner": "KaiyangZhou",
+            "repo": "mixstyle-release",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification [NeurIPS 2021",
+          "description": "] [Code] (TransMatcher) [208]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T09:56:01Z",
+            "owner": "ShengcaiLiao",
+            "repo": "QAConv",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta Batch-Instance Normalization for Generalizable Person Re-Identification [CVPR 2021",
+          "description": "] [Code] (MetaBIN) [13]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-10T01:50:46Z",
+            "owner": "bismex",
+            "repo": "MetaBIN",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification [CVPR 2021",
+          "description": "] [Code] (M3L) [12]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-23T04:26:40Z",
+            "owner": "HeliosZhao",
+            "repo": "M3L",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Generate Novel Domains for Domain Generalization [ECCV 2020",
+          "description": "] [Code] (L2A-OT, Digits-DG dataset) [28]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-10T04:06:22Z",
+            "owner": "mousecpn",
+            "repo": "L2A-OT",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Person Re-Identification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Single-Side Domain Generalization for Face Anti-Spoofing [CVPR 2020",
+          "description": "] [Code] (SSDG) [79]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-09T06:15:23Z",
+            "owner": "taylover-pei",
+            "repo": "SSDG-CVPR2020",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection [CVPR 2019",
+          "description": "] [Code] (MADDG) [78]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-29T12:28:02Z",
+            "owner": "rshaojimmy",
+            "repo": "MADDoG",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Universal Representation Learning for Deep Face Recognition [CVPR 2020",
+          "description": "] [Code] [22]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-04-01T13:01:37Z",
+            "owner": "MatyushinMA",
+            "repo": "uni_rep_deep_faces",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Face Recognition & Anti-Spoofing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Related Topics"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:08.639Z",
+    "original_repository": "junkunyuan/Awesome-Domain-Generalization",
+    "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Domain-Generalization",
+    "enhanced_repository_description": null,
+    "title": "Awesome Domain Generalization with stars"
+  }
+}
