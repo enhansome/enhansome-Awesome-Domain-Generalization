@@ -199,7 +199,7 @@
             "last_commit": "2025-02-18T22:06:58Z",
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14346
+            "stars": 14348
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2019-05-14T13:21:02Z",
             "owner": "liyiying",
             "repo": "Feature_Critic",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -2304,7 +2304,7 @@
             "last_commit": "2019-05-14T13:21:02Z",
             "owner": "liyiying",
             "repo": "Feature_Critic",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -2405,7 +2405,7 @@
             "last_commit": "2026-01-09T05:23:24Z",
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4896
+            "stars": 4897
           }
         },
         {
@@ -2550,7 +2550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:54:59.353Z",
+    "last_updated": "2026-08-17T14:57:17.684Z",
     "original_repository": "junkunyuan/Awesome-Domain-Generalization",
     "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",
     "enhanced_repository": "enhansome/enhansome-Awesome-Domain-Generalization",
