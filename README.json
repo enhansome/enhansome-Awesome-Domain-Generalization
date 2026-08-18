@@ -199,7 +199,7 @@
             "last_commit": "2025-02-18T22:06:58Z",
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14348
+            "stars": 14351
           }
         },
         {
@@ -1980,7 +1980,7 @@
             "last_commit": "2022-03-14T17:53:32Z",
             "owner": "xxgege",
             "repo": "StableNet",
-            "stars": 201
+            "stars": 200
           }
         },
         {
@@ -2550,7 +2550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:57:17.684Z",
+    "last_updated": "2026-08-18T15:04:55.892Z",
     "original_repository": "junkunyuan/Awesome-Domain-Generalization",
     "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",
     "enhanced_repository": "enhansome/enhansome-Awesome-Domain-Generalization",
