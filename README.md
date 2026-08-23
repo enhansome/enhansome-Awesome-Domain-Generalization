@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,878 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,170 | 🐛 106 | 📅 2026-08-21
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -167,7 +167,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * Open Domain Generalization with Domain-Augmented Meta-Learning \[[CVPR 2021](http://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf)] \[[Code](https://github.com/thuml/OpenDG-DAML) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2021-08-22] (**DAML**) \[119]
 * Model-Based Domain Generalization \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/a8f12d9486cbcc2fe0cfc5352011ad35-Paper.pdf)] \[[Code](https://github.com/arobey1/mbdg) ⭐ 37 | 🐛 4 | 🌐 Python | 📅 2021-06-16] (**MBDG**) \[200]
 * Addressing Model Vulnerability to Distributional Shifts Over Image Transformation Sets \[[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Volpi_Addressing_Model_Vulnerability_to_Distributional_Shifts_Over_Image_Transformation_Sets_ICCV_2019_paper.pdf)] \[[Code](https://github.com/ricvolpi/domain-shift-robustness) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2020-03-17] \[21]
-* Heterogeneous Domain Generalization via Domain Mixup \[[ICASSP 2020](https://arxiv.org/pdf/2009.05448)] \[[Code](https://github.com/wyf0912/MIXALL) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2020-08-03] \[128]
+* Heterogeneous Domain Generalization via Domain Mixup \[[ICASSP 2020](https://arxiv.org/pdf/2009.05448)] \[[Code](https://github.com/wyf0912/MIXALL) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2020-08-03] \[128]
 * Optimal Representations for Covariate Shift \[[ICLR 2022](https://arxiv.org/pdf/2201.00057)] \[[Code](https://github.com/ryoungj/optdom) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2022-02-02] (**CAD**) \[223]
 * Generalizing across Domains via Cross-Gradient Training \[[ICLR 2018](https://arxiv.53yu.com/pdf/1804.10745)] \[[Code](https://github.com/vihari/crossgrad) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2018-12-28] (**CrossGrad**) \[53]
 * Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization \[[WACV 2025](https://arxiv.org/abs/2409.19774)] \[[Code](https://github.com/NikosEfth/crafting-shifts) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2025-08-31] \[232]
@@ -429,7 +429,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * Episodic Training for Domain Generalization \[[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2019_paper.pdf)] \[[Code](https://github.com/HAHA-DL/Episodic-DG) ⭐ 57 | 🐛 6 | 🌐 Python | 📅 2023-07-06] (**Epi-FCR**) \[7]
 * Feature-Critic Networks for Heterogeneous Domain Generalisation \[[ICML 2019](http://proceedings.mlr.press/v97/li19l/li19l.pdf)] \[[Code](https://github.com/liyiying/Feature_Critic) ⭐ 55 | 🐛 9 | 🌐 Python | 📅 2019-05-14] (**Feature-Critic**) \[5]
 * Open Domain Generalization with Domain-Augmented Meta-Learning \[[CVPR 2021](http://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf)] \[[Code](https://github.com/thuml/OpenDG-DAML) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2021-08-22] (**DAML**) \[119]
-* Heterogeneous Domain Generalization via Domain Mixup \[[ICASSP 2020](https://arxiv.org/pdf/2009.05448)] \[[Code](https://github.com/wyf0912/MIXALL) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2020-08-03] \[128]
+* Heterogeneous Domain Generalization via Domain Mixup \[[ICASSP 2020](https://arxiv.org/pdf/2009.05448)] \[[Code](https://github.com/wyf0912/MIXALL) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2020-08-03] \[128]
 * Universal Cross-Domain Retrieval Generalizing Across Classes and Domains \[[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Paul_Universal_Cross-Domain_Retrieval_Generalizing_Across_Classes_and_Domains_ICCV_2021_paper.pdf)] \[[Code](https://github.com/mvp18/UCDR) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2021-09-26] (**SnMpNet**) \[150]
 
 ## Federated Domain Generalization
@@ -552,7 +552,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > We list the GitHub libraries of domain generalization (sorted by stars).
 
 * [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,348 | 🐛 24 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
-* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,930 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
+* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,931 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
 * [DomainBed (facebookresearch)](https://github.com/facebookresearch/DomainBed) ⚠️ Archived \[134] is a suite to test domain generalization algorithms.
 * [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,428 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
 
@@ -589,4 +589,4 @@ The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

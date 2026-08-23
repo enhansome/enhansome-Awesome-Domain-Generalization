@@ -775,7 +775,7 @@
                     "last_commit": "2020-08-03T17:00:11Z",
                     "owner": "wyf0912",
                     "repo": "MIXALL",
-                    "stars": 26
+                    "stars": 27
                   }
                 },
                 {
@@ -2491,7 +2491,7 @@
                 "last_commit": "2020-08-03T17:00:11Z",
                 "owner": "wyf0912",
                 "repo": "MIXALL",
-                "stars": 26
+                "stars": 27
               }
             },
             {
@@ -2755,7 +2755,7 @@
             "last_commit": "2024-05-10T06:59:42Z",
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3930
+            "stars": 3931
           }
         },
         {
@@ -2844,7 +2844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:53:43.556Z",
+    "last_updated": "2026-08-23T14:55:29.800Z",
     "original_repository": "junkunyuan/Awesome-Domain-Generalization",
     "original_repository_id": 456522005,
     "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",
