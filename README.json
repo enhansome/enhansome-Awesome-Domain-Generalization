@@ -1254,7 +1254,7 @@
                     "last_commit": "2026-07-09T09:56:01Z",
                     "owner": "ShengcaiLiao",
                     "repo": "QAConv",
-                    "stars": 220
+                    "stars": 219
                   }
                 },
                 {
@@ -2612,7 +2612,7 @@
                     "last_commit": "2026-07-09T09:56:01Z",
                     "owner": "ShengcaiLiao",
                     "repo": "QAConv",
-                    "stars": 220
+                    "stars": 219
                   }
                 },
                 {
@@ -2724,6 +2724,42 @@
         }
       ],
       "title": "Papers"
+    },
+    {
+      "description": "Evaluations on the following datasets often follow leave-one-domain-out protocol: randomly choose one domain to hold out as the target domain, while the others are used as the source domain(s).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rotated MNIST [6]",
+          "description": "(original) Handwritten digit recognition; 6 domains with rotated degree: {0, 15, 30, 45, 60, 75}; 7,000 samples of dimension (1, 28, 28); 10 classes [5], [6], [15], [35], [53], [55], [63], [71], [73], [74], [76], [77], [86], [90], [105], [107], [138], [140], [170], [173], [202], [204], [206], [216], [222], [224]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237165904,
+            "language": "Python",
+            "last_commit": "2020-01-30T08:06:44Z",
+            "owner": "Emma0118",
+            "repo": "mate",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CIFAR-10-C / CIFAR-100-C / ImageNet-C [37]",
+          "description": "(original) Object recognition; the test data are damaged by 15 corruptions (each with 5 intensity levels) drawn from 4 categories (noise, blur, weather, and digital); 60,000/60,000/1.3M samples [27], [69], [74], [116], [141], [151], [168]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128312370,
+            "language": "Python",
+            "last_commit": "2022-08-24T14:27:43Z",
+            "owner": "hendrycks",
+            "repo": "robustness",
+            "stars": 1171
+          }
+        }
+      ],
+      "title": "Datasets"
     },
     {
       "description": "We list the GitHub libraries of domain generalization (sorted by stars).",
@@ -2844,7 +2880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:55:29.800Z",
+    "last_updated": "2026-08-24T14:22:02.939Z",
     "original_repository": "junkunyuan/Awesome-Domain-Generalization",
     "original_repository_id": 456522005,
     "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",

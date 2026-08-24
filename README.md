@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,170 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,516 | 🐛 106 | 📅 2026-08-21
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -229,7 +229,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > Ensemble learning-based methods mainly train a domain-specific model on each source domain, and then draw on collective wisdom to make accurate prediction.
 
 * Domain Adaptive Ensemble Learning \[[TIP 2021](https://arxiv.53yu.com/pdf/2003.07325)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,428 | 🐛 29 | 🌐 Python | 📅 2023-11-03] (**mini-DomainNet dataset**) \[34]
-* TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0f49c89d1e7298bb9930789c8ed59d48-Paper.pdf)] \[[Code](https://github.com/ShengcaiLiao/QAConv) ⭐ 220 | 🐛 0 | 🌐 Python | 📅 2026-07-09] (**TransMatcher**) \[208]
+* TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0f49c89d1e7298bb9930789c8ed59d48-Paper.pdf)] \[[Code](https://github.com/ShengcaiLiao/QAConv) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-07-09] (**TransMatcher**) \[208]
 * MS-Net: Multi-Site Network for Improving Prostate Segmentation with Heterogeneous MRI Data \[[TMI 2020](https://arxiv.53yu.com/pdf/2002.03366)] \[[Code](https://github.com/liuquande/MS-Net) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2020-07-01] (**MS-Net**) \[95]
 * Robust Place Categorization with Deep Domain Generalization \[[IEEE Robotics and Automation Letters 2018](https://arxiv.53yu.com/pdf/1805.12048)] \[[Code](https://github.com/mancinimassimiliano/caffe) ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2018-06-02] (**COLD**) \[97]
 * Exploiting Low-Rank Structure from Latent Domains for Domain Generalization \[[ECCV 2014](https://linkspringer.53yu.com/content/pdf/10.1007/978-3-319-10578-9_41.pdf)] \[87]
@@ -453,7 +453,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * Learning Generalisable Omni-Scale Representations for Person Re-Identification \[[TPAMI 2021](https://arxiv.org/pdf/1910.06827)] \[[Code](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,899 | 🐛 163 | 🌐 Python | 📅 2026-01-09] \[114]
 * Deep Domain-Adversarial Image Generation for Domain Generalisation \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/download/7003/6857)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,428 | 🐛 29 | 🌐 Python | 📅 2023-11-03]
 * Domain Generalization with Mixstyle \[[ICLR 2021](https://arxiv.53yu.com/pdf/2104.02008)] \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 334 | 🐛 10 | 🌐 Python | 📅 2022-10-06] (**MixStyle**) \[56]
-* TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0f49c89d1e7298bb9930789c8ed59d48-Paper.pdf)] \[[Code](https://github.com/ShengcaiLiao/QAConv) ⭐ 220 | 🐛 0 | 🌐 Python | 📅 2026-07-09] (**TransMatcher**) \[208]
+* TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0f49c89d1e7298bb9930789c8ed59d48-Paper.pdf)] \[[Code](https://github.com/ShengcaiLiao/QAConv) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-07-09] (**TransMatcher**) \[208]
 * Meta Batch-Instance Normalization for Generalizable Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Meta_Batch-Instance_Normalization_for_Generalizable_Person_Re-Identification_CVPR_2021_paper.pdf)] \[[Code](https://github.com/bismex/MetaBIN) ⭐ 71 | 🐛 8 | 🌐 Python | 📅 2021-11-10] (**MetaBIN**) \[13]
 * Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_to_Generalize_Unseen_Domains_via_Memory-based_Multi-Source_Meta-Learning_for_CVPR_2021_paper.pdf)] \[[Code](https://github.com/HeliosZhao/M3L) ⭐ 66 | 🐛 3 | 🌐 Python | 📅 2021-06-23] (**M3L**) \[12]
 * Learning to Generate Novel Domains for Domain Generalization \[[ECCV 2020](https://arxiv.org/pdf/2007.03304)] \[[Code](https://github.com/mousecpn/L2A-OT) ⭐ 22 | 🐛 7 | 🌐 Python | 📅 2021-10-10] (**L2A-OT**, **Digits-DG dataset**) \[28]
@@ -589,4 +589,4 @@ The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
