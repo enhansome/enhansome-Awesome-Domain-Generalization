@@ -17,7 +17,7 @@
                 "last_commit": "2021-07-23T00:08:09Z",
                 "owner": "hendrycks",
                 "repo": "imagenet-r",
-                "stars": 284
+                "stars": 285
               }
             },
             {
@@ -1665,7 +1665,7 @@
                     "last_commit": "2023-01-03T08:24:59Z",
                     "owner": "kohpangwei",
                     "repo": "group_DRO",
-                    "stars": 296
+                    "stars": 297
                   }
                 },
                 {
@@ -2880,7 +2880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:20:07.513Z",
+    "last_updated": "2026-08-25T06:13:28.992Z",
     "original_repository": "junkunyuan/Awesome-Domain-Generalization",
     "original_repository_id": 456522005,
     "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",
