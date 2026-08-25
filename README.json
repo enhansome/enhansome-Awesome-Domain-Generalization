@@ -2567,7 +2567,7 @@
                     "last_commit": "2026-01-09T05:23:24Z",
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4899
+                    "stars": 4900
                   }
                 },
                 {
@@ -2880,7 +2880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:28.992Z",
+    "last_updated": "2026-08-25T15:25:05.858Z",
     "original_repository": "junkunyuan/Awesome-Domain-Generalization",
     "original_repository_id": 456522005,
     "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",
