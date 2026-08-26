@@ -2113,7 +2113,7 @@
                     "last_commit": "2022-03-14T17:53:32Z",
                     "owner": "xxgege",
                     "repo": "StableNet",
-                    "stars": 200
+                    "stars": 199
                   }
                 },
                 {
@@ -2755,7 +2755,7 @@
             "last_commit": "2022-08-24T14:27:43Z",
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1171
+            "stars": 1172
           }
         }
       ],
@@ -2880,7 +2880,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:25:05.858Z",
+    "last_updated": "2026-08-26T16:03:32.044Z",
     "original_repository": "junkunyuan/Awesome-Domain-Generalization",
     "original_repository_id": 456522005,
     "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",
