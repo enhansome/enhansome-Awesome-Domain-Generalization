@@ -18,7 +18,8 @@
                 "owner": "hendrycks",
                 "repo": "imagenet-r",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ynysjtu",
                 "repo": "ood_bench",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "NikosEfth",
                 "repo": "crafting-shifts",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "facebookresearch",
                 "repo": "domainbed_measures",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "aniketde",
                 "repo": "DomainGeneralizationMarginal",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "Gordon-Guojun-Zhang",
                 "repo": "Transferability-NeurIPS2021",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             }
           ],
           "description": "We list the papers that either provide inspiring theoretical analyses or conduct extensive empirical studies for domain generalization.",
@@ -115,7 +121,8 @@
                 "owner": "KaiyangZhou",
                 "repo": "Dassl.pytorch",
                 "stars": 1428
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "facebookresearch",
                 "repo": "InvariantRiskMinimization",
                 "stars": 437
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "Weixin-Liang",
                 "repo": "MetaShift",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "HaohanWang",
                 "repo": "HEX",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "mousecpn",
                 "repo": "L2A-OT",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "Emma0118",
                 "repo": "mate",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             }
           ],
           "description": null,
@@ -213,8 +225,9 @@
                     "last_commit": "2025-02-18T22:06:58Z",
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14348
-                  }
+                    "stars": 14347
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -229,7 +242,8 @@
                     "owner": "taylover-pei",
                     "repo": "SSDG-CVPR2020",
                     "stars": 244
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -244,7 +258,8 @@
                     "owner": "microsoft",
                     "repo": "robustdg",
                     "stars": 175
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -259,7 +274,8 @@
                     "owner": "biomedia-mira",
                     "repo": "masf",
                     "stars": 151
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -274,7 +290,8 @@
                     "owner": "samotiian",
                     "repo": "CCSA",
                     "stars": 106
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -289,7 +306,8 @@
                     "owner": "mil-tokyo",
                     "repo": "dg_mmld",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -304,7 +322,8 @@
                     "owner": "rshaojimmy",
                     "repo": "MADDoG",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -319,7 +338,8 @@
                     "owner": "belaalb",
                     "repo": "G2DM",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -334,7 +354,8 @@
                     "owner": "wyf0912",
                     "repo": "LDDG",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -349,7 +370,8 @@
                     "owner": "sshan-zhao",
                     "repo": "DG_via_ER",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -364,7 +386,8 @@
                     "owner": "YuqiCui",
                     "repo": "MMD_AAE",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -379,7 +402,8 @@
                     "owner": "lileicv",
                     "repo": "PDEN",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -394,7 +418,8 @@
                     "owner": "nktoan",
                     "repo": "risk-distribution-matching",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -409,7 +434,8 @@
                     "owner": "amber0309",
                     "repo": "Multidomain-Discriminant-Analysis",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -424,7 +450,8 @@
                     "owner": "akuzeee",
                     "repo": "AFLAC",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -439,7 +466,8 @@
                     "owner": "yys-Polaris",
                     "repo": "InferenceTimeDG",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -454,7 +482,8 @@
                     "owner": "junkunyuan",
                     "repo": "CSAC",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -469,7 +498,8 @@
                     "owner": "mahfujur1",
                     "repo": "CA-DA-DG",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -484,7 +514,8 @@
                     "owner": "krikamol",
                     "repo": "dg-dica",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Domain alignment-based methods aim to minimize divergence between source domains for learning domain-invariant representations.",
@@ -506,7 +537,8 @@
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
                     "stars": 1630
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -521,7 +553,8 @@
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
                     "stars": 1428
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -536,7 +569,8 @@
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
                     "stars": 334
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -551,7 +585,8 @@
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
                     "stars": 334
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -566,7 +601,8 @@
                     "owner": "liuquande",
                     "repo": "FedDG-ELCFS",
                     "stars": 264
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -581,7 +617,8 @@
                     "owner": "fmcarlucci",
                     "repo": "JigenDG",
                     "stars": 251
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -596,7 +633,8 @@
                     "owner": "MediaBrain-SJTU",
                     "repo": "FACT",
                     "stars": 188
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -611,7 +649,8 @@
                     "owner": "ricvolpi",
                     "repo": "generalize-unseen-domains",
                     "stars": 120
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -626,7 +665,8 @@
                     "owner": "KaiyangZhou",
                     "repo": "ssdg-benchmark",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -641,7 +681,8 @@
                     "owner": "wildphoton",
                     "repo": "RandConv",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -656,7 +697,8 @@
                     "owner": "hlzhang109",
                     "repo": "DDG",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -671,7 +713,8 @@
                     "owner": "mancinimassimiliano",
                     "repo": "CuMix",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -686,7 +729,8 @@
                     "owner": "emma-sjwang",
                     "repo": "EISNet",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -701,7 +745,8 @@
                     "owner": "duchi-lab",
                     "repo": "certifiable-distributional-robustness",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -716,7 +761,8 @@
                     "owner": "jxhuang0508",
                     "repo": "FSDR",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -731,7 +777,8 @@
                     "owner": "thuml",
                     "repo": "OpenDG-DAML",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -746,7 +793,8 @@
                     "owner": "arobey1",
                     "repo": "mbdg",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -761,7 +809,8 @@
                     "owner": "ricvolpi",
                     "repo": "domain-shift-robustness",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -776,7 +825,8 @@
                     "owner": "wyf0912",
                     "repo": "MIXALL",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -791,7 +841,8 @@
                     "owner": "ryoungj",
                     "repo": "optdom",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -806,7 +857,8 @@
                     "owner": "vihari",
                     "repo": "crossgrad",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -821,7 +873,8 @@
                     "owner": "NikosEfth",
                     "repo": "crafting-shifts",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -836,7 +889,8 @@
                     "owner": "mousecpn",
                     "repo": "L2A-OT",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -851,7 +905,8 @@
                     "owner": "thuml",
                     "repo": "VideoDG",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -866,7 +921,8 @@
                     "owner": "HaoyueBaiZJU",
                     "repo": "DecAug",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -881,7 +937,8 @@
                     "owner": "aniketde",
                     "repo": "DomainGeneralizationMarginal",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -896,7 +953,8 @@
                     "owner": "fmcarlucci",
                     "repo": "ADAGE",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -911,7 +969,8 @@
                     "owner": "mvp18",
                     "repo": "UCDR",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -926,7 +985,8 @@
                     "owner": "mahfujur1",
                     "repo": "mit-DG",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -941,7 +1001,8 @@
                     "owner": "junkunyuan",
                     "repo": "CEG",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -956,7 +1017,8 @@
                     "owner": "MatyushinMA",
                     "repo": "uni_rep_deep_faces",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -971,7 +1033,8 @@
                     "owner": "joffery",
                     "repo": "M-ADA",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -986,7 +1049,8 @@
                     "owner": "joffery",
                     "repo": "UMGUD",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Data augmentation-based methods augment original data and train the model on the generated data to improve model robustness.",
@@ -1008,7 +1072,8 @@
                     "owner": "HAHA-DL",
                     "repo": "MLDG",
                     "stars": 152
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1023,7 +1088,8 @@
                     "owner": "biomedia-mira",
                     "repo": "masf",
                     "stars": 151
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1038,7 +1104,8 @@
                     "owner": "liuquande",
                     "repo": "SAML",
                     "stars": 132
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1053,7 +1120,8 @@
                     "owner": "bismex",
                     "repo": "MetaBIN",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1068,7 +1136,8 @@
                     "owner": "HeliosZhao",
                     "repo": "M3L",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1083,7 +1152,8 @@
                     "owner": "HAHA-DL",
                     "repo": "Episodic-DG",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1098,7 +1168,8 @@
                     "owner": "liyiying",
                     "repo": "Feature_Critic",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1113,7 +1184,8 @@
                     "owner": "thuml",
                     "repo": "OpenDG-DAML",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1128,7 +1200,8 @@
                     "owner": "hamanhbui",
                     "repo": "mDSDI",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1143,7 +1216,8 @@
                     "owner": "GT-RIPL",
                     "repo": "DomainGeneralization-Stylization",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1158,7 +1232,8 @@
                     "owner": "elliotbeck",
                     "repo": "meta-reg-pytorch",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1173,7 +1248,8 @@
                     "owner": "hosseinshn",
                     "repo": "DGSML",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1188,7 +1264,8 @@
                     "owner": "YDU-AI",
                     "repo": "MetaNorm",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1203,7 +1280,8 @@
                     "owner": "joffery",
                     "repo": "M-ADA",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1218,7 +1296,8 @@
                     "owner": "joffery",
                     "repo": "UMGUD",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Meta-learning-based methods train the model on a meta-train set and improve its performance on a meta-test set for boosting out-of-domain generalization ability.",
@@ -1240,7 +1319,8 @@
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
                     "stars": 1428
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1255,7 +1335,8 @@
                     "owner": "ShengcaiLiao",
                     "repo": "QAConv",
                     "stars": 219
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1270,7 +1351,8 @@
                     "owner": "liuquande",
                     "repo": "MS-Net",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1285,7 +1367,8 @@
                     "owner": "mancinimassimiliano",
                     "repo": "caffe",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Ensemble learning-based methods mainly train a domain-specific model on each source domain, and then draw on collective wisdom to make accurate prediction.",
@@ -1307,7 +1390,8 @@
                     "owner": "liuquande",
                     "repo": "FedDG-ELCFS",
                     "stars": 264
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1322,7 +1406,8 @@
                     "owner": "fmcarlucci",
                     "repo": "JigenDG",
                     "stars": 251
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1337,7 +1422,8 @@
                     "owner": "emma-sjwang",
                     "repo": "EISNet",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1352,7 +1438,8 @@
                     "owner": "lileicv",
                     "repo": "PDEN",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1367,7 +1454,8 @@
                     "owner": "leokarlin",
                     "repo": "BrAD",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1382,7 +1470,8 @@
                     "owner": "lizheren",
                     "repo": "MSVCL_MICCAI2021",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1397,7 +1486,8 @@
                     "owner": "aniketde",
                     "repo": "ZeroShotDG",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1412,7 +1502,8 @@
                     "owner": "silvia1993",
                     "repo": "Self-Supervised_Learning_Across_Domains",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1427,7 +1518,8 @@
                     "owner": "Emma0118",
                     "repo": "mate",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Self-supervised learning-based methods improve model generalization by solving some pretext tasks with data itself.",
@@ -1449,7 +1541,8 @@
                     "owner": "sunghac",
                     "repo": "RobustNet",
                     "stars": 226
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1464,7 +1557,8 @@
                     "owner": "AMLab-Amsterdam",
                     "repo": "DIVA",
                     "stars": 107
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1479,7 +1573,8 @@
                     "owner": "hyseob",
                     "repo": "SagNet",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1494,7 +1589,8 @@
                     "owner": "hlzhang109",
                     "repo": "DDG",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1509,7 +1605,8 @@
                     "owner": "prithv1",
                     "repo": "DMG",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1524,7 +1621,8 @@
                     "owner": "vihari",
                     "repo": "CSD",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1539,7 +1637,8 @@
                     "owner": "hamanhbui",
                     "repo": "mDSDI",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1554,7 +1653,8 @@
                     "owner": "adikhosla",
                     "repo": "undoing-bias",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1569,7 +1669,8 @@
                     "owner": "HaoyueBaiZJU",
                     "repo": "DecAug",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Disentangled representation learning-based methods aim to disentangle domain-specific and domain-invariant parts from source data, and then adopt the domain-invariant one for inference on the target domains.",
@@ -1591,7 +1692,8 @@
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
                     "stars": 1630
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1606,7 +1708,8 @@
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
                     "stars": 1630
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1621,7 +1724,8 @@
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
                     "stars": 1630
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1636,7 +1740,8 @@
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
                     "stars": 1630
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1651,7 +1756,8 @@
                     "owner": "facebookresearch",
                     "repo": "InvariantRiskMinimization",
                     "stars": 437
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1666,7 +1772,8 @@
                     "owner": "kohpangwei",
                     "repo": "group_DRO",
                     "stars": 297
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1681,7 +1788,8 @@
                     "owner": "MediaBrain-SJTU",
                     "repo": "FACT",
                     "stars": 188
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1696,7 +1804,8 @@
                     "owner": "khanrc",
                     "repo": "swad",
                     "stars": 174
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1711,7 +1820,8 @@
                     "owner": "DeLightCMU",
                     "repo": "RSC",
                     "stars": 166
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1726,7 +1836,8 @@
                     "owner": "YugeTen",
                     "repo": "fish",
                     "stars": 127
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1741,7 +1852,8 @@
                     "owner": "alexrame",
                     "repo": "fishr",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1756,7 +1868,8 @@
                     "owner": "henrikmarklund",
                     "repo": "arm",
                     "stars": 83
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1771,7 +1884,8 @@
                     "owner": "lucasmansilla",
                     "repo": "DGvGS",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1786,7 +1900,8 @@
                     "owner": "arobey1",
                     "repo": "mbdg",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1801,7 +1916,8 @@
                     "owner": "HaohanWang",
                     "repo": "HEX",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1816,7 +1932,8 @@
                     "owner": "nktoan",
                     "repo": "risk-distribution-matching",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1831,7 +1948,8 @@
                     "owner": "Newbeeer",
                     "repo": "TRM",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1846,7 +1964,8 @@
                     "owner": "xieshuqin",
                     "repo": "Energy-OOD",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1861,7 +1980,8 @@
                     "owner": "Gordon-Guojun-Zhang",
                     "repo": "Transferability-NeurIPS2021",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1876,7 +1996,8 @@
                     "owner": "anshuln",
                     "repo": "Training-for-the-Future",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1891,7 +2012,8 @@
                     "owner": "elliotbeck",
                     "repo": "meta-reg-pytorch",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1906,7 +2028,8 @@
                     "owner": "VietHoang1512",
                     "repo": "GLOT",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Regularization-based methods leverage regularization terms to prevent the overfitting, or design optimization strategies to guide the training.",
@@ -1928,7 +2051,8 @@
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
                     "stars": 1630
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1943,7 +2067,8 @@
                     "owner": "bismex",
                     "repo": "MetaBIN",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -1958,7 +2083,8 @@
                     "owner": "YDU-AI",
                     "repo": "MetaNorm",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "group",
@@ -1978,7 +2104,8 @@
                         "owner": "HeliosZhao",
                         "repo": "M3L",
                         "stars": 66
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:39:41.415Z"
                     }
                   ]
                 }
@@ -2002,7 +2129,8 @@
                     "owner": "lileicv",
                     "repo": "PDEN",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2017,7 +2145,8 @@
                     "owner": "ahujak",
                     "repo": "IB-IRM",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2032,7 +2161,8 @@
                     "owner": "hamanhbui",
                     "repo": "mDSDI",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2047,7 +2177,8 @@
                     "owner": "Luodian",
                     "repo": "IIB",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Information-based methods utilize techniques of information theory to realize domain generalization.",
@@ -2069,7 +2200,8 @@
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
                     "stars": 1630
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2084,7 +2216,8 @@
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
                     "stars": 1630
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2099,7 +2232,8 @@
                     "owner": "facebookresearch",
                     "repo": "InvariantRiskMinimization",
                     "stars": 437
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2114,7 +2248,8 @@
                     "owner": "xxgege",
                     "repo": "StableNet",
                     "stars": 199
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2129,7 +2264,8 @@
                     "owner": "microsoft",
                     "repo": "robustdg",
                     "stars": 175
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2144,7 +2280,8 @@
                     "owner": "changliu00",
                     "repo": "causal-semantic-generative-model",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2159,7 +2296,8 @@
                     "owner": "ahujak",
                     "repo": "IB-IRM",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2174,7 +2312,8 @@
                     "owner": "nktoan",
                     "repo": "Causal-Inference-via-Style-Transfer-for-OOD-Generalisation",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2189,7 +2328,8 @@
                     "owner": "wubotong",
                     "repo": "LaCIM",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2204,7 +2344,8 @@
                     "owner": "Luodian",
                     "repo": "IIB",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Causality-based methods analyze and address the domain generalization problem from a causal perspective.",
@@ -2226,7 +2367,8 @@
                     "owner": "matsuolab",
                     "repo": "T3A",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2241,7 +2383,8 @@
                     "owner": "abhimanyudubey",
                     "repo": "GeoYFCC",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2256,7 +2399,8 @@
                     "owner": "yys-Polaris",
                     "repo": "InferenceTimeDG",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": "Inference-time-based methods leverage the unlabeled target data, which is available at inference-time, to improve generalization performance without further model training.",
@@ -2283,7 +2427,8 @@
                 "owner": "lileicv",
                 "repo": "PDEN",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2298,7 +2443,8 @@
                 "owner": "NikosEfth",
                 "repo": "crafting-shifts",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2313,7 +2459,8 @@
                 "owner": "joffery",
                 "repo": "M-ADA",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2328,7 +2475,8 @@
                 "owner": "joffery",
                 "repo": "UMGUD",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             }
           ],
           "description": "The goal of single domain generalization task is to improve model performance on unknown target domains by using data from only one source domain.",
@@ -2350,7 +2498,8 @@
                 "owner": "KaiyangZhou",
                 "repo": "ssdg-benchmark",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2365,7 +2514,8 @@
                 "owner": "leokarlin",
                 "repo": "BrAD",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2380,7 +2530,8 @@
                 "owner": "junkunyuan",
                 "repo": "DSBF",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2395,7 +2546,8 @@
                 "owner": "hosseinshn",
                 "repo": "DGSML",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2410,7 +2562,8 @@
                 "owner": "junkunyuan",
                 "repo": "CEG",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             }
           ],
           "description": "Semi/weak-supervised domain generalization assumes that a part of the source data is unlabeled, while unsupervised domain generalization assumes no training supervision.",
@@ -2432,7 +2585,8 @@
                 "owner": "mancinimassimiliano",
                 "repo": "CuMix",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2447,7 +2601,8 @@
                 "owner": "HAHA-DL",
                 "repo": "Episodic-DG",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2462,7 +2617,8 @@
                 "owner": "liyiying",
                 "repo": "Feature_Critic",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2477,7 +2633,8 @@
                 "owner": "thuml",
                 "repo": "OpenDG-DAML",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2492,7 +2649,8 @@
                 "owner": "wyf0912",
                 "repo": "MIXALL",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2507,7 +2665,8 @@
                 "owner": "mvp18",
                 "repo": "UCDR",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             }
           ],
           "description": "Open/heterogeneous domain generalization assumes the label space of one domain is different from that of another domain.",
@@ -2529,7 +2688,8 @@
                 "owner": "liuquande",
                 "repo": "FedDG-ELCFS",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             },
             {
               "node_type": "item",
@@ -2544,7 +2704,8 @@
                 "owner": "junkunyuan",
                 "repo": "CSAC",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:39:41.415Z"
             }
           ],
           "description": "Federated domain generalization assumes that source data is distributed and can not be fused for data privacy protection.",
@@ -2568,7 +2729,8 @@
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
                     "stars": 4901
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2583,7 +2745,8 @@
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
                     "stars": 1428
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2598,7 +2761,8 @@
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
                     "stars": 334
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2613,7 +2777,8 @@
                     "owner": "ShengcaiLiao",
                     "repo": "QAConv",
                     "stars": 219
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2628,7 +2793,8 @@
                     "owner": "bismex",
                     "repo": "MetaBIN",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2643,7 +2809,8 @@
                     "owner": "HeliosZhao",
                     "repo": "M3L",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2658,7 +2825,8 @@
                     "owner": "mousecpn",
                     "repo": "L2A-OT",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": null,
@@ -2680,7 +2848,8 @@
                     "owner": "taylover-pei",
                     "repo": "SSDG-CVPR2020",
                     "stars": 244
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2695,7 +2864,8 @@
                     "owner": "rshaojimmy",
                     "repo": "MADDoG",
                     "stars": 84
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 },
                 {
                   "node_type": "item",
@@ -2710,7 +2880,8 @@
                     "owner": "MatyushinMA",
                     "repo": "uni_rep_deep_faces",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
                 }
               ],
               "description": null,
@@ -2741,7 +2912,8 @@
             "owner": "Emma0118",
             "repo": "mate",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:39:41.415Z"
         },
         {
           "node_type": "item",
@@ -2756,7 +2928,8 @@
             "owner": "hendrycks",
             "repo": "robustness",
             "stars": 1172
-          }
+          },
+          "first_seen": "2026-08-28T23:39:41.415Z"
         }
       ],
       "title": "Datasets"
@@ -2776,8 +2949,9 @@
             "last_commit": "2025-02-18T22:06:58Z",
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14348
-          }
+            "stars": 14347
+          },
+          "first_seen": "2026-08-28T23:39:41.415Z"
         },
         {
           "node_type": "item",
@@ -2792,7 +2966,8 @@
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
             "stars": 3933
-          }
+          },
+          "first_seen": "2026-08-28T23:39:41.415Z"
         },
         {
           "node_type": "item",
@@ -2807,7 +2982,8 @@
             "owner": "facebookresearch",
             "repo": "DomainBed",
             "stars": 1630
-          }
+          },
+          "first_seen": "2026-08-28T23:39:41.415Z"
         },
         {
           "node_type": "item",
@@ -2822,7 +2998,8 @@
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
             "stars": 1428
-          }
+          },
+          "first_seen": "2026-08-28T23:39:41.415Z"
         }
       ],
       "title": "Libraries"
@@ -2842,8 +3019,9 @@
             "last_commit": "2025-02-18T22:06:58Z",
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14348
-          }
+            "stars": 14347
+          },
+          "first_seen": "2026-08-28T23:39:41.415Z"
         },
         {
           "node_type": "item",
@@ -2858,7 +3036,8 @@
             "owner": "yfzhang114",
             "repo": "Generalization-Causality",
             "stars": 1241
-          }
+          },
+          "first_seen": "2026-08-28T23:39:41.415Z"
         },
         {
           "node_type": "item",
@@ -2873,14 +3052,15 @@
             "owner": "amber0309",
             "repo": "Domain-generalization",
             "stars": 845
-          }
+          },
+          "first_seen": "2026-08-28T23:39:41.415Z"
         }
       ],
       "title": "Other Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:56:56.623Z",
+    "last_updated": "2026-08-28T23:39:41.415Z",
     "original_repository_info": {
       "archived": false,
       "id": 456522005,
