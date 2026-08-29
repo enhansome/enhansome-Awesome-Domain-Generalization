@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ImageNet-R(endition) and DeepAugment (ICCV 2021)",
+                "homepage": null,
                 "id": 243854319,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-23T00:08:09Z",
+                "open_issues": 2,
                 "owner": "hendrycks",
                 "repo": "imagenet-r",
-                "stars": 285
+                "stars": 285,
+                "topics": [
+                  "domain-adaptation",
+                  "domain-generalization",
+                  "ml-safety",
+                  "out-of-distribution",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -28,12 +39,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 419928177,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-01T15:20:18Z",
+                "open_issues": 1,
                 "owner": "ynysjtu",
                 "repo": "ood_bench",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -44,12 +60,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the WACV 2025 Oral paper \"Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization\".",
+                "homepage": null,
                 "id": 857350947,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-31T07:29:03Z",
+                "open_issues": 0,
                 "owner": "NikosEfth",
                 "repo": "crafting-shifts",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "computer-vision",
+                  "cross-domain-learning",
+                  "deep-learning",
+                  "domain-generalization",
+                  "neural-networks",
+                  "single-source-domain-generalization"
+                ]
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -60,12 +88,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code accompanying the paper on \"An Empirical Investigation of Domain Generalization with Empirical Risk Minimizers\" published at NeurIPS, 2021",
+                "homepage": null,
                 "id": 445318980,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-13T03:39:38Z",
+                "open_issues": 0,
                 "owner": "facebookresearch",
                 "repo": "domainbed_measures",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -76,12 +109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 108608814,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-11-15T02:15:03Z",
+                "open_issues": 0,
                 "owner": "aniketde",
                 "repo": "DomainGeneralizationMarginal",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -92,12 +130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo includes our code for evaluating and improving transferability in domain generalization (NeurIPS 2021)",
+                "homepage": null,
                 "id": 418671573,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-01T21:19:41Z",
+                "open_issues": 0,
                 "owner": "Gordon-Guojun-Zhang",
                 "repo": "Transferability-NeurIPS2021",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             }
@@ -115,12 +158,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch toolbox for domain generalization, domain adaptation and semi-supervised learning.",
+                "homepage": null,
                 "id": 246347180,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-03T10:38:13Z",
+                "open_issues": 29,
                 "owner": "KaiyangZhou",
                 "repo": "Dassl.pytorch",
-                "stars": 1428
+                "stars": 1428,
+                "topics": [
+                  "artificial-intelligence",
+                  "benchmark-datasets",
+                  "computer-vision",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "domain-adaptation",
+                  "domain-generalization",
+                  "machine-learning",
+                  "pytorch",
+                  "semi-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -131,12 +190,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PyTorch code to run synthetic experiments.",
+                "homepage": null,
                 "id": 196475241,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-08T16:09:39Z",
+                "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "InvariantRiskMinimization",
-                "stars": 437
+                "stars": 437,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -147,12 +211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts (ICLR 2022)",
+                "homepage": null,
                 "id": 459028993,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-08-29T17:10:59Z",
+                "open_issues": 4,
                 "owner": "Weixin-Liang",
                 "repo": "MetaShift",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -163,12 +232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example implementation for the paper: (ICLR Oral) Learning Robust Representations by Projecting Superficial Statistics Out",
+                "homepage": "https://openreview.net/pdf?id=rJEjjoR9K7",
                 "id": 172094159,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-07T14:50:25Z",
+                "open_issues": 0,
                 "owner": "HaohanWang",
                 "repo": "HEX",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -179,12 +253,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is an unofficial implementation in PyTorch for Learning to Generate Novel Domains for Domain Generalization",
+                "homepage": null,
                 "id": 314478896,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-10T04:06:22Z",
+                "open_issues": 7,
                 "owner": "mousecpn",
                 "repo": "L2A-OT",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "domain-generalization"
+                ]
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -195,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the Pytorch implement of M. Ghifary, W. B. Kleijn, M. Zhang, D. Balduzzi. Domain Generalization for Object Recognition with Multi-task Autoencoders, accepted in International Conference on Computer Vision (ICCV 2015), Santiago, Chile.",
+                "homepage": null,
                 "id": 237165904,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-01-30T08:06:44Z",
+                "open_issues": 1,
                 "owner": "Emma0118",
                 "repo": "mate",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             }
@@ -220,12 +306,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习",
+                    "homepage": "http://transferlearning.xyz/",
                     "id": 89846872,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-18T22:06:58Z",
+                    "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14347
+                    "stars": 14347,
+                    "topics": [
+                      "deep-learning",
+                      "domain-adaptation",
+                      "domain-adaption",
+                      "domain-generalization",
+                      "few-shot",
+                      "few-shot-learning",
+                      "generalization",
+                      "machine-learning",
+                      "meta-learning",
+                      "paper",
+                      "papers",
+                      "representation-learning",
+                      "self-supervised-learning",
+                      "style-transfer",
+                      "survey",
+                      "theory",
+                      "transfer-learning",
+                      "transferlearning",
+                      "tutorial-code",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -236,12 +348,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Single-Side Domain Generalization for Face Anti-Spoofing, CVPR2020",
+                    "homepage": null,
                     "id": 250429998,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-05-09T06:15:23Z",
+                    "open_issues": 16,
                     "owner": "taylover-pei",
                     "repo": "SSDG-CVPR2020",
-                    "stars": 244
+                    "stars": 244,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -252,12 +369,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Toolkit for building machine learning models that generalize to unseen domains and are robust to privacy and other attacks. ",
+                    "homepage": null,
                     "id": 271760207,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-03T04:31:58Z",
+                    "open_issues": 15,
                     "owner": "microsoft",
                     "repo": "robustdg",
-                    "stars": 175
+                    "stars": 175,
+                    "topics": [
+                      "artificial-intelligence",
+                      "causality",
+                      "domain-generalization",
+                      "machine-learning",
+                      "privacy-preserving-machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -268,12 +396,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Domain Generalization via Model-Agnostic Learning of Semantic Features",
+                    "homepage": null,
                     "id": 217766268,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-03-24T22:47:25Z",
+                    "open_issues": 5,
                     "owner": "biomedia-mira",
                     "repo": "masf",
-                    "stars": 151
+                    "stars": 151,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -284,12 +417,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"Unified Deep Supervised Domain Adaptation and Generalization\" (ICCV 2017)",
+                    "homepage": null,
                     "id": 100410134,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-02-24T15:47:20Z",
+                    "open_issues": 6,
                     "owner": "samotiian",
                     "repo": "CCSA",
-                    "stars": 106
+                    "stars": 106,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -300,12 +438,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch Implementation of Domain Generalization Using a Mixture of Multiple Latent Domains",
+                    "homepage": null,
                     "id": 220996906,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-10-30T08:01:51Z",
+                    "open_issues": 4,
                     "owner": "mil-tokyo",
                     "repo": "dg_mmld",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -316,12 +459,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2019] Pytorch codes for Multi-adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection",
+                    "homepage": null,
                     "id": 213545242,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-12-29T12:28:02Z",
+                    "open_issues": 2,
                     "owner": "rshaojimmy",
                     "repo": "MADDoG",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": [
+                      "adversarial-learning",
+                      "domain-generalization",
+                      "face-antispoofing"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -332,12 +484,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generalizing to unseen domains via distribution matching",
+                    "homepage": null,
                     "id": 245548355,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-09-02T03:20:57Z",
+                    "open_issues": 2,
                     "owner": "belaalb",
                     "repo": "G2DM",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -348,12 +505,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NIPS 2020] The code release of paper 'Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization' ",
+                    "homepage": null,
                     "id": 298736759,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-11-04T05:24:37Z",
+                    "open_issues": 6,
                     "owner": "wyf0912",
                     "repo": "LDDG",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -364,12 +526,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Domain Generalization via Entropy Regularization, NeurIPS'20",
+                    "homepage": null,
                     "id": 317478733,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-12-01T08:51:36Z",
+                    "open_issues": 4,
                     "owner": "sshan-zhao",
                     "repo": "DG_via_ER",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -380,12 +547,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code refactoring for paper \"Domain Generalization with Adversarial Feature Learning\" in VLCS datasets.",
+                    "homepage": null,
                     "id": 153402920,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-12-24T03:49:23Z",
+                    "open_issues": 2,
                     "owner": "YuqiCui",
                     "repo": "MMD_AAE",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -396,12 +568,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 352469684,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-12T23:34:00Z",
+                    "open_issues": 5,
                     "owner": "lileicv",
                     "repo": "PDEN",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -412,12 +589,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[WACV 2024] Domain Generalisation via Risk Distribution Matching",
+                    "homepage": "https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Domain_Generalisation_via_Risk_Distribution_Matching_WACV_2024_paper.html",
                     "id": 684480313,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-09-19T15:06:57Z",
+                    "open_issues": 0,
                     "owner": "nktoan",
                     "repo": "risk-distribution-matching",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "ai",
+                      "causal-inference",
+                      "causality",
+                      "deep-learning",
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "ood-detection",
+                      "ood-generalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -428,12 +619,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for UAI 2019 paper \"Domain Generalization via Multidomain Discriminant Analysis\"",
+                    "homepage": null,
                     "id": 191106139,
                     "language": "MATLAB",
+                    "license": "MIT",
                     "last_commit": "2019-08-28T03:17:24Z",
+                    "open_issues": 0,
                     "owner": "amber0309",
                     "repo": "Multidomain-Discriminant-Analysis",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -444,12 +640,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 179472630,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-06-18T05:36:21Z",
+                    "open_issues": 4,
                     "owner": "akuzeee",
                     "repo": "AFLAC",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -460,12 +661,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Domain Generalization via Inference-time Label-Preserving Target Projections\" ",
+                    "homepage": null,
                     "id": 381332719,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-06-13T19:47:47Z",
+                    "open_issues": 0,
                     "owner": "yys-Polaris",
                     "repo": "InferenceTimeDG",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -476,12 +682,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[TKDE 2023] Implementation for \"Collaborative Semantic Aggregation and Calibration for Separated Domain Generalization\".",
+                    "homepage": null,
                     "id": 445065362,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-12T13:57:04Z",
+                    "open_issues": 0,
                     "owner": "junkunyuan",
                     "repo": "CSAC",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -492,12 +703,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Correlation-aware Adversarial Domain Adaptation and Generalization",
+                    "homepage": null,
                     "id": 226923105,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-12-09T17:21:50Z",
+                    "open_issues": 1,
                     "owner": "mahfujur1",
                     "repo": "CA-DA-DG",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -508,12 +724,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code accompanying the ICML2013 paper entitled \"Domain Generalization via Invariant Feature Representation\"",
+                    "homepage": null,
                     "id": 327321190,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-01-06T13:35:58Z",
+                    "open_issues": 1,
                     "owner": "krikamol",
                     "repo": "dg-dica",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -531,12 +752,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DomainBed is a suite to test domain generalization algorithms",
+                    "homepage": null,
                     "id": 275930636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T17:09:28Z",
+                    "open_issues": 7,
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
-                    "stars": 1630
+                    "stars": 1630,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -547,12 +773,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A PyTorch toolbox for domain generalization, domain adaptation and semi-supervised learning.",
+                    "homepage": null,
                     "id": 246347180,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-11-03T10:38:13Z",
+                    "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428
+                    "stars": 1428,
+                    "topics": [
+                      "artificial-intelligence",
+                      "benchmark-datasets",
+                      "computer-vision",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "machine-learning",
+                      "pytorch",
+                      "semi-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -563,12 +805,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Domain Generalization with MixStyle (ICLR'21)",
+                    "homepage": null,
                     "id": 282191005,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-06T12:44:06Z",
+                    "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 334
+                    "stars": 334,
+                    "topics": [
+                      "domain-generalization",
+                      "feature-statistics",
+                      "iclr2021",
+                      "image-classification",
+                      "person-reidentification",
+                      "reinforcement-learning",
+                      "representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -579,12 +834,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Domain Generalization with MixStyle (ICLR'21)",
+                    "homepage": null,
                     "id": 282191005,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-06T12:44:06Z",
+                    "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 334
+                    "stars": 334,
+                    "topics": [
+                      "domain-generalization",
+                      "feature-statistics",
+                      "iclr2021",
+                      "image-classification",
+                      "person-reidentification",
+                      "reinforcement-learning",
+                      "representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -595,12 +863,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'21] FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space",
+                    "homepage": null,
                     "id": 346243913,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-04-01T03:54:12Z",
+                    "open_issues": 10,
                     "owner": "liuquande",
                     "repo": "FedDG-ELCFS",
-                    "stars": 264
+                    "stars": 264,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -611,12 +884,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for the CVPR19 oral paper \"Domain Generalization by Solving Jigsaw Puzzles\"",
+                    "homepage": null,
                     "id": 175806589,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2022-12-08T01:05:50Z",
+                    "open_issues": 26,
                     "owner": "fmcarlucci",
                     "repo": "JigenDG",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -627,12 +905,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 350767959,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-07-01T12:51:30Z",
+                    "open_issues": 5,
                     "owner": "MediaBrain-SJTU",
                     "repo": "FACT",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -643,12 +926,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Generalizing to Unseen Domains via Adversarial Data Augmentation\", NeurIPS 2018",
+                    "homepage": null,
                     "id": 148218487,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-04-24T08:30:14Z",
+                    "open_issues": 0,
                     "owner": "ricvolpi",
                     "repo": "generalize-unseen-domains",
-                    "stars": 120
+                    "stars": 120,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -659,12 +947,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Benchmarks for semi-supervised domain generalization.",
+                    "homepage": null,
                     "id": 372766859,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-08-25T11:45:11Z",
+                    "open_issues": 2,
                     "owner": "KaiyangZhou",
                     "repo": "ssdg-benchmark",
-                    "stars": 72
+                    "stars": 72,
+                    "topics": [
+                      "deep-learning",
+                      "domain-generalization",
+                      "neural-networks",
+                      "pytorch",
+                      "semi-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -675,12 +974,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for ICLR2021 paper \"Robust and Generalizable Visual Representation Learning via Random Convolutions\" ",
+                    "homepage": null,
                     "id": 348482744,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-05-10T20:04:40Z",
+                    "open_issues": 1,
                     "owner": "wildphoton",
                     "repo": "RandConv",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": [
+                      "data-augmentation",
+                      "deep-learning",
+                      "domain-generalization",
+                      "texture-bias"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -691,12 +1000,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2022 Oral] Towards Principled Disentanglement for Domain Generalization",
+                    "homepage": null,
                     "id": 430001682,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-30T13:59:47Z",
+                    "open_issues": 0,
                     "owner": "hlzhang109",
                     "repo": "DDG",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -707,12 +1021,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code for \"Towards Recognizing Unseen Categories in Unseen Domains\"",
+                    "homepage": null,
                     "id": 278867902,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T11:23:11Z",
+                    "open_issues": 3,
                     "owner": "mancinimassimiliano",
                     "repo": "CuMix",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -723,12 +1042,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2020] Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization",
+                    "homepage": null,
                     "id": 277245636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-06-22T02:27:43Z",
+                    "open_issues": 4,
                     "owner": "emma-sjwang",
                     "repo": "EISNet",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -739,12 +1063,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Certifying Some Distributional Robustness with Principled Adversarial Training (https://arxiv.org/abs/1710.10571)",
+                    "homepage": null,
                     "id": 131682875,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-05-01T06:35:23Z",
+                    "open_issues": 0,
                     "owner": "duchi-lab",
                     "repo": "certifiable-distributional-robustness",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -755,12 +1084,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FSDR: Frequency Space Domain Randomization for Domain Generalization",
+                    "homepage": null,
                     "id": 378110371,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-06-29T10:24:35Z",
+                    "open_issues": 5,
                     "owner": "jxhuang0508",
                     "repo": "FSDR",
-                    "stars": 43
+                    "stars": 43,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -771,12 +1105,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code release for Open Domain Generalization with Domain-Augmented Meta-Learning (CVPR2021)",
+                    "homepage": null,
                     "id": 386335048,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-08-22T14:55:34Z",
+                    "open_issues": 2,
                     "owner": "thuml",
                     "repo": "OpenDG-DAML",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -787,12 +1126,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 377292513,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-06-16T16:48:32Z",
+                    "open_issues": 4,
                     "owner": "arobey1",
                     "repo": "mbdg",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -803,12 +1147,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Addressing Model Vulnerability to Distributional Shifts over Image Transformation Sets\", ICCV 2019",
+                    "homepage": null,
                     "id": 177784153,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-03-17T10:59:00Z",
+                    "open_issues": 0,
                     "owner": "ricvolpi",
                     "repo": "domain-shift-robustness",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": [
+                      "adversarial-attacks",
+                      "adversarial-training",
+                      "black-box-attacks",
+                      "combinatorial-search",
+                      "domain-generalization",
+                      "evolution-algorithm"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -819,12 +1175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICASSP 2020] Code release of paper 'Heterogeneous Domain Generalization via Domain Mixup'",
+                    "homepage": null,
                     "id": 255825268,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-08-03T17:00:11Z",
+                    "open_issues": 0,
                     "owner": "wyf0912",
                     "repo": "MIXALL",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -835,12 +1196,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR'22] Self-supervised learning optimally robust representations for domain shift.",
+                    "homepage": null,
                     "id": 379292978,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-02-02T21:57:26Z",
+                    "open_issues": 1,
                     "owner": "ryoungj",
                     "repo": "optdom",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "distribution-shift",
+                      "domain-generalization",
+                      "machine-learning",
+                      "python",
+                      "pytorch",
+                      "representation-learning",
+                      "self-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -851,12 +1225,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains implementation of CROSSGRAD (https://openreview.net/forum?id=r1Dx7fbCW) and DAN (https://arxiv.org/abs/1505.07818).",
+                    "homepage": null,
                     "id": 131038497,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2018-12-28T16:43:00Z",
+                    "open_issues": 1,
                     "owner": "vihari",
                     "repo": "crossgrad",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "deep-learning",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -867,12 +1249,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of the WACV 2025 Oral paper \"Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization\".",
+                    "homepage": null,
                     "id": 857350947,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-08-31T07:29:03Z",
+                    "open_issues": 0,
                     "owner": "NikosEfth",
                     "repo": "crafting-shifts",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "computer-vision",
+                      "cross-domain-learning",
+                      "deep-learning",
+                      "domain-generalization",
+                      "neural-networks",
+                      "single-source-domain-generalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -883,12 +1277,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository is an unofficial implementation in PyTorch for Learning to Generate Novel Domains for Domain Generalization",
+                    "homepage": null,
                     "id": 314478896,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-10-10T04:06:22Z",
+                    "open_issues": 7,
                     "owner": "mousecpn",
                     "repo": "L2A-OT",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "domain-generalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -899,12 +1300,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 367315055,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-02-27T08:09:29Z",
+                    "open_issues": 5,
                     "owner": "thuml",
                     "repo": "VideoDG",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -915,12 +1321,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a repo of Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation.",
+                    "homepage": null,
                     "id": 415266851,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-02-28T18:34:31Z",
+                    "open_issues": 2,
                     "owner": "HaoyueBaiZJU",
                     "repo": "DecAug",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -931,12 +1342,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 108608814,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2017-11-15T02:15:03Z",
+                    "open_issues": 0,
                     "owner": "aniketde",
                     "repo": "DomainGeneralizationMarginal",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -947,12 +1363,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of \"Hallucinating Agnostic Images to Generalize Across Domains\"",
+                    "homepage": null,
                     "id": 195909881,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-07-10T09:37:38Z",
+                    "open_issues": 0,
                     "owner": "fmcarlucci",
                     "repo": "ADAGE",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -963,12 +1384,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2021] PyTorch implementation of \"Universal Cross-Domain Retrieval: Generalizing across Classes and Domains\"",
+                    "homepage": null,
                     "id": 390476688,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-09-26T12:03:18Z",
+                    "open_issues": 1,
                     "owner": "mvp18",
                     "repo": "UCDR",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "domain-generalization",
+                      "image-retrieval",
+                      "zero-shot-retrieval"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -979,12 +1409,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multi-component Image Translation for Deep Domain Generalization (Deep Domain Adaptation)",
+                    "homepage": null,
                     "id": 178349777,
                     "language": null,
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-05-02T16:02:26Z",
+                    "open_issues": 0,
                     "owner": "mahfujur1",
                     "repo": "mit-DG",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "image-classification",
+                      "image-translation",
+                      "machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -995,12 +1438,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[MM 2022] Label-Efficient Domain Generalization via Collaborative Exploration and Generalization",
+                    "homepage": null,
                     "id": 563902542,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-09T15:27:03Z",
+                    "open_issues": 0,
                     "owner": "junkunyuan",
                     "repo": "CEG",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1011,12 +1459,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Towards Universal Representation Learning for Deep Face Recognition",
+                    "homepage": null,
                     "id": 353673010,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-04-01T13:01:37Z",
+                    "open_issues": 0,
                     "owner": "MatyushinMA",
                     "repo": "uni_rep_deep_faces",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1027,12 +1480,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Pytorch implementation for \"Learning to Learn Single Domain Generalization\" (CVPR 2020)",
+                    "homepage": "https://arxiv.org/abs/2003.13216",
                     "id": 992209355,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-06-15T07:36:59Z",
+                    "open_issues": 0,
                     "owner": "joffery",
                     "repo": "M-ADA",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1043,12 +1501,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Pytorch implementation for \"Uncertainty-guided Model Generalization to Unseen Domains\" (CVPR 2021)",
+                    "homepage": "https://arxiv.org/pdf/2103.07531.pdf",
                     "id": 1039810539,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-02-03T03:40:56Z",
+                    "open_issues": 0,
                     "owner": "joffery",
                     "repo": "UMGUD",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -1066,12 +1529,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The demo code for the MLDG paper \"Learning to Generalize: Meta-Learning for Domain Generalization\", https://arxiv.org/abs/1710.03463, https://arxiv.org/pdf/1710.03463.pdf",
+                    "homepage": null,
                     "id": 136580335,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-04-17T09:44:50Z",
+                    "open_issues": 5,
                     "owner": "HAHA-DL",
                     "repo": "MLDG",
-                    "stars": 152
+                    "stars": 152,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1082,12 +1550,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Domain Generalization via Model-Agnostic Learning of Semantic Features",
+                    "homepage": null,
                     "id": 217766268,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-03-24T22:47:25Z",
+                    "open_issues": 5,
                     "owner": "biomedia-mira",
                     "repo": "masf",
-                    "stars": 151
+                    "stars": 151,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1098,12 +1571,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[MICCAI'20] Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains & A Well-organized Multi-site Dataset",
+                    "homepage": null,
                     "id": 274348829,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-08-05T04:13:42Z",
+                    "open_issues": 3,
                     "owner": "liuquande",
                     "repo": "SAML",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1114,12 +1592,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2021] Meta Batch-Instance Normalization for Generalizable Person Re-Identification",
+                    "homepage": null,
                     "id": 293723862,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-10T01:50:46Z",
+                    "open_issues": 8,
                     "owner": "bismex",
                     "repo": "MetaBIN",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "cvpr",
+                      "cvpr2021",
+                      "dg",
+                      "domain-generalization",
+                      "instance-normalization",
+                      "maml",
+                      "meta-learning",
+                      "normalisation",
+                      "normalization",
+                      "person-reid",
+                      "person-reidentification",
+                      "re-id"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1130,12 +1626,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation for M^3L. CVPR 2021",
+                    "homepage": null,
                     "id": 348350456,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-23T04:26:40Z",
+                    "open_issues": 3,
                     "owner": "HeliosZhao",
                     "repo": "M3L",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "cvpr2021",
+                      "personreid"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1146,12 +1650,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the repo for the paper \"Episodic Training for Domain Generalization\" https://arxiv.org/abs/1902.00113",
+                    "homepage": null,
                     "id": 202393235,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-06T21:36:01Z",
+                    "open_issues": 6,
                     "owner": "HAHA-DL",
                     "repo": "Episodic-DG",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1162,12 +1671,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Feature-Critic Networks for Heterogeneous Domain Generalisation",
+                    "homepage": null,
                     "id": 186393679,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-05-14T13:21:02Z",
+                    "open_issues": 9,
                     "owner": "liyiying",
                     "repo": "Feature_Critic",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1178,12 +1692,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code release for Open Domain Generalization with Domain-Augmented Meta-Learning (CVPR2021)",
+                    "homepage": null,
                     "id": 386335048,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-08-22T14:55:34Z",
+                    "open_issues": 2,
                     "owner": "thuml",
                     "repo": "OpenDG-DAML",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1194,12 +1713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Exploiting Domain-Specific Features to Enhance Domain Generalization (NeurIPS 2021).",
+                    "homepage": null,
                     "id": 421711709,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-04-26T06:25:17Z",
+                    "open_issues": 1,
                     "owner": "hamanhbui",
                     "repo": "mDSDI",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1210,12 +1734,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PyTorch code for: Frustratingly Simple Domain Generalization via Image Stylization",
+                    "homepage": null,
                     "id": 273402545,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2020-06-25T15:35:26Z",
+                    "open_issues": 3,
                     "owner": "GT-RIPL",
                     "repo": "DomainGeneralization-Stylization",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1226,12 +1755,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of MetaReg paper in PyTorch",
+                    "homepage": null,
                     "id": 237612244,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-02-04T15:40:32Z",
+                    "open_issues": 0,
                     "owner": "elliotbeck",
                     "repo": "meta-reg-pytorch",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1242,12 +1776,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DGSML is the first method of semi-supervised meta learning that employs two novel loss functions to learn a predictive domain-invariant representation by taking both labeled and unlabeled samples from different input domains",
+                    "homepage": null,
                     "id": 269822620,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-10-03T16:20:16Z",
+                    "open_issues": 0,
                     "owner": "hosseinshn",
                     "repo": "DGSML",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1258,12 +1797,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 350016302,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-03-21T14:05:47Z",
+                    "open_issues": 2,
                     "owner": "YDU-AI",
                     "repo": "MetaNorm",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1274,12 +1818,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Pytorch implementation for \"Learning to Learn Single Domain Generalization\" (CVPR 2020)",
+                    "homepage": "https://arxiv.org/abs/2003.13216",
                     "id": 992209355,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-06-15T07:36:59Z",
+                    "open_issues": 0,
                     "owner": "joffery",
                     "repo": "M-ADA",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1290,12 +1839,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Pytorch implementation for \"Uncertainty-guided Model Generalization to Unseen Domains\" (CVPR 2021)",
+                    "homepage": "https://arxiv.org/pdf/2103.07531.pdf",
                     "id": 1039810539,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-02-03T03:40:56Z",
+                    "open_issues": 0,
                     "owner": "joffery",
                     "repo": "UMGUD",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -1313,12 +1867,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A PyTorch toolbox for domain generalization, domain adaptation and semi-supervised learning.",
+                    "homepage": null,
                     "id": 246347180,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-11-03T10:38:13Z",
+                    "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428
+                    "stars": 1428,
+                    "topics": [
+                      "artificial-intelligence",
+                      "benchmark-datasets",
+                      "computer-vision",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "machine-learning",
+                      "pytorch",
+                      "semi-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1329,12 +1899,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2020] QAConv: Interpretable and Generalizable Person Re-Identification with Query-Adaptive Convolution and Temporal Lifting, and [CVPR 2022] GS: Graph Sampling Based Deep Metric Learning",
+                    "homepage": "https://arxiv.org/abs/1904.10424",
                     "id": 195745490,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-09T09:56:01Z",
+                    "open_issues": 0,
                     "owner": "ShengcaiLiao",
                     "repo": "QAConv",
-                    "stars": 219
+                    "stars": 219,
+                    "topics": [
+                      "adaptive-convolution",
+                      "correspondence",
+                      "deep-metric-learning",
+                      "domain-generalization",
+                      "generalizability",
+                      "generalization",
+                      "image-matching",
+                      "interpretability",
+                      "interpretable-deep-learning",
+                      "metric-learning",
+                      "person-re-identification",
+                      "person-recognition",
+                      "person-reid",
+                      "person-reidentification",
+                      "person-retrieval",
+                      "person-search",
+                      "re-id",
+                      "re-identification",
+                      "reid",
+                      "temporal-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1345,12 +1941,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[TMI'20] Multi-Site Network for Improving Prostate Segmentation with Heterogeneous MRI Data",
+                    "homepage": null,
                     "id": 228376915,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-07-01T09:25:51Z",
+                    "open_issues": 1,
                     "owner": "liuquande",
                     "repo": "MS-Net",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1361,12 +1962,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Caffe: a fast open framework for deep learning.",
+                    "homepage": "http://caffe.berkeleyvision.org/",
                     "id": 83019975,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-06-02T11:04:29Z",
+                    "open_issues": 0,
                     "owner": "mancinimassimiliano",
                     "repo": "caffe",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -1384,12 +1990,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR'21] FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space",
+                    "homepage": null,
                     "id": 346243913,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-04-01T03:54:12Z",
+                    "open_issues": 10,
                     "owner": "liuquande",
                     "repo": "FedDG-ELCFS",
-                    "stars": 264
+                    "stars": 264,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1400,12 +2011,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for the CVPR19 oral paper \"Domain Generalization by Solving Jigsaw Puzzles\"",
+                    "homepage": null,
                     "id": 175806589,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2022-12-08T01:05:50Z",
+                    "open_issues": 26,
                     "owner": "fmcarlucci",
                     "repo": "JigenDG",
-                    "stars": 251
+                    "stars": 251,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1416,12 +2032,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2020] Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization",
+                    "homepage": null,
                     "id": 277245636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-06-22T02:27:43Z",
+                    "open_issues": 4,
                     "owner": "emma-sjwang",
                     "repo": "EISNet",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1432,12 +2053,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 352469684,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-12T23:34:00Z",
+                    "open_issues": 5,
                     "owner": "lileicv",
                     "repo": "PDEN",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1448,12 +2074,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 469309891,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-01-04T10:28:10Z",
+                    "open_issues": 4,
                     "owner": "leokarlin",
                     "repo": "BrAD",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1464,12 +2095,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Domain Generalization for Mammography Detection via Multi-style and Multi-view Contrastive Learning",
+                    "homepage": null,
                     "id": 380785409,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-09-22T02:01:22Z",
+                    "open_issues": 1,
                     "owner": "lizheren",
                     "repo": "MSVCL_MICCAI2021",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": [
+                      "miccai2021"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1480,12 +2118,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zero Shot Domain Generalization",
+                    "homepage": null,
                     "id": 203220908,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-11-10T23:11:38Z",
+                    "open_issues": 0,
                     "owner": "aniketde",
                     "repo": "ZeroShotDG",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1496,12 +2139,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 269302091,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-06-04T08:26:04Z",
+                    "open_issues": 1,
                     "owner": "silvia1993",
                     "repo": "Self-Supervised_Learning_Across_Domains",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1512,12 +2160,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "the Pytorch implement of M. Ghifary, W. B. Kleijn, M. Zhang, D. Balduzzi. Domain Generalization for Object Recognition with Multi-task Autoencoders, accepted in International Conference on Computer Vision (ICCV 2015), Santiago, Chile.",
+                    "homepage": null,
                     "id": 237165904,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-01-30T08:06:44Z",
+                    "open_issues": 1,
                     "owner": "Emma0118",
                     "repo": "mate",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -1535,12 +2188,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of RobustNet (CVPR 2021 Oral)",
+                    "homepage": null,
                     "id": 351684298,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-06-15T06:24:37Z",
+                    "open_issues": 7,
                     "owner": "sunghac",
                     "repo": "RobustNet",
-                    "stars": 226
+                    "stars": 226,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1551,12 +2209,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of 'DIVA: Domain Invariant Variational Autoencoders'",
+                    "homepage": null,
                     "id": 204951688,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-11-22T17:02:58Z",
+                    "open_issues": 5,
                     "owner": "AMLab-Amsterdam",
                     "repo": "DIVA",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1567,12 +2230,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Reducing Domain Gap by Reducing Style Bias (SagNets)",
+                    "homepage": null,
                     "id": 247671834,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-08-01T06:55:28Z",
+                    "open_issues": 7,
                     "owner": "hyseob",
                     "repo": "SagNet",
-                    "stars": 103
+                    "stars": 103,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1583,12 +2251,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2022 Oral] Towards Principled Disentanglement for Domain Generalization",
+                    "homepage": null,
                     "id": 430001682,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-30T13:59:47Z",
+                    "open_issues": 0,
                     "owner": "hlzhang109",
                     "repo": "DDG",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1599,12 +2272,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for our ECCV paper -- \"Learning to Balance Specificity and Invariance for In and Out of Domain Generalization\"",
+                    "homepage": null,
                     "id": 280524766,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-08-24T21:39:06Z",
+                    "open_issues": 2,
                     "owner": "prithv1",
                     "repo": "DMG",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1615,12 +2293,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation and datasets for Efficient Domain Generalization via Common-Specific Low-Rank Decomposition (https://arxiv.org/abs/2003.12815)",
+                    "homepage": null,
                     "id": 243172503,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-07-10T06:11:50Z",
+                    "open_issues": 0,
                     "owner": "vihari",
                     "repo": "CSD",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1631,12 +2314,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Exploiting Domain-Specific Features to Enhance Domain Generalization (NeurIPS 2021).",
+                    "homepage": null,
                     "id": 421711709,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-04-26T06:25:17Z",
+                    "open_issues": 1,
                     "owner": "hamanhbui",
                     "repo": "mDSDI",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1647,12 +2335,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Undoing the Damage of Dataset Bias",
+                    "homepage": "http://undoingbias.csail.mit.edu",
                     "id": 8400280,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2013-09-05T23:31:32Z",
+                    "open_issues": 0,
                     "owner": "adikhosla",
                     "repo": "undoing-bias",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1663,12 +2356,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a repo of Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation.",
+                    "homepage": null,
                     "id": 415266851,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-02-28T18:34:31Z",
+                    "open_issues": 2,
                     "owner": "HaoyueBaiZJU",
                     "repo": "DecAug",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -1686,12 +2384,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DomainBed is a suite to test domain generalization algorithms",
+                    "homepage": null,
                     "id": 275930636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T17:09:28Z",
+                    "open_issues": 7,
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
-                    "stars": 1630
+                    "stars": 1630,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1702,12 +2405,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DomainBed is a suite to test domain generalization algorithms",
+                    "homepage": null,
                     "id": 275930636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T17:09:28Z",
+                    "open_issues": 7,
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
-                    "stars": 1630
+                    "stars": 1630,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1718,12 +2426,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DomainBed is a suite to test domain generalization algorithms",
+                    "homepage": null,
                     "id": 275930636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T17:09:28Z",
+                    "open_issues": 7,
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
-                    "stars": 1630
+                    "stars": 1630,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1734,12 +2447,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DomainBed is a suite to test domain generalization algorithms",
+                    "homepage": null,
                     "id": 275930636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T17:09:28Z",
+                    "open_issues": 7,
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
-                    "stars": 1630
+                    "stars": 1630,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1750,12 +2468,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "PyTorch code to run synthetic experiments.",
+                    "homepage": null,
                     "id": 196475241,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-08T16:09:39Z",
+                    "open_issues": 2,
                     "owner": "facebookresearch",
                     "repo": "InvariantRiskMinimization",
-                    "stars": 437
+                    "stars": 437,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1766,12 +2489,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Distributionally robust neural networks for group shifts",
+                    "homepage": null,
                     "id": 222771646,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-01-03T08:24:59Z",
+                    "open_issues": 3,
                     "owner": "kohpangwei",
                     "repo": "group_DRO",
-                    "stars": 297
+                    "stars": 297,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1782,12 +2510,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 350767959,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-07-01T12:51:30Z",
+                    "open_issues": 5,
                     "owner": "MediaBrain-SJTU",
                     "repo": "FACT",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1798,12 +2531,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of SWAD (NeurIPS 2021)",
+                    "homepage": null,
                     "id": 414089453,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-10T12:37:56Z",
+                    "open_issues": 1,
                     "owner": "khanrc",
                     "repo": "swad",
-                    "stars": 174
+                    "stars": 174,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1814,12 +2552,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the official implementation of Self-Challenging Improves Cross-Domain Generalization, ECCV2020",
+                    "homepage": null,
                     "id": 280001555,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2021-03-18T18:34:20Z",
+                    "open_issues": 6,
                     "owner": "DeLightCMU",
                     "repo": "RSC",
-                    "stars": 166
+                    "stars": 166,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1830,12 +2573,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of paper Gradient Matching for Domain Generalization",
+                    "homepage": null,
                     "id": 384961501,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-14T23:43:43Z",
+                    "open_issues": 5,
                     "owner": "YugeTen",
                     "repo": "fish",
-                    "stars": 127
+                    "stars": 127,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1846,12 +2594,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official PyTorch implementation of the Fishr regularization for out-of-distribution generalization",
+                    "homepage": null,
                     "id": 403644937,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-05-25T08:31:52Z",
+                    "open_issues": 0,
                     "owner": "alexrame",
                     "repo": "fishr",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1862,12 +2615,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 277607994,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-11-23T00:04:00Z",
+                    "open_issues": 3,
                     "owner": "henrikmarklund",
                     "repo": "arm",
-                    "stars": 83
+                    "stars": 83,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1878,12 +2636,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Domain Generalization via Gradient Surgery",
+                    "homepage": null,
                     "id": 388927847,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-05-03T23:52:10Z",
+                    "open_issues": 1,
                     "owner": "lucasmansilla",
                     "repo": "DGvGS",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": [
+                      "deep-learning",
+                      "domain-generalization",
+                      "domain-shift",
+                      "gradient-surgery",
+                      "image-classification",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1894,12 +2664,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 377292513,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-06-16T16:48:32Z",
+                    "open_issues": 4,
                     "owner": "arobey1",
                     "repo": "mbdg",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1910,12 +2685,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example implementation for the paper: (ICLR Oral) Learning Robust Representations by Projecting Superficial Statistics Out",
+                    "homepage": "https://openreview.net/pdf?id=rJEjjoR9K7",
                     "id": 172094159,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-04-07T14:50:25Z",
+                    "open_issues": 0,
                     "owner": "HaohanWang",
                     "repo": "HEX",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1926,12 +2706,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[WACV 2024] Domain Generalisation via Risk Distribution Matching",
+                    "homepage": "https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Domain_Generalisation_via_Risk_Distribution_Matching_WACV_2024_paper.html",
                     "id": 684480313,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-09-19T15:06:57Z",
+                    "open_issues": 0,
                     "owner": "nktoan",
                     "repo": "risk-distribution-matching",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "ai",
+                      "causal-inference",
+                      "causality",
+                      "deep-learning",
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "ood-detection",
+                      "ood-generalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1942,12 +2736,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learning Representations that Support Robust Transfer of Predictors",
+                    "homepage": null,
                     "id": 418255198,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-07T03:54:44Z",
+                    "open_issues": 1,
                     "owner": "Newbeeer",
                     "repo": "TRM",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1958,12 +2757,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Energy-based Out-of-distribution Detection",
+                    "homepage": null,
                     "id": 323265876,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-12-23T00:43:12Z",
+                    "open_issues": 1,
                     "owner": "xieshuqin",
                     "repo": "Energy-OOD",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1974,12 +2778,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repo includes our code for evaluating and improving transferability in domain generalization (NeurIPS 2021)",
+                    "homepage": null,
                     "id": 418671573,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-11-01T21:19:41Z",
+                    "open_issues": 0,
                     "owner": "Gordon-Guojun-Zhang",
                     "repo": "Transferability-NeurIPS2021",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -1990,12 +2799,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code release for the NeurIPS 2021 article Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time ",
+                    "homepage": null,
                     "id": 421274612,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-11-17T08:17:18Z",
+                    "open_issues": 1,
                     "owner": "anshuln",
                     "repo": "Training-for-the-Future",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2006,12 +2820,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of MetaReg paper in PyTorch",
+                    "homepage": null,
                     "id": 237612244,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-02-04T15:40:32Z",
+                    "open_issues": 0,
                     "owner": "elliotbeck",
                     "repo": "meta-reg-pytorch",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2022,12 +2841,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Global-Local Regularization Via Distributional Robustness (AISTATS 2023)",
+                    "homepage": null,
                     "id": 522084515,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-04T00:53:09Z",
+                    "open_issues": 0,
                     "owner": "VietHoang1512",
                     "repo": "GLOT",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "adversarial-machine-learning",
+                      "distribution-shift",
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "robustness",
+                      "semi-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -2045,12 +2876,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DomainBed is a suite to test domain generalization algorithms",
+                    "homepage": null,
                     "id": 275930636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T17:09:28Z",
+                    "open_issues": 7,
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
-                    "stars": 1630
+                    "stars": 1630,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2061,12 +2897,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2021] Meta Batch-Instance Normalization for Generalizable Person Re-Identification",
+                    "homepage": null,
                     "id": 293723862,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-10T01:50:46Z",
+                    "open_issues": 8,
                     "owner": "bismex",
                     "repo": "MetaBIN",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "cvpr",
+                      "cvpr2021",
+                      "dg",
+                      "domain-generalization",
+                      "instance-normalization",
+                      "maml",
+                      "meta-learning",
+                      "normalisation",
+                      "normalization",
+                      "person-reid",
+                      "person-reidentification",
+                      "re-id"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2077,12 +2931,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 350016302,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-03-21T14:05:47Z",
+                    "open_issues": 2,
                     "owner": "YDU-AI",
                     "repo": "MetaNorm",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2098,12 +2957,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pytorch implementation for M^3L. CVPR 2021",
+                        "homepage": null,
                         "id": 348350456,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2021-06-23T04:26:40Z",
+                        "open_issues": 3,
                         "owner": "HeliosZhao",
                         "repo": "M3L",
-                        "stars": 66
+                        "stars": 66,
+                        "topics": [
+                          "cvpr2021",
+                          "personreid"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:39:41.415Z"
                     }
@@ -2123,12 +2990,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 352469684,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-12T23:34:00Z",
+                    "open_issues": 5,
                     "owner": "lileicv",
                     "repo": "PDEN",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2139,12 +3011,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 375463736,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-10-13T21:41:07Z",
+                    "open_issues": 0,
                     "owner": "ahujak",
                     "repo": "IB-IRM",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2155,12 +3032,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Exploiting Domain-Specific Features to Enhance Domain Generalization (NeurIPS 2021).",
+                    "homepage": null,
                     "id": 421711709,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-04-26T06:25:17Z",
+                    "open_issues": 1,
                     "owner": "hamanhbui",
                     "repo": "mDSDI",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2171,12 +3053,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 341081492,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-01-30T06:53:08Z",
+                    "open_issues": 0,
                     "owner": "Luodian",
                     "repo": "IIB",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -2194,12 +3081,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DomainBed is a suite to test domain generalization algorithms",
+                    "homepage": null,
                     "id": 275930636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T17:09:28Z",
+                    "open_issues": 7,
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
-                    "stars": 1630
+                    "stars": 1630,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2210,12 +3102,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "DomainBed is a suite to test domain generalization algorithms",
+                    "homepage": null,
                     "id": 275930636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T17:09:28Z",
+                    "open_issues": 7,
                     "owner": "facebookresearch",
                     "repo": "DomainBed",
-                    "stars": 1630
+                    "stars": 1630,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2226,12 +3123,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "PyTorch code to run synthetic experiments.",
+                    "homepage": null,
                     "id": 196475241,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-09-08T16:09:39Z",
+                    "open_issues": 2,
                     "owner": "facebookresearch",
                     "repo": "InvariantRiskMinimization",
-                    "stars": 437
+                    "stars": 437,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2242,12 +3144,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repository for CVPR21 paper \"Deep Stable Learning for Out-Of-Distribution Generalization\".",
+                    "homepage": null,
                     "id": 395540603,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-03-14T17:53:32Z",
+                    "open_issues": 17,
                     "owner": "xxgege",
                     "repo": "StableNet",
-                    "stars": 199
+                    "stars": 199,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2258,12 +3165,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Toolkit for building machine learning models that generalize to unseen domains and are robust to privacy and other attacks. ",
+                    "homepage": null,
                     "id": 271760207,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-03T04:31:58Z",
+                    "open_issues": 15,
                     "owner": "microsoft",
                     "repo": "robustdg",
-                    "stars": 175
+                    "stars": 175,
+                    "topics": [
+                      "artificial-intelligence",
+                      "causality",
+                      "domain-generalization",
+                      "machine-learning",
+                      "privacy-preserving-machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2274,12 +3192,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codes for Causal Semantic Generative model (CSG), the model proposed in \"Learning Causal Semantic Representation for Out-of-Distribution Prediction\" (NeurIPS-21)",
+                    "homepage": "https://arxiv.org/abs/2011.01681",
                     "id": 421339290,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-04-18T15:12:50Z",
+                    "open_issues": 1,
                     "owner": "changliu00",
                     "repo": "causal-semantic-generative-model",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": [
+                      "causal-models",
+                      "generative-model",
+                      "machine-learning",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2290,12 +3218,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 375463736,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-10-13T21:41:07Z",
+                    "open_issues": 0,
                     "owner": "ahujak",
                     "repo": "IB-IRM",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2306,12 +3239,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[KDD 2023] Causal Inference via Style Transfer for Out-of-distribution Generalisation",
+                    "homepage": "https://dl.acm.org/doi/10.1145/3580305.3599270",
                     "id": 596936935,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-02-29T03:44:05Z",
+                    "open_issues": 0,
                     "owner": "nktoan",
                     "repo": "Causal-Inference-via-Style-Transfer-for-OOD-Generalisation",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "ai",
+                      "causal-inference",
+                      "causality",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "ood-detection",
+                      "ood-generalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2322,12 +3270,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 351415643,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-10-24T14:45:14Z",
+                    "open_issues": 1,
                     "owner": "wubotong",
                     "repo": "LaCIM",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2338,12 +3291,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 341081492,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-01-30T06:53:08Z",
+                    "open_issues": 0,
                     "owner": "Luodian",
                     "repo": "IIB",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -2361,12 +3319,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This codebase is the official implementation of Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization (NeurIPS2021, Spotlight)",
+                    "homepage": null,
                     "id": 421401535,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-02T07:11:37Z",
+                    "open_issues": 5,
                     "owner": "matsuolab",
                     "repo": "T3A",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2377,12 +3340,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dataset accompanying the paper \"Adaptive Methods for Real-World Domain Generalization\"",
+                    "homepage": null,
                     "id": 377603165,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2023-08-17T13:38:30Z",
+                    "open_issues": 2,
                     "owner": "abhimanyudubey",
                     "repo": "GeoYFCC",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2393,12 +3361,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Domain Generalization via Inference-time Label-Preserving Target Projections\" ",
+                    "homepage": null,
                     "id": 381332719,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-06-13T19:47:47Z",
+                    "open_issues": 0,
                     "owner": "yys-Polaris",
                     "repo": "InferenceTimeDG",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -2421,12 +3394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 352469684,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-06-12T23:34:00Z",
+                "open_issues": 5,
                 "owner": "lileicv",
                 "repo": "PDEN",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2437,12 +3415,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the WACV 2025 Oral paper \"Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization\".",
+                "homepage": null,
                 "id": 857350947,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-31T07:29:03Z",
+                "open_issues": 0,
                 "owner": "NikosEfth",
                 "repo": "crafting-shifts",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "computer-vision",
+                  "cross-domain-learning",
+                  "deep-learning",
+                  "domain-generalization",
+                  "neural-networks",
+                  "single-source-domain-generalization"
+                ]
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2453,12 +3443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Pytorch implementation for \"Learning to Learn Single Domain Generalization\" (CVPR 2020)",
+                "homepage": "https://arxiv.org/abs/2003.13216",
                 "id": 992209355,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-06-15T07:36:59Z",
+                "open_issues": 0,
                 "owner": "joffery",
                 "repo": "M-ADA",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2469,12 +3464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Pytorch implementation for \"Uncertainty-guided Model Generalization to Unseen Domains\" (CVPR 2021)",
+                "homepage": "https://arxiv.org/pdf/2103.07531.pdf",
                 "id": 1039810539,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-02-03T03:40:56Z",
+                "open_issues": 0,
                 "owner": "joffery",
                 "repo": "UMGUD",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             }
@@ -2492,12 +3492,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmarks for semi-supervised domain generalization.",
+                "homepage": null,
                 "id": 372766859,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-25T11:45:11Z",
+                "open_issues": 2,
                 "owner": "KaiyangZhou",
                 "repo": "ssdg-benchmark",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "deep-learning",
+                  "domain-generalization",
+                  "neural-networks",
+                  "pytorch",
+                  "semi-supervised-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2508,12 +3519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 469309891,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-04T10:28:10Z",
+                "open_issues": 4,
                 "owner": "leokarlin",
                 "repo": "BrAD",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2524,12 +3540,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IJCV 2022] Domain-Specific Bias Filtering for Single Labeled Domain Generalization",
+                "homepage": null,
                 "id": 440496311,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-10T05:59:54Z",
+                "open_issues": 0,
                 "owner": "junkunyuan",
                 "repo": "DSBF",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "domain-generalization"
+                ]
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2540,12 +3563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DGSML is the first method of semi-supervised meta learning that employs two novel loss functions to learn a predictive domain-invariant representation by taking both labeled and unlabeled samples from different input domains",
+                "homepage": null,
                 "id": 269822620,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-03T16:20:16Z",
+                "open_issues": 0,
                 "owner": "hosseinshn",
                 "repo": "DGSML",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2556,12 +3584,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MM 2022] Label-Efficient Domain Generalization via Collaborative Exploration and Generalization",
+                "homepage": null,
                 "id": 563902542,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-09T15:27:03Z",
+                "open_issues": 0,
                 "owner": "junkunyuan",
                 "repo": "CEG",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             }
@@ -2579,12 +3612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for \"Towards Recognizing Unseen Categories in Unseen Domains\"",
+                "homepage": null,
                 "id": 278867902,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T11:23:11Z",
+                "open_issues": 3,
                 "owner": "mancinimassimiliano",
                 "repo": "CuMix",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2595,12 +3633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repo for the paper \"Episodic Training for Domain Generalization\" https://arxiv.org/abs/1902.00113",
+                "homepage": null,
                 "id": 202393235,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-06T21:36:01Z",
+                "open_issues": 6,
                 "owner": "HAHA-DL",
                 "repo": "Episodic-DG",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2611,12 +3654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feature-Critic Networks for Heterogeneous Domain Generalisation",
+                "homepage": null,
                 "id": 186393679,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-14T13:21:02Z",
+                "open_issues": 9,
                 "owner": "liyiying",
                 "repo": "Feature_Critic",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2627,12 +3675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for Open Domain Generalization with Domain-Augmented Meta-Learning (CVPR2021)",
+                "homepage": null,
                 "id": 386335048,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-08-22T14:55:34Z",
+                "open_issues": 2,
                 "owner": "thuml",
                 "repo": "OpenDG-DAML",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2643,12 +3696,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICASSP 2020] Code release of paper 'Heterogeneous Domain Generalization via Domain Mixup'",
+                "homepage": null,
                 "id": 255825268,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-08-03T17:00:11Z",
+                "open_issues": 0,
                 "owner": "wyf0912",
                 "repo": "MIXALL",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2659,12 +3717,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2021] PyTorch implementation of \"Universal Cross-Domain Retrieval: Generalizing across Classes and Domains\"",
+                "homepage": null,
                 "id": 390476688,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-26T12:03:18Z",
+                "open_issues": 1,
                 "owner": "mvp18",
                 "repo": "UCDR",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "domain-generalization",
+                  "image-retrieval",
+                  "zero-shot-retrieval"
+                ]
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             }
@@ -2682,12 +3749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'21] FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space",
+                "homepage": null,
                 "id": 346243913,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-04-01T03:54:12Z",
+                "open_issues": 10,
                 "owner": "liuquande",
                 "repo": "FedDG-ELCFS",
-                "stars": 264
+                "stars": 264,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             },
@@ -2698,12 +3770,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TKDE 2023] Implementation for \"Collaborative Semantic Aggregation and Calibration for Separated Domain Generalization\".",
+                "homepage": null,
                 "id": 445065362,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-12T13:57:04Z",
+                "open_issues": 0,
                 "owner": "junkunyuan",
                 "repo": "CSAC",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
             }
@@ -2723,12 +3800,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Torchreid: Deep learning person re-identification in PyTorch.",
+                    "homepage": "https://kaiyangzhou.github.io/deep-person-reid/",
                     "id": 124800162,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-09T05:23:24Z",
+                    "open_issues": 163,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4901
+                    "stars": 4901,
+                    "topics": [
+                      "computer-vision",
+                      "cross-domain",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "image-retrieval",
+                      "machine-learning",
+                      "metric-learning",
+                      "person-reid",
+                      "person-reidentification",
+                      "pytorch",
+                      "re-ranking"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2739,12 +3833,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A PyTorch toolbox for domain generalization, domain adaptation and semi-supervised learning.",
+                    "homepage": null,
                     "id": 246347180,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-11-03T10:38:13Z",
+                    "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428
+                    "stars": 1428,
+                    "topics": [
+                      "artificial-intelligence",
+                      "benchmark-datasets",
+                      "computer-vision",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "machine-learning",
+                      "pytorch",
+                      "semi-supervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2755,12 +3865,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Domain Generalization with MixStyle (ICLR'21)",
+                    "homepage": null,
                     "id": 282191005,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-06T12:44:06Z",
+                    "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 334
+                    "stars": 334,
+                    "topics": [
+                      "domain-generalization",
+                      "feature-statistics",
+                      "iclr2021",
+                      "image-classification",
+                      "person-reidentification",
+                      "reinforcement-learning",
+                      "representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2771,12 +3894,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2020] QAConv: Interpretable and Generalizable Person Re-Identification with Query-Adaptive Convolution and Temporal Lifting, and [CVPR 2022] GS: Graph Sampling Based Deep Metric Learning",
+                    "homepage": "https://arxiv.org/abs/1904.10424",
                     "id": 195745490,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-09T09:56:01Z",
+                    "open_issues": 0,
                     "owner": "ShengcaiLiao",
                     "repo": "QAConv",
-                    "stars": 219
+                    "stars": 219,
+                    "topics": [
+                      "adaptive-convolution",
+                      "correspondence",
+                      "deep-metric-learning",
+                      "domain-generalization",
+                      "generalizability",
+                      "generalization",
+                      "image-matching",
+                      "interpretability",
+                      "interpretable-deep-learning",
+                      "metric-learning",
+                      "person-re-identification",
+                      "person-recognition",
+                      "person-reid",
+                      "person-reidentification",
+                      "person-retrieval",
+                      "person-search",
+                      "re-id",
+                      "re-identification",
+                      "reid",
+                      "temporal-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2787,12 +3936,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2021] Meta Batch-Instance Normalization for Generalizable Person Re-Identification",
+                    "homepage": null,
                     "id": 293723862,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-10T01:50:46Z",
+                    "open_issues": 8,
                     "owner": "bismex",
                     "repo": "MetaBIN",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "cvpr",
+                      "cvpr2021",
+                      "dg",
+                      "domain-generalization",
+                      "instance-normalization",
+                      "maml",
+                      "meta-learning",
+                      "normalisation",
+                      "normalization",
+                      "person-reid",
+                      "person-reidentification",
+                      "re-id"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2803,12 +3970,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation for M^3L. CVPR 2021",
+                    "homepage": null,
                     "id": 348350456,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-06-23T04:26:40Z",
+                    "open_issues": 3,
                     "owner": "HeliosZhao",
                     "repo": "M3L",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "cvpr2021",
+                      "personreid"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2819,12 +3994,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository is an unofficial implementation in PyTorch for Learning to Generate Novel Domains for Domain Generalization",
+                    "homepage": null,
                     "id": 314478896,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-10-10T04:06:22Z",
+                    "open_issues": 7,
                     "owner": "mousecpn",
                     "repo": "L2A-OT",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "domain-generalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -2842,12 +4024,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Single-Side Domain Generalization for Face Anti-Spoofing, CVPR2020",
+                    "homepage": null,
                     "id": 250429998,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-05-09T06:15:23Z",
+                    "open_issues": 16,
                     "owner": "taylover-pei",
                     "repo": "SSDG-CVPR2020",
-                    "stars": 244
+                    "stars": 244,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2858,12 +4045,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2019] Pytorch codes for Multi-adversarial Discriminative Deep Domain Generalization for Face Presentation Attack Detection",
+                    "homepage": null,
                     "id": 213545242,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-12-29T12:28:02Z",
+                    "open_issues": 2,
                     "owner": "rshaojimmy",
                     "repo": "MADDoG",
-                    "stars": 84
+                    "stars": 84,
+                    "topics": [
+                      "adversarial-learning",
+                      "domain-generalization",
+                      "face-antispoofing"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 },
@@ -2874,12 +4070,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Towards Universal Representation Learning for Deep Face Recognition",
+                    "homepage": null,
                     "id": 353673010,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-04-01T13:01:37Z",
+                    "open_issues": 0,
                     "owner": "MatyushinMA",
                     "repo": "uni_rep_deep_faces",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
                 }
@@ -2906,12 +4107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the Pytorch implement of M. Ghifary, W. B. Kleijn, M. Zhang, D. Balduzzi. Domain Generalization for Object Recognition with Multi-task Autoencoders, accepted in International Conference on Computer Vision (ICCV 2015), Santiago, Chile.",
+            "homepage": null,
             "id": 237165904,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-01-30T08:06:44Z",
+            "open_issues": 1,
             "owner": "Emma0118",
             "repo": "mate",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
         },
@@ -2922,12 +4128,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Corruption and Perturbation Robustness (ICLR 2019)",
+            "homepage": null,
             "id": 128312370,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-24T14:27:43Z",
+            "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172
+            "stars": 1172,
+            "topics": [
+              "computer-vision",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "domain-generalization",
+              "imagenet",
+              "machine-learning",
+              "ml-safety",
+              "pytorch",
+              "robustness"
+            ]
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
         }
@@ -2944,12 +4165,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习",
+            "homepage": "http://transferlearning.xyz/",
             "id": 89846872,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-18T22:06:58Z",
+            "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14347
+            "stars": 14347,
+            "topics": [
+              "deep-learning",
+              "domain-adaptation",
+              "domain-adaption",
+              "domain-generalization",
+              "few-shot",
+              "few-shot-learning",
+              "generalization",
+              "machine-learning",
+              "meta-learning",
+              "paper",
+              "papers",
+              "representation-learning",
+              "self-supervised-learning",
+              "style-transfer",
+              "survey",
+              "theory",
+              "transfer-learning",
+              "transferlearning",
+              "tutorial-code",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
         },
@@ -2960,12 +4207,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transfer Learning Library for Domain Adaptation, Task Adaptation, and Domain Generalization",
+            "homepage": "http://transfer.thuml.ai",
             "id": 240494185,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-10T06:59:42Z",
+            "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3933
+            "stars": 3933,
+            "topics": [
+              "adversarial-learning",
+              "dann",
+              "deep-learning",
+              "domain-adaptation",
+              "finetune",
+              "image-translation",
+              "out-of-distribution-generalization",
+              "self-training",
+              "semi-supervised-learning",
+              "transfer-learning",
+              "unsupervised-domain-adaptation"
+            ]
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
         },
@@ -2976,12 +4240,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DomainBed is a suite to test domain generalization algorithms",
+            "homepage": null,
             "id": 275930636,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-16T17:09:28Z",
+            "open_issues": 7,
             "owner": "facebookresearch",
             "repo": "DomainBed",
-            "stars": 1630
+            "stars": 1630,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
         },
@@ -2992,12 +4261,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch toolbox for domain generalization, domain adaptation and semi-supervised learning.",
+            "homepage": null,
             "id": 246347180,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-03T10:38:13Z",
+            "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1428
+            "stars": 1428,
+            "topics": [
+              "artificial-intelligence",
+              "benchmark-datasets",
+              "computer-vision",
+              "deep-learning",
+              "deep-neural-networks",
+              "domain-adaptation",
+              "domain-generalization",
+              "machine-learning",
+              "pytorch",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
         }
@@ -3014,12 +4299,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习",
+            "homepage": "http://transferlearning.xyz/",
             "id": 89846872,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-18T22:06:58Z",
+            "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14347
+            "stars": 14347,
+            "topics": [
+              "deep-learning",
+              "domain-adaptation",
+              "domain-adaption",
+              "domain-generalization",
+              "few-shot",
+              "few-shot-learning",
+              "generalization",
+              "machine-learning",
+              "meta-learning",
+              "paper",
+              "papers",
+              "representation-learning",
+              "self-supervised-learning",
+              "style-transfer",
+              "survey",
+              "theory",
+              "transfer-learning",
+              "transferlearning",
+              "tutorial-code",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
         },
@@ -3030,12 +4341,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "关于domain generalization，domain adaptation，causality，robutness，prompt，optimization，generative model各式各样研究的阅读笔记",
+            "homepage": null,
             "id": 379506793,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-12-14T13:50:13Z",
+            "open_issues": 0,
             "owner": "yfzhang114",
             "repo": "Generalization-Causality",
-            "stars": 1241
+            "stars": 1241,
+            "topics": [
+              "adaptation",
+              "causality",
+              "deep-learning",
+              "generative-model",
+              "machine-learning",
+              "optimization",
+              "robustness"
+            ]
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
         },
@@ -3046,12 +4370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All about domain generalization",
+            "homepage": null,
             "id": 158243628,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-02-25T01:57:37Z",
+            "open_issues": 2,
             "owner": "amber0309",
             "repo": "Domain-generalization",
-            "stars": 845
+            "stars": 845,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
         }
@@ -3060,15 +4389,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:39:41.415Z",
+    "last_updated": "2026-08-29T04:45:04.020Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome things about domain generalization, including papers, code, etc.",
+      "homepage": null,
       "id": 456522005,
       "language": null,
+      "license": null,
       "last_commit": "2025-04-16T02:59:45Z",
+      "open_issues": 0,
       "owner": "junkunyuan",
       "repo": "Awesome-Domain-Generalization",
-      "stars": 538
+      "stars": 538,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "datasets",
+        "deep-learning",
+        "domain-generalization",
+        "libraries",
+        "papers"
+      ]
     },
     "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",
     "enhanced_repository": "enhansome/enhansome-Awesome-Domain-Generalization",
