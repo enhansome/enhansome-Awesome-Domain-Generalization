@@ -164,10 +164,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-11-03T10:38:13Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "KaiyangZhou",
                 "repo": "Dassl.pytorch",
-                "stars": 1428,
+                "stars": 1429,
                 "topics": [
                   "artificial-intelligence",
                   "benchmark-datasets",
@@ -315,7 +315,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14347,
+                    "stars": 14348,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -779,10 +779,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-11-03T10:38:13Z",
-                    "open_issues": 30,
+                    "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428,
+                    "stars": 1429,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -1873,10 +1873,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-11-03T10:38:13Z",
-                    "open_issues": 30,
+                    "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428,
+                    "stars": 1429,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -3839,10 +3839,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2023-11-03T10:38:13Z",
-                    "open_issues": 30,
+                    "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428,
+                    "stars": 1429,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -4137,7 +4137,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4174,7 +4174,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14347,
+            "stars": 14348,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4216,7 +4216,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3933,
+            "stars": 3934,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4267,10 +4267,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-11-03T10:38:13Z",
-            "open_issues": 30,
+            "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1428,
+            "stars": 1429,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -4308,7 +4308,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14347,
+            "stars": 14348,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:52:27.280Z",
+    "last_updated": "2026-08-30T18:10:43.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
