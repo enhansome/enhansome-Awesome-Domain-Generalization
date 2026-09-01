@@ -315,7 +315,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14349,
+                    "stars": 14350,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3809,7 +3809,7 @@
                     "open_issues": 163,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4904,
+                    "stars": 4905,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -4174,7 +4174,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14349,
+            "stars": 14350,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4308,7 +4308,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14349,
+            "stars": 14350,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4350,7 +4350,7 @@
             "open_issues": 0,
             "owner": "yfzhang114",
             "repo": "Generalization-Causality",
-            "stars": 1242,
+            "stars": 1243,
             "topics": [
               "adaptation",
               "causality",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:21:06.232Z",
+    "last_updated": "2026-09-01T17:55:50.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
@@ -4401,7 +4401,7 @@
       "open_issues": 0,
       "owner": "junkunyuan",
       "repo": "Awesome-Domain-Generalization",
-      "stars": 538,
+      "stars": 539,
       "topics": [
         "awesome",
         "awesome-list",
