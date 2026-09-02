@@ -4216,7 +4216,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3934,
+            "stars": 3935,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4379,7 +4379,7 @@
             "open_issues": 2,
             "owner": "amber0309",
             "repo": "Domain-generalization",
-            "stars": 846,
+            "stars": 847,
             "topics": []
           },
           "first_seen": "2026-08-28T23:39:41.415Z"
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:55:50.387Z",
+    "last_updated": "2026-09-02T18:01:15.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
