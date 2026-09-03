@@ -315,7 +315,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14350,
+                    "stars": 14349,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3806,7 +3806,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-09T05:23:24Z",
-                    "open_issues": 163,
+                    "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
                     "stars": 4905,
@@ -4137,7 +4137,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1173,
+            "stars": 1172,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4174,7 +4174,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14350,
+            "stars": 14349,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4308,7 +4308,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14350,
+            "stars": 14349,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:01:15.919Z",
+    "last_updated": "2026-09-03T18:00:53.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
