@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,975 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,242 | 🐛 106 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -104,7 +104,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > Domain alignment-based methods aim to minimize divergence between source domains for learning domain-invariant representations.
 
-* Domain-invariant Feature Exploration for Domain Generalization \[[TMLR 2022](https://arxiv.org/pdf/2207.12020)] \[[Code](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,348 | 🐛 24 | 🌐 Python | 📅 2025-02-18] (**DIFEX**) \[209]
+* Domain-invariant Feature Exploration for Domain Generalization \[[TMLR 2022](https://arxiv.org/pdf/2207.12020)] \[[Code](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,347 | 🐛 24 | 🌐 Python | 📅 2025-02-18] (**DIFEX**) \[209]
 * Single-Side Domain Generalization for Face Anti-Spoofing \[[CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jia_Single-Side_Domain_Generalization_for_Face_Anti-Spoofing_CVPR_2020_paper.pdf)] \[[Code](https://github.com/taylover-pei/SSDG-CVPR2020) ⭐ 244 | 🐛 16 | 🌐 Python | 📅 2020-05-09] (**SSDG**) \[79]
 * Domain Generalization using Causal Matching \[[ICML 2021](http://proceedings.mlr.press/v139/mahajan21b/mahajan21b.pdf)] \[[Code](https://github.com/microsoft/robustdg) ⚠️ Archived] (**MatchDG**) \[73]
 * Domain Generalization via Model-Agnostic Learning of Semantic Features \[[NeurIPS 2019](https://proceedings.neurips.cc/paper/2019/file/2974788b53f73e7950e8aa49f3a306db-Paper.pdf)] \[[Code](https://github.com/biomedia-mira/masf) ⭐ 151 | 🐛 5 | 🌐 Python | 📅 2023-03-24] (**MASF**) \[18]
@@ -551,7 +551,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > We list the GitHub libraries of domain generalization (sorted by stars).
 
-* [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,348 | 🐛 24 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
+* [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,347 | 🐛 24 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
 * [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,934 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
 * [DomainBed (facebookresearch)](https://github.com/facebookresearch/DomainBed) ⚠️ Archived \[134] is a suite to test domain generalization algorithms.
 * [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,429 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
@@ -562,9 +562,9 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 # Other Resources
 
-* A collection of domain generalization papers organized by [jindongwang](https://github.com/jindongwang/transferlearning/blob/master/doc/awesome_paper.md#domain-generalization) ⭐ 14,348 | 🐛 24 | 🌐 Python | 📅 2025-02-18.
+* A collection of domain generalization papers organized by [jindongwang](https://github.com/jindongwang/transferlearning/blob/master/doc/awesome_paper.md#domain-generalization) ⭐ 14,347 | 🐛 24 | 🌐 Python | 📅 2025-02-18.
 * A collection of papers on domain generalization, domain adaptation, causality, robustness, prompt, optimization, generative model, etc, organized by [yfzhang114](https://github.com/yfzhang114/Generalization-Causality) ⭐ 1,243 | 🐛 0 | 📅 2023-12-14.
-* A collection of domain generalization papers organized by  [amber0309](https://github.com/amber0309/Domain-generalization) ⭐ 847 | 🐛 2 | 📅 2025-02-25.
+* A collection of domain generalization papers organized by  [amber0309](https://github.com/amber0309/Domain-generalization) ⭐ 844 | 🐛 2 | 📅 2025-02-25.
 * Adaptation and Generalization Across Domains in Visual Recognition with Deep Neural Networks \[[PhD 2020, Kaiyang Zhou (University of Surrey)](https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Adaptation-and-Generalization-Across-Domains-in/99513024202346)] \[164]
 
 # Contributing & Contact
@@ -589,4 +589,4 @@ The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
