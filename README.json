@@ -199,7 +199,7 @@
                 "open_issues": 2,
                 "owner": "facebookresearch",
                 "repo": "InvariantRiskMinimization",
-                "stars": 437,
+                "stars": 436,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
@@ -315,7 +315,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14347,
+                    "stars": 14348,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -2477,7 +2477,7 @@
                     "open_issues": 2,
                     "owner": "facebookresearch",
                     "repo": "InvariantRiskMinimization",
-                    "stars": 437,
+                    "stars": 436,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3132,7 +3132,7 @@
                     "open_issues": 2,
                     "owner": "facebookresearch",
                     "repo": "InvariantRiskMinimization",
-                    "stars": 437,
+                    "stars": 436,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -4174,7 +4174,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14347,
+            "stars": 14348,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4308,7 +4308,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14347,
+            "stars": 14348,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:19:38.813Z",
+    "last_updated": "2026-09-07T18:50:38.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
