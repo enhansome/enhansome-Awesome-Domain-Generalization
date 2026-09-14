@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "hendrycks",
                 "repo": "imagenet-r",
-                "stars": 285,
+                "stars": 286,
                 "topics": [
                   "domain-adaptation",
                   "domain-generalization",
@@ -814,7 +814,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 334,
+                    "stars": 335,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -843,7 +843,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 334,
+                    "stars": 335,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -2582,7 +2582,7 @@
                     "open_issues": 5,
                     "owner": "YugeTen",
                     "repo": "fish",
-                    "stars": 127,
+                    "stars": 128,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3809,7 +3809,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4907,
+                    "stars": 4908,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -3874,7 +3874,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 334,
+                    "stars": 335,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -4216,7 +4216,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3936,
+            "stars": 3937,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:36:43.123Z",
+    "last_updated": "2026-09-14T19:34:26.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
