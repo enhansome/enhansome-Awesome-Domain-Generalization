@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,011 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,298 | 🐛 106 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -552,7 +552,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > We list the GitHub libraries of domain generalization (sorted by stars).
 
 * [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,353 | 🐛 24 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
-* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,937 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
+* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,938 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
 * [DomainBed (facebookresearch)](https://github.com/facebookresearch/DomainBed) ⚠️ Archived \[134] is a suite to test domain generalization algorithms.
 * [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,429 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
 
@@ -583,10 +583,10 @@ Thank you for your cooperation and contributions!
 
 # Acknowledgements
 
-The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation#unsupervised-da) ⭐ 5,456 | 🐛 1 | 📅 2025-12-08.
+The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation#unsupervised-da) ⭐ 5,455 | 🐛 1 | 📅 2025-12-08.
 
 * We refer to \[3] to design the [Contents](#contents) and the table of [Datasets](#datasets).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

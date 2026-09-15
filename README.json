@@ -4216,7 +4216,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3937,
+            "stars": 3938,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:34:26.339Z",
+    "last_updated": "2026-09-15T18:26:43.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
@@ -4401,7 +4401,7 @@
       "open_issues": 0,
       "owner": "junkunyuan",
       "repo": "Awesome-Domain-Generalization",
-      "stars": 539,
+      "stars": 538,
       "topics": [
         "awesome",
         "awesome-list",
