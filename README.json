@@ -315,7 +315,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14353,
+                    "stars": 14355,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -2498,7 +2498,7 @@
                     "open_issues": 3,
                     "owner": "kohpangwei",
                     "repo": "group_DRO",
-                    "stars": 297,
+                    "stars": 298,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -4174,7 +4174,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14353,
+            "stars": 14355,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4308,7 +4308,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14353,
+            "stars": 14355,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4350,7 +4350,7 @@
             "open_issues": 0,
             "owner": "yfzhang114",
             "repo": "Generalization-Causality",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "adaptation",
               "causality",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:26:43.347Z",
+    "last_updated": "2026-09-16T18:23:37.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
