@@ -315,7 +315,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14357,
+                    "stars": 14358,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -814,7 +814,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 335,
+                    "stars": 336,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -843,7 +843,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 335,
+                    "stars": 336,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -3809,7 +3809,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4911,
+                    "stars": 4910,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -3874,7 +3874,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 335,
+                    "stars": 336,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -4174,7 +4174,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14357,
+            "stars": 14358,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4308,7 +4308,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14357,
+            "stars": 14358,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:50:53.945Z",
+    "last_updated": "2026-09-19T17:24:52.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
