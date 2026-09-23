@@ -315,7 +315,7 @@
                     "open_issues": 24,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14359,
+                    "stars": 14360,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -1659,7 +1659,7 @@
                     "open_issues": 6,
                     "owner": "HAHA-DL",
                     "repo": "Episodic-DG",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3642,7 +3642,7 @@
                 "open_issues": 6,
                 "owner": "HAHA-DL",
                 "repo": "Episodic-DG",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
@@ -4174,7 +4174,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14359,
+            "stars": 14360,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4308,7 +4308,7 @@
             "open_issues": 24,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14359,
+            "stars": 14360,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:15:03.611Z",
+    "last_updated": "2026-09-23T18:35:50.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
@@ -4401,7 +4401,7 @@
       "open_issues": 0,
       "owner": "junkunyuan",
       "repo": "Awesome-Domain-Generalization",
-      "stars": 538,
+      "stars": 539,
       "topics": [
         "awesome",
         "awesome-list",
