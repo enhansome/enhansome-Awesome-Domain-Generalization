@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,351 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,858 | 🐛 106 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -450,7 +450,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ### Person Re-Identification
 
-* Learning Generalisable Omni-Scale Representations for Person Re-Identification \[[TPAMI 2021](https://arxiv.org/pdf/1910.06827)] \[[Code](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,913 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[114]
+* Learning Generalisable Omni-Scale Representations for Person Re-Identification \[[TPAMI 2021](https://arxiv.org/pdf/1910.06827)] \[[Code](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,914 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[114]
 * Deep Domain-Adversarial Image Generation for Domain Generalisation \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/download/7003/6857)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,429 | 🐛 29 | 🌐 Python | 📅 2023-11-03]
 * Domain Generalization with Mixstyle \[[ICLR 2021](https://arxiv.53yu.com/pdf/2104.02008)] \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 336 | 🐛 10 | 🌐 Python | 📅 2022-10-06] (**MixStyle**) \[56]
 * TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0f49c89d1e7298bb9930789c8ed59d48-Paper.pdf)] \[[Code](https://github.com/ShengcaiLiao/QAConv) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-07-09] (**TransMatcher**) \[208]
@@ -552,7 +552,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > We list the GitHub libraries of domain generalization (sorted by stars).
 
 * [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,360 | 🐛 24 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
-* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,938 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
+* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,939 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
 * [DomainBed (facebookresearch)](https://github.com/facebookresearch/DomainBed) ⚠️ Archived \[134] is a suite to test domain generalization algorithms.
 * [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,429 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
 
@@ -583,10 +583,10 @@ Thank you for your cooperation and contributions!
 
 # Acknowledgements
 
-The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation#unsupervised-da) ⭐ 5,455 | 🐛 1 | 📅 2025-12-08.
+The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation#unsupervised-da) ⭐ 5,456 | 🐛 1 | 📅 2025-12-08.
 
 * We refer to \[3] to design the [Contents](#contents) and the table of [Datasets](#datasets).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
