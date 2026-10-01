@@ -312,10 +312,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-02-18T22:06:58Z",
-                    "open_issues": 24,
+                    "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14355,
+                    "stars": 14356,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3153,7 +3153,7 @@
                     "open_issues": 17,
                     "owner": "xxgege",
                     "repo": "StableNet",
-                    "stars": 198,
+                    "stars": 199,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3328,7 +3328,7 @@
                     "open_issues": 5,
                     "owner": "matsuolab",
                     "repo": "T3A",
-                    "stars": 108,
+                    "stars": 109,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3809,7 +3809,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4918,
+                    "stars": 4919,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -4171,10 +4171,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-02-18T22:06:58Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14355,
+            "stars": 14356,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4305,10 +4305,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-02-18T22:06:58Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14355,
+            "stars": 14356,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:36:04.419Z",
+    "last_updated": "2026-10-01T19:46:40.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
