@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,207 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,669 | 🐛 106 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -310,7 +310,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * Learning Explanations that are Hard to Vary \[[ICLR 2021](https://arxiv.org/pdf/2009.00329)] \[[Code\*](https://github.com/facebookresearch/DomainBed) ⚠️ Archived] (**ANDMask**) \[221]
 * Gradient Starvation: A Learning Proclivity in Neural Networks \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0987b8b338d6c90bbedd8631bc499221-Paper.pdf)] \[[Code\*](https://github.com/facebookresearch/DomainBed) ⚠️ Archived] (**SD**) \[225]
 * Invariant Risk Minimization \[[arXiv 2019](https://arxiv.53yu.com/pdf/1907.02893.pdf;)] \[[Code](https://github.com/facebookresearch/InvariantRiskMinimization) ⚠️ Archived] (**IRM**, **Colored MNIST dataset**) \[165]
-* Distributionally Robust Neural Networks for Group Shifts On the Importance of Regularization for Worst-Case Generalization \[[ICLR 2020](https://arxiv.org/pdf/1911.08731)] \[[Code](https://github.com/kohpangwei/group_DRO) ⭐ 298 | 🐛 3 | 🌐 Python | 📅 2023-01-03] (**DroupDRO**) \[218]
+* Distributionally Robust Neural Networks for Group Shifts On the Importance of Regularization for Worst-Case Generalization \[[ICLR 2020](https://arxiv.org/pdf/1911.08731)] \[[Code](https://github.com/kohpangwei/group_DRO) ⭐ 299 | 🐛 3 | 🌐 Python | 📅 2023-01-03] (**DroupDRO**) \[218]
 * A Fourier-Based Framework for Domain Generalization \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_A_Fourier-Based_Framework_for_Domain_Generalization_CVPR_2021_paper.pdf)] \[[Code](https://github.com/MediaBrain-SJTU/FACT) ⭐ 188 | 🐛 5 | 🌐 Python | 📅 2021-07-01] (**FACT**) \[160]
 * Swad: Domain Generalization by Seeking Flat Minima \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/bcb41ccdc4363c6848a1d760f26c28a0-Paper.pdf)] \[[Code](https://github.com/khanrc/swad) ⭐ 174 | 🐛 1 | 🌐 Python | 📅 2022-12-10] (**SWAD**) \[201]
 * Self-challenging Improves Cross-Domain Generalization \[[ECCV 2020](https://arxiv.53yu.com/pdf/2007.02454)] \[[Code](https://github.com/DeLightCMU/RSC) ⭐ 166 | 🐛 6 | 🌐 Python | 📅 2021-03-18] (**RSC**) \[64]
@@ -589,4 +589,4 @@ The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

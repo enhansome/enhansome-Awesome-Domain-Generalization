@@ -2498,7 +2498,7 @@
                     "open_issues": 3,
                     "owner": "kohpangwei",
                     "repo": "group_DRO",
-                    "stars": 298,
+                    "stars": 299,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:46:40.854Z",
+    "last_updated": "2026-10-02T19:29:22.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
