@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,669 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,794 | 🐛 106 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -552,7 +552,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > We list the GitHub libraries of domain generalization (sorted by stars).
 
 * [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,356 | 🐛 23 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
-* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,940 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
+* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,939 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
 * [DomainBed (facebookresearch)](https://github.com/facebookresearch/DomainBed) ⚠️ Archived \[134] is a suite to test domain generalization algorithms.
 * [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,430 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
 
@@ -589,4 +589,4 @@ The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

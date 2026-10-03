@@ -3829,7 +3829,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep Domain-Adversarial Image Generation for Domain Generalisation [AAAI 2020",
-                  "description": "] [Code]",
+                  "description": "KaiyangZhou/Dassl.pytorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4216,7 +4216,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3940,
+            "stars": 3939,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4295,7 +4295,7 @@
         {
           "node_type": "item",
           "title": "A collection of domain generalization papers organized by jindongwang",
-          "description": ".",
+          "description": "jindongwang/transferlearning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4337,7 +4337,7 @@
         {
           "node_type": "item",
           "title": "A collection of papers on domain generalization, domain adaptation, causality, robustness, prompt, optimization, generative model, etc, organized by yfzhang114",
-          "description": ".",
+          "description": "yfzhang114/Generalization-Causality",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4366,7 +4366,7 @@
         {
           "node_type": "item",
           "title": "A collection of domain generalization papers organized by amber0309",
-          "description": ".",
+          "description": "amber0309/Domain-generalization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:29:22.070Z",
+    "last_updated": "2026-10-03T04:27:53.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
