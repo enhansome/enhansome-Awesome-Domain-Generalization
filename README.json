@@ -315,7 +315,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14359,
+                    "stars": 14360,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -677,27 +677,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Collaborative Semantic Aggregation and Calibration for Separated Domain Generalization [arXiv 2021",
-                  "description": "] [Code] (CSAC) [161]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[TKDE 2023] Implementation for \"Collaborative Semantic Aggregation and Calibration for Separated Domain Generalization\".",
-                    "homepage": null,
-                    "id": 445065362,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2023-05-12T13:57:04Z",
-                    "open_issues": 0,
-                    "owner": "junkunyuan",
-                    "repo": "CSAC",
-                    "stars": 6,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:39:41.415Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Correlation-aware Adversarial Domain Adaptation and Generalization [PR 2020",
                   "description": "] [Code] (CAADA) [80]",
                   "children": [],
@@ -712,6 +691,27 @@
                     "open_issues": 1,
                     "owner": "mahfujur1",
                     "repo": "CA-DA-DG",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Collaborative Semantic Aggregation and Calibration for Separated Domain Generalization [arXiv 2021",
+                  "description": "] [Code] (CSAC) [161]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[TKDE 2023] Implementation for \"Collaborative Semantic Aggregation and Calibration for Separated Domain Generalization\".",
+                    "homepage": null,
+                    "id": 445065362,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2023-05-12T13:57:04Z",
+                    "open_issues": 0,
+                    "owner": "junkunyuan",
+                    "repo": "CSAC",
                     "stars": 5,
                     "topics": []
                   },
@@ -1447,7 +1447,7 @@
                     "open_issues": 0,
                     "owner": "junkunyuan",
                     "repo": "CEG",
-                    "stars": 5,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3201,7 +3201,7 @@
                     "open_issues": 1,
                     "owner": "changliu00",
                     "repo": "causal-semantic-generative-model",
-                    "stars": 76,
+                    "stars": 77,
                     "topics": [
                       "causal-models",
                       "generative-model",
@@ -3549,7 +3549,7 @@
                 "open_issues": 0,
                 "owner": "junkunyuan",
                 "repo": "DSBF",
-                "stars": 12,
+                "stars": 11,
                 "topics": [
                   "domain-generalization"
                 ]
@@ -3593,7 +3593,7 @@
                 "open_issues": 0,
                 "owner": "junkunyuan",
                 "repo": "CEG",
-                "stars": 5,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3779,7 +3779,7 @@
                 "open_issues": 0,
                 "owner": "junkunyuan",
                 "repo": "CSAC",
-                "stars": 6,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3809,7 +3809,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4919,
+                    "stars": 4921,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -4137,7 +4137,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1176,
+            "stars": 1177,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4174,7 +4174,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14359,
+            "stars": 14360,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4308,7 +4308,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14359,
+            "stars": 14360,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:47:31.185Z",
+    "last_updated": "2026-10-07T20:07:18.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
@@ -4401,7 +4401,7 @@
       "open_issues": 0,
       "owner": "junkunyuan",
       "repo": "Awesome-Domain-Generalization",
-      "stars": 539,
+      "stars": 538,
       "topics": [
         "awesome",
         "awesome-list",
