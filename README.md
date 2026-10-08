@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,029 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,278 | 🐛 106 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -104,7 +104,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > Domain alignment-based methods aim to minimize divergence between source domains for learning domain-invariant representations.
 
-* Domain-invariant Feature Exploration for Domain Generalization \[[TMLR 2022](https://arxiv.org/pdf/2207.12020)] \[[Code](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,360 | 🐛 23 | 🌐 Python | 📅 2025-02-18] (**DIFEX**) \[209]
+* Domain-invariant Feature Exploration for Domain Generalization \[[TMLR 2022](https://arxiv.org/pdf/2207.12020)] \[[Code](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,361 | 🐛 23 | 🌐 Python | 📅 2025-02-18] (**DIFEX**) \[209]
 * Single-Side Domain Generalization for Face Anti-Spoofing \[[CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jia_Single-Side_Domain_Generalization_for_Face_Anti-Spoofing_CVPR_2020_paper.pdf)] \[[Code](https://github.com/taylover-pei/SSDG-CVPR2020) ⭐ 245 | 🐛 16 | 🌐 Python | 📅 2020-05-09] (**SSDG**) \[79]
 * Domain Generalization using Causal Matching \[[ICML 2021](http://proceedings.mlr.press/v139/mahajan21b/mahajan21b.pdf)] \[[Code](https://github.com/microsoft/robustdg) ⚠️ Archived] (**MatchDG**) \[73]
 * Domain Generalization via Model-Agnostic Learning of Semantic Features \[[NeurIPS 2019](https://proceedings.neurips.cc/paper/2019/file/2974788b53f73e7950e8aa49f3a306db-Paper.pdf)] \[[Code](https://github.com/biomedia-mira/masf) ⭐ 151 | 🐛 5 | 🌐 Python | 📅 2023-03-24] (**MASF**) \[18]
@@ -368,7 +368,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * Domain Generalization using Causal Matching \[[ICML 2021](http://proceedings.mlr.press/v139/mahajan21b/mahajan21b.pdf)] \[[Code](https://github.com/microsoft/robustdg) ⚠️ Archived] (**MatchDG**) \[73]
 * Learning Causal Semantic Representation for Out-of-Distribution Prediction \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/310614fca8fb8e5491295336298c340f-Paper.pdf)] \[[Code](https://github.com/changliu00/causal-semantic-generative-model) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2022-04-18] (**CSG-ind**) \[145]
 * Invariance Principle Meets Information Bottleneck for Out-Of-Distribution Generalization \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/1c336b8080f82bcc2cd2499b4c57261d-Paper.pdf)] \[[Code](https://github.com/ahujak/IB-IRM) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-10-13] (**IB-ERM**, **IB-IRM**) \[207]
-* Causal Inference via Style Transfer for Out-of-distribution Generalisation \[[KDD 2023](https://arxiv.org/abs/2212.03063)] \[[Code](https://github.com/nktoan/Causal-Inference-via-Style-Transfer-for-OOD-Generalisation) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-02-29] (**FAST, FAFT, FAGT**) \[233]
+* Causal Inference via Style Transfer for Out-of-distribution Generalisation \[[KDD 2023](https://arxiv.org/abs/2212.03063)] \[[Code](https://github.com/nktoan/Causal-Inference-via-Style-Transfer-for-OOD-Generalisation) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2024-02-29] (**FAST, FAFT, FAGT**) \[233]
 * Recovering Latent Causal Factor for Generalization to Distributional Shifts \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/8c6744c9d42ec2cb9e8885b54ff744d0-Paper.pdf)] \[[Code](https://github.com/wubotong/LaCIM) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2021-10-24] (**LaCIM**) \[152]
 * Invariant Information Bottleneck for Domain Generalization \[[AAAI 2022](https://arxiv.org/pdf/2106.06333)] \[[Code](https://github.com/Luodian/IIB/tree/IIB) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2022-01-30] (**IIB**) \[140]
 * Learning Domain-Invariant Relationship with Instrumental Variable for Domain Generalization \[[arXiv 2021](https://arxiv.org/pdf/2110.01438)] (**IV-DG**) \[163]
@@ -450,7 +450,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ### Person Re-Identification
 
-* Learning Generalisable Omni-Scale Representations for Person Re-Identification \[[TPAMI 2021](https://arxiv.org/pdf/1910.06827)] \[[Code](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,921 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[114]
+* Learning Generalisable Omni-Scale Representations for Person Re-Identification \[[TPAMI 2021](https://arxiv.org/pdf/1910.06827)] \[[Code](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,922 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[114]
 * Deep Domain-Adversarial Image Generation for Domain Generalisation \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/download/7003/6857)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,430 | 🐛 29 | 🌐 Python | 📅 2023-11-03]
 * Domain Generalization with Mixstyle \[[ICLR 2021](https://arxiv.53yu.com/pdf/2104.02008)] \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 336 | 🐛 10 | 🌐 Python | 📅 2022-10-06] (**MixStyle**) \[56]
 * TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0f49c89d1e7298bb9930789c8ed59d48-Paper.pdf)] \[[Code](https://github.com/ShengcaiLiao/QAConv) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-07-09] (**TransMatcher**) \[208]
@@ -551,8 +551,8 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > We list the GitHub libraries of domain generalization (sorted by stars).
 
-* [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,360 | 🐛 23 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
-* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,939 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
+* [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,361 | 🐛 23 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
+* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,940 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
 * [DomainBed (facebookresearch)](https://github.com/facebookresearch/DomainBed) ⚠️ Archived \[134] is a suite to test domain generalization algorithms.
 * [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,430 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
 
@@ -562,7 +562,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 # Other Resources
 
-* A collection of domain generalization papers organized by [jindongwang](https://github.com/jindongwang/transferlearning/blob/master/doc/awesome_paper.md#domain-generalization) ⭐ 14,360 | 🐛 23 | 🌐 Python | 📅 2025-02-18.
+* A collection of domain generalization papers organized by [jindongwang](https://github.com/jindongwang/transferlearning/blob/master/doc/awesome_paper.md#domain-generalization) ⭐ 14,361 | 🐛 23 | 🌐 Python | 📅 2025-02-18.
 * A collection of papers on domain generalization, domain adaptation, causality, robustness, prompt, optimization, generative model, etc, organized by [yfzhang114](https://github.com/yfzhang114/Generalization-Causality) ⭐ 1,245 | 🐛 0 | 📅 2023-12-14.
 * A collection of domain generalization papers organized by  [amber0309](https://github.com/amber0309/Domain-generalization) ⭐ 844 | 🐛 2 | 📅 2025-02-25.
 * Adaptation and Generalization Across Domains in Visual Recognition with Deep Neural Networks \[[PhD 2020, Kaiyang Zhou (University of Surrey)](https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Adaptation-and-Generalization-Across-Domains-in/99513024202346)] \[164]
@@ -583,10 +583,10 @@ Thank you for your cooperation and contributions!
 
 # Acknowledgements
 
-The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation#unsupervised-da) ⭐ 5,458 | 🐛 1 | 📅 2025-12-08.
+The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation#unsupervised-da) ⭐ 5,456 | 🐛 1 | 📅 2025-12-08.
 
 * We refer to \[3] to design the [Contents](#contents) and the table of [Datasets](#datasets).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

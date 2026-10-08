@@ -315,7 +315,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14360,
+                    "stars": 14361,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -3248,7 +3248,7 @@
                     "open_issues": 0,
                     "owner": "nktoan",
                     "repo": "Causal-Inference-via-Style-Transfer-for-OOD-Generalisation",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": [
                       "ai",
                       "causal-inference",
@@ -3809,7 +3809,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4921,
+                    "stars": 4922,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -4174,7 +4174,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14360,
+            "stars": 14361,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4216,7 +4216,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3939,
+            "stars": 3940,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4308,7 +4308,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14360,
+            "stars": 14361,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:07:18.412Z",
+    "last_updated": "2026-10-08T20:04:44.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
