@@ -167,7 +167,7 @@
                 "open_issues": 29,
                 "owner": "KaiyangZhou",
                 "repo": "Dassl.pytorch",
-                "stars": 1430,
+                "stars": 1432,
                 "topics": [
                   "artificial-intelligence",
                   "benchmark-datasets",
@@ -315,7 +315,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14361,
+                    "stars": 14362,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -782,7 +782,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1430,
+                    "stars": 1432,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -1876,7 +1876,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1430,
+                    "stars": 1432,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -3809,7 +3809,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4922,
+                    "stars": 4925,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -3842,7 +3842,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1430,
+                    "stars": 1432,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -4137,7 +4137,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1177,
+            "stars": 1178,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4174,7 +4174,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14361,
+            "stars": 14362,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4270,7 +4270,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1430,
+            "stars": 1432,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -4308,7 +4308,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14361,
+            "stars": 14362,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4350,7 +4350,7 @@
             "open_issues": 0,
             "owner": "yfzhang114",
             "repo": "Generalization-Causality",
-            "stars": 1245,
+            "stars": 1246,
             "topics": [
               "adaptation",
               "causality",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:04:44.614Z",
+    "last_updated": "2026-10-09T19:41:45.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
