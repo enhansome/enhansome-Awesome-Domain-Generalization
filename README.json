@@ -167,7 +167,7 @@
                 "open_issues": 29,
                 "owner": "KaiyangZhou",
                 "repo": "Dassl.pytorch",
-                "stars": 1432,
+                "stars": 1431,
                 "topics": [
                   "artificial-intelligence",
                   "benchmark-datasets",
@@ -782,7 +782,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1432,
+                    "stars": 1431,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -814,7 +814,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 336,
+                    "stars": 337,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -843,7 +843,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 336,
+                    "stars": 337,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -1876,7 +1876,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1432,
+                    "stars": 1431,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -2498,7 +2498,7 @@
                     "open_issues": 3,
                     "owner": "kohpangwei",
                     "repo": "group_DRO",
-                    "stars": 299,
+                    "stars": 300,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3809,7 +3809,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4926,
+                    "stars": 4925,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -3842,7 +3842,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1432,
+                    "stars": 1431,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -3874,7 +3874,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 336,
+                    "stars": 337,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -4270,7 +4270,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1432,
+            "stars": 1431,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:09:05.939Z",
+    "last_updated": "2026-10-12T22:13:19.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
@@ -4401,7 +4401,7 @@
       "open_issues": 0,
       "owner": "junkunyuan",
       "repo": "Awesome-Domain-Generalization",
-      "stars": 538,
+      "stars": 539,
       "topics": [
         "awesome",
         "awesome-list",
