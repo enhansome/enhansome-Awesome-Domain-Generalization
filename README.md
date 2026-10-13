@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,140 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,601 | 🐛 105 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -104,7 +104,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > Domain alignment-based methods aim to minimize divergence between source domains for learning domain-invariant representations.
 
-* Domain-invariant Feature Exploration for Domain Generalization \[[TMLR 2022](https://arxiv.org/pdf/2207.12020)] \[[Code](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,363 | 🐛 23 | 🌐 Python | 📅 2025-02-18] (**DIFEX**) \[209]
+* Domain-invariant Feature Exploration for Domain Generalization \[[TMLR 2022](https://arxiv.org/pdf/2207.12020)] \[[Code](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,365 | 🐛 23 | 🌐 Python | 📅 2025-02-18] (**DIFEX**) \[209]
 * Single-Side Domain Generalization for Face Anti-Spoofing \[[CVPR 2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jia_Single-Side_Domain_Generalization_for_Face_Anti-Spoofing_CVPR_2020_paper.pdf)] \[[Code](https://github.com/taylover-pei/SSDG-CVPR2020) ⭐ 245 | 🐛 16 | 🌐 Python | 📅 2020-05-09] (**SSDG**) \[79]
 * Domain Generalization using Causal Matching \[[ICML 2021](http://proceedings.mlr.press/v139/mahajan21b/mahajan21b.pdf)] \[[Code](https://github.com/microsoft/robustdg) ⚠️ Archived] (**MatchDG**) \[73]
 * Domain Generalization via Model-Agnostic Learning of Semantic Features \[[NeurIPS 2019](https://proceedings.neurips.cc/paper/2019/file/2974788b53f73e7950e8aa49f3a306db-Paper.pdf)] \[[Code](https://github.com/biomedia-mira/masf) ⭐ 151 | 🐛 5 | 🌐 Python | 📅 2023-03-24] (**MASF**) \[18]
@@ -204,7 +204,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * Domain Generalization via Model-Agnostic Learning of Semantic Features \[[NeurIPS 2019](https://proceedings.neurips.cc/paper/2019/file/2974788b53f73e7950e8aa49f3a306db-Paper.pdf)] \[[Code](https://github.com/biomedia-mira/masf) ⭐ 151 | 🐛 5 | 🌐 Python | 📅 2023-03-24] (**MASF**) \[18]
 * Shape-Aware Meta-Learning for Generalizing Prostate MRI Segmentation to Unseen Domains \[[MICCAI 2020](https://arxiv.org/pdf/2007.02035)] \[[Code](https://github.com/liuquande/SAML) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2020-08-05] (**SAML**) \[17]
 * Meta Batch-Instance Normalization for Generalizable Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Meta_Batch-Instance_Normalization_for_Generalizable_Person_Re-Identification_CVPR_2021_paper.pdf)] \[[Code](https://github.com/bismex/MetaBIN) ⭐ 71 | 🐛 8 | 🌐 Python | 📅 2021-11-10] (**MetaBIN**) \[13]
-* Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_to_Generalize_Unseen_Domains_via_Memory-based_Multi-Source_Meta-Learning_for_CVPR_2021_paper.pdf)] \[[Code](https://github.com/HeliosZhao/M3L) ⭐ 66 | 🐛 3 | 🌐 Python | 📅 2021-06-23] (**M3L**) \[12]
+* Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_to_Generalize_Unseen_Domains_via_Memory-based_Multi-Source_Meta-Learning_for_CVPR_2021_paper.pdf)] \[[Code](https://github.com/HeliosZhao/M3L) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2021-06-23] (**M3L**) \[12]
 * Episodic Training for Domain Generalization \[[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Episodic_Training_for_Domain_Generalization_ICCV_2019_paper.pdf)] \[[Code](https://github.com/HAHA-DL/Episodic-DG) ⭐ 58 | 🐛 6 | 🌐 Python | 📅 2023-07-06] (**Epi-FCR**) \[7]
 * Feature-Critic Networks for Heterogeneous Domain Generalisation \[[ICML 2019](http://proceedings.mlr.press/v97/li19l/li19l.pdf)] \[[Code](https://github.com/liyiying/Feature_Critic) ⭐ 55 | 🐛 9 | 🌐 Python | 📅 2019-05-14] (**Feature-Critic**) \[5]
 * Open Domain Generalization with Domain-Augmented Meta-Learning \[[CVPR 2021](http://openaccess.thecvf.com/content/CVPR2021/papers/Shu_Open_Domain_Generalization_with_Domain-Augmented_Meta-Learning_CVPR_2021_paper.pdf)] \[[Code](https://github.com/thuml/OpenDG-DAML) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2021-08-22] (**DAML**) \[119]
@@ -310,7 +310,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * Learning Explanations that are Hard to Vary \[[ICLR 2021](https://arxiv.org/pdf/2009.00329)] \[[Code\*](https://github.com/facebookresearch/DomainBed) ⚠️ Archived] (**ANDMask**) \[221]
 * Gradient Starvation: A Learning Proclivity in Neural Networks \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0987b8b338d6c90bbedd8631bc499221-Paper.pdf)] \[[Code\*](https://github.com/facebookresearch/DomainBed) ⚠️ Archived] (**SD**) \[225]
 * Invariant Risk Minimization \[[arXiv 2019](https://arxiv.53yu.com/pdf/1907.02893.pdf;)] \[[Code](https://github.com/facebookresearch/InvariantRiskMinimization) ⚠️ Archived] (**IRM**, **Colored MNIST dataset**) \[165]
-* Distributionally Robust Neural Networks for Group Shifts On the Importance of Regularization for Worst-Case Generalization \[[ICLR 2020](https://arxiv.org/pdf/1911.08731)] \[[Code](https://github.com/kohpangwei/group_DRO) ⭐ 300 | 🐛 3 | 🌐 Python | 📅 2023-01-03] (**DroupDRO**) \[218]
+* Distributionally Robust Neural Networks for Group Shifts On the Importance of Regularization for Worst-Case Generalization \[[ICLR 2020](https://arxiv.org/pdf/1911.08731)] \[[Code](https://github.com/kohpangwei/group_DRO) ⭐ 301 | 🐛 3 | 🌐 Python | 📅 2023-01-03] (**DroupDRO**) \[218]
 * A Fourier-Based Framework for Domain Generalization \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_A_Fourier-Based_Framework_for_Domain_Generalization_CVPR_2021_paper.pdf)] \[[Code](https://github.com/MediaBrain-SJTU/FACT) ⭐ 188 | 🐛 5 | 🌐 Python | 📅 2021-07-01] (**FACT**) \[160]
 * Swad: Domain Generalization by Seeking Flat Minima \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/bcb41ccdc4363c6848a1d760f26c28a0-Paper.pdf)] \[[Code](https://github.com/khanrc/swad) ⭐ 174 | 🐛 1 | 🌐 Python | 📅 2022-12-10] (**SWAD**) \[201]
 * Self-challenging Improves Cross-Domain Generalization \[[ECCV 2020](https://arxiv.53yu.com/pdf/2007.02454)] \[[Code](https://github.com/DeLightCMU/RSC) ⭐ 166 | 🐛 6 | 🌐 Python | 📅 2021-03-18] (**RSC**) \[64]
@@ -341,7 +341,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * MetaNorm: Learning to Normalize Few-Shot Batches Across Domains \[[ICLR 2021](https://openreview.net/pdf?id=9z_dNsC4B5t)] \[[Code](https://github.com/YDU-AI/MetaNorm) ⭐ 7 | 🐛 2 | 📅 2021-03-21] (**MetaNorm**) \[19]
 * Batch Normalization Embeddings for Deep Domain Generalization \[[arXiv 2020](https://arxiv.53yu.com/pdf/2011.12672)] (**BNE**) \[96]
 * Learning to Optimize Domain Specific Normalization for Domain Generalization \[[ECCV 2020](https://arxiv.53yu.com/pdf/1907.04275)] (**DSON**) \[94]
-* * Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_to_Generalize_Unseen_Domains_via_Memory-based_Multi-Source_Meta-Learning_for_CVPR_2021_paper.pdf)] \[[Code](https://github.com/HeliosZhao/M3L) ⭐ 66 | 🐛 3 | 🌐 Python | 📅 2021-06-23] (**M3L**) \[12]
+* * Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_to_Generalize_Unseen_Domains_via_Memory-based_Multi-Source_Meta-Learning_for_CVPR_2021_paper.pdf)] \[[Code](https://github.com/HeliosZhao/M3L) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2021-06-23] (**M3L**) \[12]
 * Adversarially Adaptive Normalization for Single Domain Generalization \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Fan_Adversarially_Adaptive_Normalization_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)]  (**ASR**) \[116]
 * Collaborative Optimization and Aggregation for Decentralized Domain Generalization and Adaptation \[[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Collaborative_Optimization_and_Aggregation_for_Decentralized_Domain_Generalization_and_Adaptation_ICCV_2021_paper.pdf)] (**COPDA**) \[159]
 * Domain Generalization through Audio-Visual Relative Norm Alignment in First Person Action Recognition \[[WACV 2022](https://openaccess.thecvf.com/content/WACV2022/papers/Planamente_Domain_Generalization_Through_Audio-Visual_Relative_Norm_Alignment_in_First_Person_WACV_2022_paper.pdf)] (**RNA-Net**) \[186]
@@ -450,12 +450,12 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ### Person Re-Identification
 
-* Learning Generalisable Omni-Scale Representations for Person Re-Identification \[[TPAMI 2021](https://arxiv.org/pdf/1910.06827)] \[[Code](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,925 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[114]
+* Learning Generalisable Omni-Scale Representations for Person Re-Identification \[[TPAMI 2021](https://arxiv.org/pdf/1910.06827)] \[[Code](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,927 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[114]
 * Deep Domain-Adversarial Image Generation for Domain Generalisation \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/download/7003/6857)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,431 | 🐛 29 | 🌐 Python | 📅 2023-11-03]
 * Domain Generalization with Mixstyle \[[ICLR 2021](https://arxiv.53yu.com/pdf/2104.02008)] \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 337 | 🐛 10 | 🌐 Python | 📅 2022-10-06] (**MixStyle**) \[56]
 * TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0f49c89d1e7298bb9930789c8ed59d48-Paper.pdf)] \[[Code](https://github.com/ShengcaiLiao/QAConv) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-07-09] (**TransMatcher**) \[208]
 * Meta Batch-Instance Normalization for Generalizable Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Meta_Batch-Instance_Normalization_for_Generalizable_Person_Re-Identification_CVPR_2021_paper.pdf)] \[[Code](https://github.com/bismex/MetaBIN) ⭐ 71 | 🐛 8 | 🌐 Python | 📅 2021-11-10] (**MetaBIN**) \[13]
-* Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_to_Generalize_Unseen_Domains_via_Memory-based_Multi-Source_Meta-Learning_for_CVPR_2021_paper.pdf)] \[[Code](https://github.com/HeliosZhao/M3L) ⭐ 66 | 🐛 3 | 🌐 Python | 📅 2021-06-23] (**M3L**) \[12]
+* Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_to_Generalize_Unseen_Domains_via_Memory-based_Multi-Source_Meta-Learning_for_CVPR_2021_paper.pdf)] \[[Code](https://github.com/HeliosZhao/M3L) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2021-06-23] (**M3L**) \[12]
 * Learning to Generate Novel Domains for Domain Generalization \[[ECCV 2020](https://arxiv.org/pdf/2007.03304)] \[[Code](https://github.com/mousecpn/L2A-OT) ⭐ 22 | 🐛 7 | 🌐 Python | 📅 2021-10-10] (**L2A-OT**, **Digits-DG dataset**) \[28]
 * Multi-Domain Adversarial Feature Generalization for Person Re-Identification \[[TIP 2021](https://ieeexplore.ieee.org/iel7/83/9263394/09311771.pdf)] (**MMFA-AAE**) \[144]
 * Generalizable Person Re-identification with Relevance-aware Mixture of Experts \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Generalizable_Person_Re-Identification_With_Relevance-Aware_Mixture_of_Experts_CVPR_2021_paper.pdf)] (**RaMoE**) \[187]
@@ -551,7 +551,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > We list the GitHub libraries of domain generalization (sorted by stars).
 
-* [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,363 | 🐛 23 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
+* [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,365 | 🐛 23 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
 * [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,940 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
 * [DomainBed (facebookresearch)](https://github.com/facebookresearch/DomainBed) ⚠️ Archived \[134] is a suite to test domain generalization algorithms.
 * [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,431 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
@@ -562,7 +562,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 # Other Resources
 
-* A collection of domain generalization papers organized by [jindongwang](https://github.com/jindongwang/transferlearning/blob/master/doc/awesome_paper.md#domain-generalization) ⭐ 14,363 | 🐛 23 | 🌐 Python | 📅 2025-02-18.
+* A collection of domain generalization papers organized by [jindongwang](https://github.com/jindongwang/transferlearning/blob/master/doc/awesome_paper.md#domain-generalization) ⭐ 14,365 | 🐛 23 | 🌐 Python | 📅 2025-02-18.
 * A collection of papers on domain generalization, domain adaptation, causality, robustness, prompt, optimization, generative model, etc, organized by [yfzhang114](https://github.com/yfzhang114/Generalization-Causality) ⭐ 1,246 | 🐛 0 | 📅 2023-12-14.
 * A collection of domain generalization papers organized by  [amber0309](https://github.com/amber0309/Domain-generalization) ⭐ 845 | 🐛 2 | 📅 2025-02-25.
 * Adaptation and Generalization Across Domains in Visual Recognition with Deep Neural Networks \[[PhD 2020, Kaiyang Zhou (University of Surrey)](https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Adaptation-and-Generalization-Across-Domains-in/99513024202346)] \[164]
@@ -589,4 +589,4 @@ The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

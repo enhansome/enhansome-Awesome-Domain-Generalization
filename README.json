@@ -315,7 +315,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14363,
+                    "stars": 14365,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -1635,7 +1635,7 @@
                     "open_issues": 3,
                     "owner": "HeliosZhao",
                     "repo": "M3L",
-                    "stars": 66,
+                    "stars": 67,
                     "topics": [
                       "cvpr2021",
                       "personreid"
@@ -2498,7 +2498,7 @@
                     "open_issues": 3,
                     "owner": "kohpangwei",
                     "repo": "group_DRO",
-                    "stars": 300,
+                    "stars": 301,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -2966,7 +2966,7 @@
                         "open_issues": 3,
                         "owner": "HeliosZhao",
                         "repo": "M3L",
-                        "stars": 66,
+                        "stars": 67,
                         "topics": [
                           "cvpr2021",
                           "personreid"
@@ -3809,7 +3809,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4925,
+                    "stars": 4927,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -3979,7 +3979,7 @@
                     "open_issues": 3,
                     "owner": "HeliosZhao",
                     "repo": "M3L",
-                    "stars": 66,
+                    "stars": 67,
                     "topics": [
                       "cvpr2021",
                       "personreid"
@@ -4174,7 +4174,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14363,
+            "stars": 14365,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4308,7 +4308,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14363,
+            "stars": 14365,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:13:19.701Z",
+    "last_updated": "2026-10-13T20:19:59.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
