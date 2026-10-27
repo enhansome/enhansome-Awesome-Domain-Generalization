@@ -167,7 +167,7 @@
                 "open_issues": 29,
                 "owner": "KaiyangZhou",
                 "repo": "Dassl.pytorch",
-                "stars": 1431,
+                "stars": 1430,
                 "topics": [
                   "artificial-intelligence",
                   "benchmark-datasets",
@@ -315,7 +315,7 @@
                     "open_issues": 23,
                     "owner": "jindongwang",
                     "repo": "transferlearning",
-                    "stars": 14371,
+                    "stars": 14373,
                     "topics": [
                       "deep-learning",
                       "domain-adaptation",
@@ -782,7 +782,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1431,
+                    "stars": 1430,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -1876,7 +1876,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1431,
+                    "stars": 1430,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -2624,7 +2624,7 @@
                     "open_issues": 3,
                     "owner": "henrikmarklund",
                     "repo": "arm",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -3842,7 +3842,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1431,
+                    "stars": 1430,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -4174,7 +4174,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14371,
+            "stars": 14373,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4216,7 +4216,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3942,
+            "stars": 3941,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4270,7 +4270,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1431,
+            "stars": 1430,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -4308,7 +4308,7 @@
             "open_issues": 23,
             "owner": "jindongwang",
             "repo": "transferlearning",
-            "stars": 14371,
+            "stars": 14373,
             "topics": [
               "deep-learning",
               "domain-adaptation",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:06:59.411Z",
+    "last_updated": "2026-10-27T19:35:48.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
