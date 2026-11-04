@@ -814,7 +814,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 337,
+                    "stars": 336,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -843,7 +843,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 337,
+                    "stars": 336,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -3809,7 +3809,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4938,
+                    "stars": 4937,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -3874,7 +3874,7 @@
                     "open_issues": 10,
                     "owner": "KaiyangZhou",
                     "repo": "mixstyle-release",
-                    "stars": 337,
+                    "stars": 336,
                     "topics": [
                       "domain-generalization",
                       "feature-statistics",
@@ -4216,7 +4216,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3943,
+            "stars": 3945,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4389,7 +4389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:35:51.430Z",
+    "last_updated": "2026-11-04T20:54:35.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
@@ -4398,10 +4398,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-04-16T02:59:45Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "junkunyuan",
       "repo": "Awesome-Domain-Generalization",
-      "stars": 542,
+      "stars": 543,
       "topics": [
         "awesome",
         "awesome-list",
