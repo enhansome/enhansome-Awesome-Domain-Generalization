@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,906 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 531,689 | 🐛 103 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -58,7 +58,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > We list the papers that either provide inspiring theoretical analyses or conduct extensive empirical studies for domain generalization.
 
-* The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization \[[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Hendrycks_The_Many_Faces_of_Robustness_A_Critical_Analysis_of_Out-of-Distribution_ICCV_2021_paper.pdf)] \[[Code](https://github.com/hendrycks/imagenet-r) ⭐ 286 | 🐛 2 | 🌐 Python | 📅 2021-07-23] \[135]
+* The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization \[[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Hendrycks_The_Many_Faces_of_Robustness_A_Critical_Analysis_of_Out-of-Distribution_ICCV_2021_paper.pdf)] \[[Code](https://github.com/hendrycks/imagenet-r) ⭐ 287 | 🐛 2 | 🌐 Python | 📅 2021-07-23] \[135]
 * OoD-Bench: Quantifying and Understanding Two Dimensions of Out-of-Distribution Generalization \[[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_OoD-Bench_Quantifying_and_Understanding_Two_Dimensions_of_Out-of-Distribution_Generalization_CVPR_2022_paper.pdf)] \[[Code](https://github.com/ynysjtu/ood_bench) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2022-11-01] (**OoD-Bench**) \[214]
 * Crafting Distribution Shifts for Validation and Training in Single Source Domain Generalization \[[WACV 2025](https://arxiv.org/abs/2409.19774)] \[[Code](https://github.com/NikosEfth/crafting-shifts) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2025-08-31] \[232]
 * An Empirical Investigation of Domain Generalization with Empirical Risk Minimizers \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/ecf9902e0f61677c8de25ae60b654669-Paper.pdf)] \[[Code](https://github.com/facebookresearch/domainbed_measures) ⚠️ Archived] \[198]
@@ -72,7 +72,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ## Dataset
 
-* Domain Adaptive Ensemble Learning \[[TIP 2021](https://arxiv.53yu.com/pdf/2003.07325)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,430 | 🐛 29 | 🌐 Python | 📅 2023-11-03] (**mini-DomainNet dataset**) \[34]
+* Domain Adaptive Ensemble Learning \[[TIP 2021](https://arxiv.53yu.com/pdf/2003.07325)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,431 | 🐛 29 | 🌐 Python | 📅 2023-11-03] (**mini-DomainNet dataset**) \[34]
 * Invariant Risk Minimization \[[arXiv 2019](https://arxiv.53yu.com/pdf/1907.02893.pdf;)] \[[Code](https://github.com/facebookresearch/InvariantRiskMinimization) ⚠️ Archived] (**IRM**, **Colored MNIST dataset**) \[165]
 * MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts \[[ICLR 2022](https://arxiv.org/pdf/2202.06523)] \[[Code](https://github.com/Weixin-Liang/MetaShift) ⭐ 110 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-08-29] (**MetaShift dataset**) \[213]
 * Learning Robust Representations by Projecting Superficial Statistics Out \[[ICLR 2019](https://arxiv.53yu.com/pdf/1903.06256)] \[[Code](https://github.com/HaohanWang/HEX) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2021-04-07] (**HEX**, **ImageNet-Sketch dataset**) \[35]
@@ -150,7 +150,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > Data augmentation-based methods augment original data and train the model on the generated data to improve model robustness.
 
 * Improve Unsupervised Domain Adaptation with Mixup Training \[[arXiv 2020](https://arxiv.org/pdf/2001.00677)] \[[Code\*](https://github.com/facebookresearch/DomainBed) ⚠️ Archived] (**Mixup**) \[227]
-* Deep Domain-Adversarial Image Generation for Domain Generalisation \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/download/7003/6857)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,430 | 🐛 29 | 🌐 Python | 📅 2023-11-03] (**DDAIG**) \[55]
+* Deep Domain-Adversarial Image Generation for Domain Generalisation \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/download/7003/6857)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,431 | 🐛 29 | 🌐 Python | 📅 2023-11-03] (**DDAIG**) \[55]
 * MixStyle Neural Networks for Domain Generalization and Adaptation \[[arXiv 2021](https://arxiv.53yu.com/pdf/2107.02053)] \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 336 | 🐛 10 | 🌐 Python | 📅 2022-10-06] (**MixStyle**) \[58]
 * Domain Generalization with Mixstyle \[[ICLR 2021](https://arxiv.53yu.com/pdf/2104.02008)] \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 336 | 🐛 10 | 🌐 Python | 📅 2022-10-06] (**MixStyle**) \[56]
 * FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space \[[CVPR 2021](http://openaccess.thecvf.com/content/CVPR2021/papers/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf)] \[[Code](https://github.com/liuquande/FedDG-ELCFS) ⭐ 263 | 🐛 10 | 🌐 Python | 📅 2021-04-01] (**FedDG**) \[147]
@@ -228,7 +228,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > Ensemble learning-based methods mainly train a domain-specific model on each source domain, and then draw on collective wisdom to make accurate prediction.
 
-* Domain Adaptive Ensemble Learning \[[TIP 2021](https://arxiv.53yu.com/pdf/2003.07325)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,430 | 🐛 29 | 🌐 Python | 📅 2023-11-03] (**mini-DomainNet dataset**) \[34]
+* Domain Adaptive Ensemble Learning \[[TIP 2021](https://arxiv.53yu.com/pdf/2003.07325)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,431 | 🐛 29 | 🌐 Python | 📅 2023-11-03] (**mini-DomainNet dataset**) \[34]
 * TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0f49c89d1e7298bb9930789c8ed59d48-Paper.pdf)] \[[Code](https://github.com/ShengcaiLiao/QAConv) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-07-09] (**TransMatcher**) \[208]
 * MS-Net: Multi-Site Network for Improving Prostate Segmentation with Heterogeneous MRI Data \[[TMI 2020](https://arxiv.53yu.com/pdf/2002.03366)] \[[Code](https://github.com/liuquande/MS-Net) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2020-07-01] (**MS-Net**) \[95]
 * Robust Place Categorization with Deep Domain Generalization \[[IEEE Robotics and Automation Letters 2018](https://arxiv.53yu.com/pdf/1805.12048)] \[[Code](https://github.com/mancinimassimiliano/caffe) ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2018-06-02] (**COLD**) \[97]
@@ -450,8 +450,8 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 ### Person Re-Identification
 
-* Learning Generalisable Omni-Scale Representations for Person Re-Identification \[[TPAMI 2021](https://arxiv.org/pdf/1910.06827)] \[[Code](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,937 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[114]
-* Deep Domain-Adversarial Image Generation for Domain Generalisation \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/download/7003/6857)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,430 | 🐛 29 | 🌐 Python | 📅 2023-11-03]
+* Learning Generalisable Omni-Scale Representations for Person Re-Identification \[[TPAMI 2021](https://arxiv.org/pdf/1910.06827)] \[[Code](https://github.com/KaiyangZhou/deep-person-reid) ⭐ 4,938 | 🐛 164 | 🌐 Python | 📅 2026-01-09] \[114]
+* Deep Domain-Adversarial Image Generation for Domain Generalisation \[[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/download/7003/6857)] \[[Code](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,431 | 🐛 29 | 🌐 Python | 📅 2023-11-03]
 * Domain Generalization with Mixstyle \[[ICLR 2021](https://arxiv.53yu.com/pdf/2104.02008)] \[[Code](https://github.com/KaiyangZhou/mixstyle-release) ⭐ 336 | 🐛 10 | 🌐 Python | 📅 2022-10-06] (**MixStyle**) \[56]
 * TransMatcher: Deep Image Matching Through Transformers for Generalizable Person Re-identification \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/0f49c89d1e7298bb9930789c8ed59d48-Paper.pdf)] \[[Code](https://github.com/ShengcaiLiao/QAConv) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-07-09] (**TransMatcher**) \[208]
 * Meta Batch-Instance Normalization for Generalizable Person Re-Identification \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Meta_Batch-Instance_Normalization_for_Generalizable_Person_Re-Identification_CVPR_2021_paper.pdf)] \[[Code](https://github.com/bismex/MetaBIN) ⭐ 71 | 🐛 8 | 🌐 Python | 📅 2021-11-10] (**MetaBIN**) \[13]
@@ -554,7 +554,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 * [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,382 | 🐛 23 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
 * [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,945 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
 * [DomainBed (facebookresearch)](https://github.com/facebookresearch/DomainBed) ⚠️ Archived \[134] is a suite to test domain generalization algorithms.
-* [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,430 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
+* [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,431 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
 
 # Lectures & Tutorials & Talks
 
@@ -589,4 +589,4 @@ The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
