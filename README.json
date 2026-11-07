@@ -3314,6 +3314,36 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation [NeurIPS 2024",
+                  "description": "] [Code] (AWT) [235]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[NeurIPS 2024] AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation",
+                    "homepage": "https://arxiv.org/abs/2407.04603",
+                    "id": 867706336,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2024-10-05T12:09:00Z",
+                    "open_issues": 2,
+                    "owner": "MCG-NJU",
+                    "repo": "AWT",
+                    "stars": 121,
+                    "topics": [
+                      "clip",
+                      "computer-vision",
+                      "open-set-recognition",
+                      "siglip",
+                      "transfer-learning",
+                      "video-understanding",
+                      "vlms",
+                      "zero-shot-learning"
+                    ]
+                  },
+                  "first_seen": "2026-11-07T19:01:11.972Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization [NeurIPS 2021",
                   "description": "] [Code] (T3A) [136]",
                   "children": [],
@@ -4216,7 +4246,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3945,
+            "stars": 3946,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4389,7 +4419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:31:54.381Z",
+    "last_updated": "2026-11-07T19:01:11.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
@@ -4397,7 +4427,7 @@
       "id": 456522005,
       "language": null,
       "license": null,
-      "last_commit": "2025-04-16T02:59:45Z",
+      "last_commit": "2026-11-07T17:58:44Z",
       "open_issues": 1,
       "owner": "junkunyuan",
       "repo": "Awesome-Domain-Generalization",
@@ -4412,7 +4442,7 @@
         "papers"
       ]
     },
-    "original_repository_sha": "0dc60d7b82e30078480baa627647a616a9a3dd86",
+    "original_repository_sha": "94677b663f674fd92eca0fa65b4adcbb0038e472",
     "enhanced_repository": "enhansome/enhansome-Awesome-Domain-Generalization",
     "enhanced_repository_description": null,
     "title": "Awesome Domain Generalization with stars"

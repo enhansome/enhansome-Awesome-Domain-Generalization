@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,369 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,081 | 🐛 103 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -257,27 +257,50 @@ If you would like to contribute to our repository or have any questions/advice, 
 > Self-supervised learning-based methods improve model generalization by solving some pretext tasks with data itself.
 
 * FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space \[[CVPR 2021](http://openaccess.thecvf.com/content/CVPR2021/papers/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf)] \[[Code](https://github.com/liuquande/FedDG-ELCFS) ⭐ 263 | 🐛 10 | 🌐 Python | 📅 2021-04-01] (**FedDG**) \[147]
+
 * Domain Generalization by Solving Jigsaw Puzzles \[[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Carlucci_Domain_Generalization_by_Solving_Jigsaw_Puzzles_CVPR_2019_paper.pdf)] \[[Code](https://github.com/fmcarlucci/JigenDG) ⭐ 250 | 🐛 26 | 🌐 Python | 📅 2022-12-08] (**JiGen**) \[98]
+
 * Learning from Extrinsic and Intrinsic Supervisions for Domain Generalization \[[ECCV 2020](https://arxiv.53yu.com/pdf/2007.09316)] \[[Code](https://github.com/emma-sjwang/EISNet) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2022-06-22] (**EISNet**) \[99]
+
 * Progressive Domain Expansion Network for Single Domain Generalization \[[CVPR 2021](http://openaccess.thecvf.com/content/CVPR2021/papers/Li_Progressive_Domain_Expansion_Network_for_Single_Domain_Generalization_CVPR_2021_paper.pdf)] \[[Code](https://github.com/lileicv/PDEN) ⭐ 42 | 🐛 5 | 🌐 Python | 📅 2021-06-12] (**PDEN**) \[141]
+
 * Unsupervised Domain Generalization by Learning a Bridge Across Domains \[[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Harary_Unsupervised_Domain_Generalization_by_Learning_a_Bridge_Across_Domains_CVPR_2022_paper.pdf)] \[[Code](https://github.com/leokarlin/BrAD) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2023-01-04] (**BrAD**) \[182]
+
 * Domain Generalization for Mammography Detection via Multi-style and Multi-view Contrastive Learning \[[MICCAI 2021](https://arxiv.org/pdf/2111.10827)] \[[Code](https://github.com/lizheren/MSVCL_MICCAI2021) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2021-09-22] (**MSVCL**) \[172]
+
 * Zero Shot Domain Generalization \[[BMVC 2020](https://arxiv.53yu.com/pdf/2008.07443)] \[[Code](https://github.com/aniketde/ZeroShotDG) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2020-11-10] \[100]
+
 * Self-Supervised Learning Across Domains \[[TPAMI 2021](https://arxiv.53yu.com/pdf/2007.12368)] \[[Code](https://github.com/silvia1993/Self-Supervised_Learning_Across_Domains) ⭐ 6 | 🐛 1 | 📅 2020-06-04] \[101]
+
 * Domain Generalization for Object Recognition with Multi-Task Autoencoders \[[ICCV 2015](http://openaccess.thecvf.com/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf)] \[[Code](https://github.com/Emma0118/mate) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2020-01-30] (**MTAE**, **Rotated MNIST dataset**) \[6]
+
 * Improving Out-Of-Distribution Generalization via Multi-Task Self-Supervised Pretraining \[[arXiv 2020](https://arxiv.53yu.com/pdf/2003.13525)] \[102]
+
 * Generalized Convolutional Forest Networks for Domain Generalization and Visual Recognition \[[ICLR 2020](https://openreview.net/pdf?id=H1lxVyStPH)] (**GCFN**) \[126]
+
 * Out-of-domain Generalization from a Single Source: A Uncertainty Quantification Approach \[[arXiv 2021](https://arxiv.53yu.com/pdf/2108.02888)] \[151]
+
 * Multi-Domain Adversarial Feature Generalization for Person Re-Identification \[[TIP 2021](https://ieeexplore.ieee.org/iel7/83/9263394/09311771.pdf)] (**MMFA-AAE**) \[144]
+
 * Scale Invariant Domain Generalization Image Recapture Detection \[[ICONIP 2021](https://arxiv.org/pdf/2110.03496)] (**SADG**) \[177]
+
 * Domain Generalisation with Domain Augmented Supervised Contrastive Learning \[[AAAI Student Abstract 2021](https://www.aaai.org/AAAI21Papers/SA-197.LeHS.pdf)]
+
 * Boosting the Generalization Capability in Cross-Domain Few-shot Learning via Noise-enhanced Supervised Autoencoder \[[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Liang_Boosting_the_Generalization_Capability_in_Cross-Domain_Few-Shot_Learning_via_Noise-Enhanced_ICCV_2021_paper.pdf)] (**NSAE**) \[194]
+
 * A Style and Semantic Memory Mechanism for Domain Generalization \[[ICCV 2021](http://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_Style_and_Semantic_Memory_Mechanism_for_Domain_Generalization_ICCV_2021_paper.pdf)] (**STEAM**) \[130]
+
 * SelfReg: Self-Supervised Contrastive Regularization for Domain Generalization \[[ICCV 2021](http://openaccess.thecvf.com/content/ICCV2021/papers/Kim_SelfReg_Self-Supervised_Contrastive_Regularization_for_Domain_Generalization_ICCV_2021_paper.pdf)] (**SelfReg**) \[138]
+
 * Feature Stylization and Domain-aware Contrastive Learning for Domain Generalization \[[MM 2021](https://dl.acm.org/doi/pdf/10.1145/3474085.3475271)] \[137]
+
 * Adversarial Teacher-Student Representation Learning for Domain Generalization \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/a2137a2ae8e39b5002a3f8909ecb88fe-Paper.pdf)]
+
 * Domain Generalization via Contrastive Causal Learning \[[arXiv 2022](https://arxiv.org/abs/2210.02655)] (**CCM**) \[212]
+
 * Towards Unsupervised Domain Generalization \[[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Towards_Unsupervised_Domain_Generalization_CVPR_2022_paper.pdf)] (**DARLING**) \[69]
+
+* Efficient Test-Time Prompt Tuning for Vision-Language Models \[[IJCV 2026](https://link.springer.com/article/10.1007/s11263-026-03019-3)] (**Self-TPT**) \[236]
 
 ### Disentangled Representation Learning-Based Methods
 
@@ -381,8 +404,12 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > Inference-time-based methods leverage the unlabeled target data, which is available at inference-time, to improve generalization performance without further model training.
 
+* AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation \[[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html)] \[[Code](https://github.com/MCG-NJU/AWT) ⭐ 121 | 🐛 2 | 🌐 Python | 📅 2024-10-05] (**AWT**) \[235]
+
 * Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization \[[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/1415fe9fea0fa1e45dddcff5682239a0-Paper.pdf)] \[[Code](https://github.com/matsuolab/T3A) ⭐ 109 | 🐛 5 | 🌐 Python | 📅 2021-12-02] (**T3A**) \[136]
+
 * Adaptive Methods for Real-World Domain Generalization \[[CVPR 2021](http://openaccess.thecvf.com/content/CVPR2021/papers/Dubey_Adaptive_Methods_for_Real-World_Domain_Generalization_CVPR_2021_paper.pdf)] \[[Code](https://github.com/abhimanyudubey/GeoYFCC) ⭐ 16 | 🐛 2 | 📅 2023-08-17] (**DA-ERM**) \[132]
+
 * Generalization on Unseen Domains via Inference-Time Label-Preserving Target Projections \[[CVPR 2021](http://openaccess.thecvf.com/content/CVPR2021/papers/Pandey_Generalization_on_Unseen_Domains_via_Inference-Time_Label-Preserving_Target_Projections_CVPR_2021_paper.pdf)] \[[Code](https://github.com/yys-Polaris/InferenceTimeDG) ⭐ 9 | 🐛 0 | 📅 2021-06-13] \[118]
 
 ### Neural Architecture Search-based Methods
@@ -488,7 +515,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 | 2021           | **ICLR:** \[19], \[56], \[59], \[134], \[175], \[196]; **ICLR:** \[139], \[171], \[221]; **CVPR:** \[12], \[13], \[115], \[116], \[117], \[118], \[119], \[132], \[141], \[147], \[153], \[160], \[168], \[187], \[193]; IJCAI: \[155], \[195], \[230]; **ICML:** \[73], \[190], \[217]; **ICCV:** \[129], \[130], \[133], \[135], \[138], \[142], \[143], \[148], \[149], \[150], \[158], \[159], \[194]; **MM:**  \[131], \[137], \[146], \[157]; **NeurIPS:** \[136], \[145], \[152], \[154], \[198], \[199], \[200], \[201], \[202], \[203], \[204], \[205], \[206], \[207], \[208], \[228], \[225] |
 | 2022           | **AAAI:** \[140]; **ICLR:** \[213], \[224]; **CVPR:** \[69], \[182], \[214]; **ICML**: \[173]; **MM:** \[211]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 2023           | **WACV:** \[215]; **ICLR:** \[223]; **ICCV:** \[231]; **KDD:** \[233]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 2024           | **WACV:** \[234]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 2024           | **WACV:** \[234]; **NeurIPS:** \[235]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 2025           | **WACV:** \[232]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 | Top Journal | Papers                                                                               |
@@ -497,6 +524,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 | 2017        | **TPAMI:** \[67]; **TIP:** \[91]                                                     |
 | 2021        | **TIP:** \[34], \[144]; **TPAMI:**  \[101], \[114], \[191], \[197]; **JMLR:** \[188] |
 | 2022        | **TMLR:** \[209], \[210]; **IJCV:** \[162]                                           |
+| 2026        | **IJCV:** \[236]                                                                     |
 
 | arXiv       | Papers                                                                                                                     |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -552,7 +580,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 > We list the GitHub libraries of domain generalization (sorted by stars).
 
 * [DeepDG (jindongwang)](https://github.com/jindongwang/transferlearning/tree/master/code/DeepDG) ⭐ 14,384 | 🐛 23 | 🌐 Python | 📅 2025-02-18: Deep Domain Generalization Toolkit.
-* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,945 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
+* [Transfer Learning Library (thuml)](https://github.com/thuml/Transfer-Learning-Library) ⭐ 3,946 | 🐛 19 | 🌐 Python | 📅 2024-05-10 for Domain Adaptation, Task Adaptation, and Domain Generalization.
 * [DomainBed (facebookresearch)](https://github.com/facebookresearch/DomainBed) ⚠️ Archived \[134] is a suite to test domain generalization algorithms.
 * [Dassl (KaiyangZhou)](https://github.com/KaiyangZhou/Dassl.pytorch) ⭐ 1,431 | 🐛 29 | 🌐 Python | 📅 2023-11-03: A PyTorch toolbox for domain adaptation, semi-supervised learning, and domain generalization.
 
@@ -573,7 +601,7 @@ Feel free to contribute to our repository.
 
 * If you would like to *correct mistakes*, please do it directly;
 * If you would like to *add/update papers*, please finish the following tasks (if necessary):
-  1. Find the max index (current max: **\[234]**, not used: none), and create a new one.
+  1. Find the max index (current max: **\[236]**, not used: none), and create a new one.
   2. Update [Publications](#publications).
   3. Update [Papers](#papers).
   4. Update [Datasets](#datasets).
@@ -583,10 +611,10 @@ Thank you for your cooperation and contributions!
 
 # Acknowledgements
 
-The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation#unsupervised-da) ⭐ 5,463 | 🐛 1 | 📅 2025-12-08.
+The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation#unsupervised-da) ⭐ 5,463 | 🐛 2 | 📅 2025-12-08.
 
 * We refer to \[3] to design the [Contents](#contents) and the table of [Datasets](#datasets).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
