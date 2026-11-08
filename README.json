@@ -3839,7 +3839,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4939,
+                    "stars": 4941,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -4419,7 +4419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:01:11.972Z",
+    "last_updated": "2026-11-08T19:03:52.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
@@ -4431,7 +4431,7 @@
       "open_issues": 1,
       "owner": "junkunyuan",
       "repo": "Awesome-Domain-Generalization",
-      "stars": 543,
+      "stars": 544,
       "topics": [
         "awesome",
         "awesome-list",
