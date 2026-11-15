@@ -3839,7 +3839,7 @@
                     "open_issues": 164,
                     "owner": "KaiyangZhou",
                     "repo": "deep-person-reid",
-                    "stars": 4945,
+                    "stars": 4946,
                     "topics": [
                       "computer-vision",
                       "cross-domain",
@@ -4246,7 +4246,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3948,
+            "stars": 3950,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4419,7 +4419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:26:54.968Z",
+    "last_updated": "2026-11-15T19:55:45.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
