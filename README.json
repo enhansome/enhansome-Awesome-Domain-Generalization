@@ -167,7 +167,7 @@
                 "open_issues": 29,
                 "owner": "KaiyangZhou",
                 "repo": "Dassl.pytorch",
-                "stars": 1428,
+                "stars": 1427,
                 "topics": [
                   "artificial-intelligence",
                   "benchmark-datasets",
@@ -500,27 +500,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization [NeurIPS 2020",
-                  "description": "] [Code] (LDDG) [75]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[NIPS 2020] The code release of paper 'Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization' ",
-                    "homepage": null,
-                    "id": 298736759,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2020-11-04T05:24:37Z",
-                    "open_issues": 6,
-                    "owner": "wyf0912",
-                    "repo": "LDDG",
-                    "stars": 66,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:39:41.415Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Domain Generalization via Entropy Regularization [NeurIPS 2020",
                   "description": "] [Code] [86]",
                   "children": [],
@@ -536,6 +515,27 @@
                     "owner": "sshan-zhao",
                     "repo": "DG_via_ER",
                     "stars": 66,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:39:41.415Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization [NeurIPS 2020",
+                  "description": "] [Code] (LDDG) [75]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[NIPS 2020] The code release of paper 'Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization' ",
+                    "homepage": null,
+                    "id": 298736759,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2020-11-04T05:24:37Z",
+                    "open_issues": 6,
+                    "owner": "wyf0912",
+                    "repo": "LDDG",
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:39:41.415Z"
@@ -782,7 +782,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428,
+                    "stars": 1427,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -1876,7 +1876,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428,
+                    "stars": 1427,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -3872,7 +3872,7 @@
                     "open_issues": 29,
                     "owner": "KaiyangZhou",
                     "repo": "Dassl.pytorch",
-                    "stars": 1428,
+                    "stars": 1427,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark-datasets",
@@ -4167,7 +4167,7 @@
             "open_issues": 12,
             "owner": "hendrycks",
             "repo": "robustness",
-            "stars": 1176,
+            "stars": 1175,
             "topics": [
               "computer-vision",
               "convolutional-neural-networks",
@@ -4246,7 +4246,7 @@
             "open_issues": 19,
             "owner": "thuml",
             "repo": "Transfer-Learning-Library",
-            "stars": 3950,
+            "stars": 3951,
             "topics": [
               "adversarial-learning",
               "dann",
@@ -4300,7 +4300,7 @@
             "open_issues": 29,
             "owner": "KaiyangZhou",
             "repo": "Dassl.pytorch",
-            "stars": 1428,
+            "stars": 1427,
             "topics": [
               "artificial-intelligence",
               "benchmark-datasets",
@@ -4380,7 +4380,7 @@
             "open_issues": 0,
             "owner": "yfzhang114",
             "repo": "Generalization-Causality",
-            "stars": 1246,
+            "stars": 1245,
             "topics": [
               "adaptation",
               "causality",
@@ -4419,7 +4419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:48:58.653Z",
+    "last_updated": "2026-11-24T01:52:12.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things about domain generalization, including papers, code, etc.",
