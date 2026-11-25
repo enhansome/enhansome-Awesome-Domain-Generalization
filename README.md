@@ -1,6 +1,6 @@
 # Awesome Domain Generalization with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,318 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 542,810 | 🐛 103 | 📅 2026-09-02
 
 This repository is a collection of awesome things about **domain generalization**, including papers, code, etc.
 
@@ -306,7 +306,7 @@ If you would like to contribute to our repository or have any questions/advice, 
 
 > Disentangled representation learning-based methods aim to disentangle domain-specific and domain-invariant parts from source data, and then adopt the domain-invariant one for inference on the target domains.
 
-* Robustnet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_RobustNet_Improving_Domain_Generalization_in_Urban-Scene_Segmentation_via_Instance_Selective_CVPR_2021_paper.pdf)] \[[Code](https://github.com/shachoi/RobustNet) ⭐ 225 | 🐛 7 | 🌐 Python | 📅 2022-06-15] (**RobustNet**) \[193]
+* Robustnet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_RobustNet_Improving_Domain_Generalization_in_Urban-Scene_Segmentation_via_Instance_Selective_CVPR_2021_paper.pdf)] \[[Code](https://github.com/shachoi/RobustNet) ⭐ 226 | 🐛 7 | 🌐 Python | 📅 2022-06-15] (**RobustNet**) \[193]
 * DIVA: Domain Invariant Variational Autoencoders \[[ICML workshop 2019](http://proceedings.mlr.press/v121/ilse20a/ilse20a.pdf)] \[[Code](https://github.com/AMLab-Amsterdam/DIVA) ⭐ 106 | 🐛 5 | 🌐 Python | 📅 2019-11-22] (**DIVA**) \[107]
 * Reducing Domain Gap by Reducing Style Bias \[[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Nam_Reducing_Domain_Gap_by_Reducing_Style_Bias_CVPR_2021_paper.pdf)] \[[Code](https://github.com/hyeonseobnam/sagnet) ⭐ 103 | 🐛 7 | 🌐 Python | 📅 2021-08-01] (**SagNet**)  \[230]
 * Towards Principled Disentanglement for Domain Generalization \[[arXiv 2021](https://arxiv.org/pdf/2111.13839)] \[[Code](https://github.com/hlzhang109/DDG) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2022-12-30] (**DDG**) \[170]
@@ -617,4 +617,4 @@ The designed hierarchy of the [Contents](#contents) is mainly based on [awesome-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
